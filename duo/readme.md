@@ -68,3 +68,23 @@ Ex:
 > I speak English.
 
 > I **do not** speak English.
+
+---
+
+## Unit Two
+
+### **Sons em inglês**
+
+A pronúncia em inglês pode parecer um pouco desafiadora no começo, mas muitos sons em inglês são similares aos sons que já existem em português!
+
+> **W**ater, sand**w**ich, **w**here
+
+Parecidos com **u** em português(como em **u**au!) mas mais suave.
+
+> **H**otel, **h**ospital, **h**ello
+
+Similar ao **r** do português (como em **R**io) mas mais suave.
+
+> **R**estaurant, he**r**e, so**rr**y
+
+O **r** do inglês soa diferente do **r** em português porque não é formado na garganta, mas no fundo da boca. Note cainda que **r** e **rr** têm exatamente o mesmo som em ingês.
