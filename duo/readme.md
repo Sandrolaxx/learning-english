@@ -88,3 +88,19 @@ Similar ao **r** do português (como em **R**io) mas mais suave.
 > **R**estaurant, he**r**e, so**rr**y
 
 O **r** do inglês soa diferente do **r** em português porque não é formado na garganta, mas no fundo da boca. Note cainda que **r** e **rr** têm exatamente o mesmo som em ingês.
+
+---
+
+## Unit Three
+
+### **How are you**
+
+Para perguntar **Como você está?** ou **Como vai você?** em inglês, diga **How are you?**
+
+> Hello, how are you?
+---
+> I'm good, thanks!
+
+Outra palavra que você vai ouvir bastante ao visitar novos lugares é **welcome**, que significa **bem-vindo** ou **bem-vinda**.
+
+> Welcome!
