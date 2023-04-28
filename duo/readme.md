@@ -71,6 +71,33 @@ Ex:
 
 ---
 
+Unit important expressions:
+
+Faça o pedido de um café
+
+```
+Tea or coffe?
+                    Tea, please.
+With milk.
+--------------------------------------------------------------------
+Thank you!
+                    You're welcome.
+Goodbye!
+```
+
+Apresente-se
+
+```
+Good morning, Anna!
+What's your name?
+                        My name is Luiz.
+I am from Brazil.
+How are you?
+Nice to meet you, Fernanda.
+```
+
+---
+
 ## Unit Two
 
 ### **Sons em inglês**
@@ -91,6 +118,24 @@ O **r** do inglês soa diferente do **r** em português porque não é formado n
 
 ---
 
+Unit important expressions:
+
+Converse sobre viagem
+
+```
+I have a ticket and a passport.
+--------------------------------------------------------------------
+Wheres is the train?
+--------------------------------------------------------------------
+I need help, please.
+--------------------------------------------------------------------
+I have a reservation.
+--------------------------------------------------------------------
+The passport is in the hotel.
+```
+
+---
+
 ## Unit Three
 
 ### **How are you**
@@ -98,9 +143,81 @@ O **r** do inglês soa diferente do **r** em português porque não é formado n
 Para perguntar **Como você está?** ou **Como vai você?** em inglês, diga **How are you?**
 
 > Hello, how are you?
+
 ---
+
 > I'm good, thanks!
 
 Outra palavra que você vai ouvir bastante ao visitar novos lugares é **welcome**, que significa **bem-vindo** ou **bem-vinda**.
 
 > Welcome!
+
+---
+
+Unit important expressions:
+
+Converse sobre viagem
+
+```
+A table for two.
+--------------------------------------------------------------------
+I need a menu, please.
+--------------------------------------------------------------------
+Soup or rice?
+                        Rice, please.
+--------------------------------------------------------------------
+Excuse me, I need the check.
+```
+
+Compartilhe contato
+
+```
+What is your last name?
+                                My last name is Sandrolaxx.
+--------------------------------------------------------------------
+This is my friend Maria.
+--------------------------------------------------------------------
+I speak Portuguese and English.
+--------------------------------------------------------------------
+Your English is good!
+--------------------------------------------------------------------
+See you later, Maria!
+```
+
+---
+
+## Unit Four
+
+### **You, you and you**
+
+Em português, nós usamos **tu**, **você** e **vocês**, mas em inglês, para todas essas palavras você só precisar usar o **you**.
+
+Da mesma forma, para **eles** ou **elas**, você só precisa usar **they**.
+
+| Sujeito              | verbo(to have)        |
+| -------------------- | --------------------- |
+| I(eu)                | have(tenho)           |
+| you(tu, você, vocês) | have(tens, tem, têm ) |
+| he/she(ele, ela)     | has(tem)              |
+| they(eles, elas)     | have(têm)             |
+
+Note que os verbos em inglês mudam dependendo da pessoa, mas não tanto como em português.
+
+---
+
+Unit important expressions:
+
+Fale da sua família
+
+```
+My family is small.
+--------------------------------------------------------------------
+I live with my parents and my brother.
+--------------------------------------------------------------------
+He has a cat and I have a dog.
+--------------------------------------------------------------------
+You have three brothers, right?
+--------------------------------------------------------------------
+I have four sisters.
+--------------------------------------------------------------------
+```
