@@ -8,7 +8,7 @@ Em português, nós dizemos eu falo, você fala, nós falamos, etc., mas em ingl
 
 Uma exceção é o verbo `to be`, que significa tanto **ser** como **estar**.
 
-| Sujeito   | verbo(to be)           |
+| Sujeito   | Verbo(to be)           |
 | --------- | ---------------------- |
 | I(eu)     | am(sou/estou)          |
 | You(você) | are(és/estás - é/está) |
@@ -194,7 +194,7 @@ Em português, nós usamos **tu**, **você** e **vocês**, mas em inglês, para 
 
 Da mesma forma, para **eles** ou **elas**, você só precisa usar **they**.
 
-| Sujeito              | verbo(to have)        |
+| Sujeito              | Verbo(to have)        |
 | -------------------- | --------------------- |
 | I(eu)                | have(tenho)           |
 | you(tu, você, vocês) | have(tens, tem, têm ) |
@@ -221,3 +221,36 @@ You have three brothers, right?
 I have four sisters.
 --------------------------------------------------------------------
 ```
+
+---
+
+## Unit Five
+
+### **Vamos falar sobre o verbo presente**
+
+O verbo **be** significa **ser** ou **estar**.
+
+| Sujeito   | Verbo(be) |
+|     --    |     --    |
+| I         | **am**    |
+| you       | **are**   |
+| he / she  | **is**    |
+
+Para fazer perguntas com **be**, é só mudar a order das palavras. Porém, sempre mantenha *I*, *you* ou *she* na frase!
+
+> *You* **are** a teacher.
+
+> **Are** *you*  a teacher?
+
+Já os outros verbos não mudam tanto quanto o **be**: apenas a forma para *he* e *she* é diferente.
+
+| Sujeito   | Verbo(have) |
+|     --    |      --     |
+| I         | **have**    |
+| you       | **have**    |
+| he / she  | **has**     |
+
+
+---
+
+## Unit Six
