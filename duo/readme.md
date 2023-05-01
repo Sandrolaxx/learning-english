@@ -71,7 +71,7 @@ Ex:
 
 ---
 
-Unit important expressions: Faça o pedido de um café
+Unit important expressions: <ins>Faça o pedido de um café</ins>
 
 ```
 Tea or coffe?
@@ -87,10 +87,14 @@ Apresente-se
 
 ```
 Good morning, Anna!
+--------------------------------------------------------------------
 What's your name?
                         My name is Sandrolaxx.
+--------------------------------------------------------------------
 I am from Brazil.
+--------------------------------------------------------------------
 How are you?
+--------------------------------------------------------------------
 Nice to meet you, Fernanda.
 ```
 
@@ -116,7 +120,7 @@ O **r** do inglês soa diferente do **r** em português porque não é formado n
 
 ---
 
-Unit important expressions: Converse sobre viagem
+Unit important expressions: <ins>Converse sobre viagem</ins>
 
 ```
 I have a ticket and a passport.
@@ -150,7 +154,7 @@ Outra palavra que você vai ouvir bastante ao visitar novos lugares é **welcome
 
 ---
 
-Unit important expressions: Converse sobre viagem
+Unit important expressions: <ins>Converse sobre viagem</ins>
 
 ```
 A table for two.
@@ -199,7 +203,7 @@ Note que os verbos em inglês mudam dependendo da pessoa, mas não tanto como em
 
 ---
 
-Unit important expressions: Fale da sua família
+Unit important expressions: <ins>Fale da sua família</ins>
 
 ```
 My family is small.
@@ -245,7 +249,7 @@ Já os outros verbos não mudam tanto quanto o **be**: apenas a forma para _he_ 
 
 ## Unit Six
 
-Unit important expressions: Converse sobre trabalho
+Unit important expressions: <ins>Converse sobre trabalho</ins>
 
 ```
 Anna is a software developer.
@@ -273,7 +277,7 @@ Lembre‑se que **to be** é especial! Ele tem muitas formas diferentes.
 
 ## Unit Seven
 
-Unit important expressions: Descreva roupas
+Unit important expressions: <ins>Descreva roupas</ins>
 
 ```
 I want two blue shirts.
@@ -308,7 +312,7 @@ A propósito, note que mesmo quando falamos sobre uma ou muitas coisas, o adjeti
 
 ## Unit Eight
 
-Converse sobre hábitos
+Unit important expressions: <ins>Converse sobre hábitos</ins>
 
 ```
 I drink coffee without sugar in the morning.
@@ -335,7 +339,7 @@ Lembre‑se que palavras como **I**, **you**, **he** e **she** nunca podem ser o
 
 ## Unit Nine
 
-Exponha preferências
+Unit important expressions: <ins>Exponha preferências</ins>
 
 ```
 What is your favorite book?
@@ -361,7 +365,7 @@ Do you play the guitar, David?
 
 ## Unit Ten
 
-Cumprimente pessoas
+Unit important expressions: <ins>Cumprimente pessoas</ins>
 
 ```
 Good afternoon, Melon Musk!
