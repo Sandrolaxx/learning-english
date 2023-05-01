@@ -17,7 +17,7 @@ Uma exceção é o verbo `to be`, que significa tanto **ser** como **estar**.
 
 Mesmo que, em português, possamos dizer tanto "**Eu sou menino**" como apenas "**Sou um menino**", em inglês, palavras como **eu** e **você** são sempre necessárias.
 
-Exemples:
+Ex:
 
 > **I** am a boy. **You** are a gril.
 
@@ -25,9 +25,9 @@ Exemples:
 
 ### **Ah, não!**
 
-Para dizer **eu** `não` **sou** ou **você** `não` **é** em inglês, adicione `not` depois do berbo.
+Para dizer **eu** `não` **sou** ou **você** `não` **é** em inglês, adicione `not` depois do verbo.
 
-Exemples:
+Ex:
 
 > You are Sandrolax
 
@@ -71,9 +71,7 @@ Ex:
 
 ---
 
-Unit important expressions:
-
-Faça o pedido de um café
+Unit important expressions: Faça o pedido de um café
 
 ```
 Tea or coffe?
@@ -90,7 +88,7 @@ Apresente-se
 ```
 Good morning, Anna!
 What's your name?
-                        My name is Luiz.
+                        My name is Sandrolaxx.
 I am from Brazil.
 How are you?
 Nice to meet you, Fernanda.
@@ -118,9 +116,7 @@ O **r** do inglês soa diferente do **r** em português porque não é formado n
 
 ---
 
-Unit important expressions:
-
-Converse sobre viagem
+Unit important expressions: Converse sobre viagem
 
 ```
 I have a ticket and a passport.
@@ -154,9 +150,7 @@ Outra palavra que você vai ouvir bastante ao visitar novos lugares é **welcome
 
 ---
 
-Unit important expressions:
-
-Converse sobre viagem
+Unit important expressions: Converse sobre viagem
 
 ```
 A table for two.
@@ -173,7 +167,7 @@ Compartilhe contato
 
 ```
 What is your last name?
-                                My last name is Sandrolaxx.
+                                My last name is Ramos.
 --------------------------------------------------------------------
 This is my friend Maria.
 --------------------------------------------------------------------
@@ -205,9 +199,7 @@ Note que os verbos em inglês mudam dependendo da pessoa, mas não tanto como em
 
 ---
 
-Unit important expressions:
-
-Fale da sua família
+Unit important expressions: Fale da sua família
 
 ```
 My family is small.
@@ -219,7 +211,6 @@ He has a cat and I have a dog.
 You have three brothers, right?
 --------------------------------------------------------------------
 I have four sisters.
---------------------------------------------------------------------
 ```
 
 ---
@@ -254,12 +245,12 @@ Já os outros verbos não mudam tanto quanto o **be**: apenas a forma para _he_ 
 
 ## Unit Six
 
-Converse sobre trabalho
+Unit important expressions: Converse sobre trabalho
 
 ```
-Anna is a teacher.
+Anna is a software developer.
 --------------------------------------------------------------------
-Are you a doctor?
+Are you a DevOps?
 --------------------------------------------------------------------
 I work at an office in New York.
 --------------------------------------------------------------------
@@ -273,7 +264,7 @@ Lembre‑se que **to be** é especial! Ele tem muitas formas diferentes.
 | Sujeito         | Verbo(to be)           |
 | --------------- | ---------------------- |
 | I(eu)           | **am**(sou/estou)      |
-| you(tue/você)   | **are**(és/é/são)      |
+| you(tu/você)    | **are**(és/é/são)      |
 | he/she(ele/ela) | **is**(é/está)         |
 | we(nós)         | **are**(somos/estamos) |
 | they(eles/elas) | **are**(são/estão)     |
@@ -282,7 +273,7 @@ Lembre‑se que **to be** é especial! Ele tem muitas formas diferentes.
 
 ## Unit Seven
 
-Descreva roupas
+Unit important expressions: Descreva roupas
 
 ```
 I want two blue shirts.
@@ -320,13 +311,13 @@ A propósito, note que mesmo quando falamos sobre uma ou muitas coisas, o adjeti
 Converse sobre hábitos
 
 ```
-I drink coffee with sugar in the morning.
+I drink coffee without sugar in the morning.
 --------------------------------------------------------------------
 We see our friends every day.
 --------------------------------------------------------------------
 I play soccer in the afternoon.
 --------------------------------------------------------------------
-You work a lot, Luiz!
+You work a lot, Clebim!
 --------------------------------------------------------------------
 You study English, right?
                                 Yes, I study every day!
@@ -373,9 +364,9 @@ Do you play the guitar, David?
 Cumprimente pessoas
 
 ```
-Good afternoon, Laura!
+Good afternoon, Melon Musk!
 --------------------------------------------------------------------
-Mrs. Smith, this is my brother, David.
+Mrs. Smith, this is my brother, Emanuel Gomes.
 --------------------------------------------------------------------
 Welcome, Mrs. Lee!
 --------------------------------------------------------------------
