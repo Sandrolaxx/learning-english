@@ -230,27 +230,168 @@ I have four sisters.
 
 O verbo **be** significa **ser** ou **estar**.
 
-| Sujeito   | Verbo(be) |
-|     --    |     --    |
-| I         | **am**    |
-| you       | **are**   |
-| he / she  | **is**    |
+| Sujeito  | Verbo(be) |
+| -------- | --------- |
+| I        | **am**    |
+| you      | **are**   |
+| he / she | **is**    |
 
-Para fazer perguntas com **be**, é só mudar a order das palavras. Porém, sempre mantenha *I*, *you* ou *she* na frase!
+Para fazer perguntas com **be**, é só mudar a order das palavras. Porém, sempre mantenha _I_, _you_ ou _she_ na frase!
 
-> *You* **are** a teacher.
+> _You_ **are** a teacher.
 
-> **Are** *you*  a teacher?
+> **Are** _you_ a teacher?
 
-Já os outros verbos não mudam tanto quanto o **be**: apenas a forma para *he* e *she* é diferente.
+Já os outros verbos não mudam tanto quanto o **be**: apenas a forma para _he_ e _she_ é diferente.
 
-| Sujeito   | Verbo(have) |
-|     --    |      --     |
-| I         | **have**    |
-| you       | **have**    |
-| he / she  | **has**     |
-
+| Sujeito  | Verbo(have) |
+| -------- | ----------- |
+| I        | **have**    |
+| you      | **have**    |
+| he / she | **has**     |
 
 ---
 
 ## Unit Six
+
+Converse sobre trabalho
+
+```
+Anna is a teacher.
+--------------------------------------------------------------------
+Are you a doctor?
+--------------------------------------------------------------------
+I work at an office in New York.
+--------------------------------------------------------------------
+Wow, your job is interesting!
+```
+
+### **Ser diferente**
+
+Lembre‑se que **to be** é especial! Ele tem muitas formas diferentes.
+
+| Sujeito         | Verbo(to be)           |
+| --------------- | ---------------------- |
+| I(eu)           | **am**(sou/estou)      |
+| you(tue/você)   | **are**(és/é/são)      |
+| he/she(ele/ela) | **is**(é/está)         |
+| we(nós)         | **are**(somos/estamos) |
+| they(eles/elas) | **are**(são/estão)     |
+
+---
+
+## Unit Seven
+
+Descreva roupas
+
+```
+I want two blue shirts.
+--------------------------------------------------------------------
+How much is this hat?
+--------------------------------------------------------------------
+I need new pants.
+--------------------------------------------------------------------
+The black shirts are very expensive!
+--------------------------------------------------------------------
+Hello, is the store open?
+                                Sorry, the store is closed.
+```
+
+### **Mais de um**
+
+Diferenciar entre uma ou várias coisas funciona do mesmo jeito que em português. Apenas adicione um **s** ao final!
+
+| Singular | Plural     |
+| -------- | ---------- |
+| dog      | dog**s**   |
+| table    | table**s** |
+| taxi     | taxi**s**  |
+
+A propósito, note que mesmo quando falamos sobre uma ou muitas coisas, o adjetivo continua igual.
+
+> a green shoe
+
+> green shoe**s**
+
+---
+
+## Unit Eight
+
+Converse sobre hábitos
+
+```
+I drink coffee with sugar in the morning.
+--------------------------------------------------------------------
+We see our friends every day.
+--------------------------------------------------------------------
+I play soccer in the afternoon.
+--------------------------------------------------------------------
+You work a lot, Luiz!
+--------------------------------------------------------------------
+You study English, right?
+                                Yes, I study every day!
+```
+
+### **Very important people**
+
+Lembre‑se que palavras como **I**, **you**, **he** e **she** nunca podem ser omitidas!
+
+> **I** need a taxi.
+
+> **You** speak Portuguese.
+
+---
+
+## Unit Nine
+
+Exponha preferências
+
+```
+What is your favorite book?
+--------------------------------------------------------------------
+Oh, I love Portuguese music!
+--------------------------------------------------------------------
+I really like the food at this restaurant.
+--------------------------------------------------------------------
+Do you like hip-hop or rock?
+--------------------------------------------------------------------
+Do you play the guitar, David?
+```
+
+### **For vs. four**
+
+**For** e **four** soam exatamente iguais em inglês!
+
+> A table **for** two, please.
+
+> He has **four** students.
+
+---
+
+## Unit Ten
+
+Cumprimente pessoas
+
+```
+Good afternoon, Laura!
+--------------------------------------------------------------------
+Mrs. Smith, this is my brother, David.
+--------------------------------------------------------------------
+Welcome, Mrs. Lee!
+--------------------------------------------------------------------
+Bye, Paul, good night!
+--------------------------------------------------------------------
+Thanks for your help.
+```
+
+### **Sons em inglês**
+
+Às vezes, em inglês, duas letras fazem apenas um som.
+
+**sh**e, Engli**sh**, Spani**sh**
+
+Similar ao **ch** em **ch**á, mas mais suave​.
+
+mo**th**er, fa**th**er, **th**e
+
+Pratique o som de **th** fazendo o som de **z**, como em **z**ebra, e colocando a ponta da sua língua entre os dentes.
