@@ -154,7 +154,7 @@ Outra palavra que você vai ouvir bastante ao visitar novos lugares é **welcome
 
 ---
 
-Unit important expressions: <ins>Converse sobre viagem</ins>
+Unit important expressions: <ins>Peça em um restaurante</ins>
 
 ```
 A table for two.
@@ -390,3 +390,61 @@ Similar ao **ch** em **ch**á, mas mais suave​.
 mo**th**er, fa**th**er, **th**e
 
 Pratique o som de **th** fazendo o som de **z**, como em **z**ebra, e colocando a ponta da sua língua entre os dentes.
+
+---
+
+## Unit Eleven
+
+Unit important expressions: <ins>Fale sobre a escola</ins>
+
+```
+She is a very good professor.
+--------------------------------------------------------------------
+No, I am not a student.
+--------------------------------------------------------------------
+I study English and business.
+--------------------------------------------------------------------
+How do you say this in English?
+--------------------------------------------------------------------
+This class is difficult.
+--------------------------------------------------------------------
+Do you need help with your English homework?
+```
+
+### **I'm a doctor!**
+
+Em português, nós dizemos **Sou médico** mas, em inglês, é necessário usar **a** ou **an** antes da sua profissão.
+
+> I am **a** doctor.
+
+> She is **an** English teacher.
+
+### **Vamos falar sobre perguntas!**
+
+Para fazer perguntas com a maioria dos verbos, é só colocar **do**!
+
+> You work at a bank.
+
+> **Do** you work at a bank?
+
+> Where **do** you work?
+
+Com *be*, apenas mude a ordem das palavras.
+
+> **You** *are* a teacher.
+
+> *Are* **you** a teacher?
+
+> Why *are* **you** a teacher?
+
+Para dizer algo como **Eu não vou** ou **você não estuda**, coloque **do not** ou a forma abreviada **don’t** antes do verbo.​​
+
+> I study English.
+
+> I **do not** study English.
+
+Com **be**, é só colocar **not** depois do verbo.
+
+> I am Sandrolaxx.
+
+> I am not Melon Musk.
