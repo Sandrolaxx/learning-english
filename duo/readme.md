@@ -448,3 +448,35 @@ Com **be**, é só colocar **not** depois do verbo.
 > I am Sandrolaxx.
 
 > I am not Melon Musk.
+
+---
+
+## Unit Twelve
+
+Unit important expressions: <ins>Apresente sua família</ins>
+
+```
+My husband is a teacher.
+--------------------------------------------------------------------
+I know your brother, but I do not know your sister.
+--------------------------------------------------------------------
+My grandparents live with my parents.
+--------------------------------------------------------------------
+Do you live in a house or an apartment?
+--------------------------------------------------------------------
+I watch TV with my wife every day.
+```
+
+### **Falando inglês!**
+
+Muitas palavras em português começam com es + uma <ins>consoante</ins>. Por exemplo: **est**udante, **esp**anhol e **esc**ola.
+
+Em inglês, é comum que as palavras comecem apenas com s + uma consoante, como **st**udent, **Sp**anish e **sc**hool.
+
+> **st**ore, **st**ation, **st**udent
+
+> **sk**irt, **sk**ate, **sk**eleton
+
+> **sp**eak, **Sp**anish, **sp**ort
+
+Já que essas palavras são muito parecidas em português e inglês, cuidado para não adicionar o som do **e** ao começo!
