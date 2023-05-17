@@ -480,3 +480,64 @@ Em inglês, é comum que as palavras comecem apenas com s + uma consoante, como 
 > **sp**eak, **Sp**anish, **sp**ort
 
 Já que essas palavras são muito parecidas em português e inglês, cuidado para não adicionar o som do **e** ao começo!
+
+---
+
+## Unit Thirteen
+
+Unit important expressions: <ins>Apresente lugares</ins>
+
+```
+I live in a small city in Brazil.
+--------------------------------------------------------------------
+Do you come to Rio de Janeiro often?
+--------------------------------------------------------------------
+Laura and Sofia, are you at the airport or the hotel?
+--------------------------------------------------------------------
+I love this museum!
+--------------------------------------------------------------------
+OK, see you at the train station!
+```
+
+### **Wh… wh… what?!?!**
+
+Em português, podemos fazer perguntas como **Onde você mora?**, mas, em inglês, é necessário usar uma palavra como 
+**where** e **what**, seguidas de **do** ou **does**.
+
+> **Where** do you live?
+
+> **What** do you do?
+
+Unit important expressions: <ins>Relate rotinas</ins>
+
+```
+She goes to school every day.
+--------------------------------------------------------------------
+He goes to class every morning.
+--------------------------------------------------------------------
+She likes to study languages.
+--------------------------------------------------------------------
+When do you go to work?
+```
+
+### **Verbos**
+
+Na maior parte das vezes, os *verbos* em inglês apenas mudam sua terminação com **he** e **she**. Apenas acrescente um **s**!
+
+> He live**s** in a big house.​
+
+> She speak**s** three languages.
+
+Mas cuidado com as exceções! O verbo **to go** é uma delas.
+
+He go**es** to work every morning.
+
+### **I like music**
+
+Para dizer **Eu gosto de**… em inglês, você só precisa dizer **I like**…!
+
+> I like music.​
+
+> I like languages.
+
+> ​I like to study.​
