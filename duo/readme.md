@@ -541,3 +541,88 @@ Para dizer **Eu gosto de**… em inglês, você só precisa dizer **I like**…!
 > I like languages.
 
 > ​I like to study.​
+
+---
+
+## Unit Fourteen
+
+Unit important expressions: <ins>Expresse sentimentos</ins>
+
+```
+Are you OK?
+--------------------------------------------------------------------
+                            I'm fine, thanks
+--------------------------------------------------------------------
+I'm sorry.
+--------------------------------------------------------------------
+He is a happy child.
+--------------------------------------------------------------------
+She's really sad this evening.
+```
+
+### **Contrações**
+
+*Contrações* são usadas em inglês para juntar duas palavras. Elas são muito úteis para encurtar o que você está dizendo. Usamos muito as contrações com o *verbo to be*.
+
+I **am** ➝ I'​**m**
+
+you **are** ➝​ you'**re​**
+
+he **is** ➝ he'**s**
+​
+she **is** ➝​ she'**s**
+
+we **are** ➝​ we'**re**
+
+they **are** ➝​ they'**re**​
+
+Unit important expressions: <ins>Opine sobre comida</ins>
+
+```
+I eat rice and beans every day.
+--------------------------------------------------------------------
+He never eats meat.
+--------------------------------------------------------------------
+She drinks coffee with milk.
+--------------------------------------------------------------------
+Does David like tea?
+--------------------------------------------------------------------
+He eats fruit every morning.
+```
+
+### **What do you like to eat?**
+
+Lembre‑se de que, para fazer uma pergunta em inglês, você deve adicionar **do** ao começo de uma frase (a menos que o verbo seja o **to be**!​).
+
+> You like rice and beans.
+
+> **Do**​ you like rice and beans?
+
+Se você quiser perguntar sobre **he** ou **she**, use **does** em vez de 
+**do**. Mas note que quando você usa **does**, o verbo não termina em **‑s**!​
+
+> Maria eat**s** meat.
+
+> **Does** Maria **eat** meat?
+
+Dica: Em português, você pode perguntar *Maria come carne?* ou **A** *Maria come carne?*, mas em inglês, você nunca usa **the** antes dos nomes das pessoas.
+
+> Does he live with Emma?
+
+### **Negação**
+
+Nós já vimos que, para dizer algo como Eu **não** falo português, você adiciona **do not** antes do verbo.
+
+> I speak Portuguese.
+
+> I **do not** speak Portuguese.
+
+Assim como nas perguntas, precisamos usar **does** com **he** ou **she**. E lembre‑se de não adicionar **‑s** ao verbo quando usar **does**!
+
+> Daniel eat**s** lunch here.
+
+> Daniel **does not eat** lunch here.
+
+> She drink**s** milk.
+
+> She **does not drink** milk.
