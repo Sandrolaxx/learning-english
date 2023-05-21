@@ -626,3 +626,31 @@ Assim como nas perguntas, precisamos usar **does** com **he** ou **she**. E lemb
 > She drink**s** milk.
 
 > She **does not drink** milk.
+
+---
+
+## Unit Fifteen
+
+Unit important expressions: <ins>Converse sobre viagem</ins>
+
+```
+I need a taxi from my office to the airport.
+--------------------------------------------------------------------
+Do I need a ticket to travel?
+--------------------------------------------------------------------
+This train goes from the airport to the city.
+--------------------------------------------------------------------
+He arrives at the station at two o'clock.
+--------------------------------------------------------------------
+Your bus leaves at four o'clock.
+--------------------------------------------------------------------
+You need to have a visa.
+```
+
+### **We study English**
+
+Em inglês, os nomes dos **países** não são os únicos que devem começar com letra maiúscula. Também é necessário fazer isso com **idiomas** e **nacionalidades**!
+
+> They are **M**exican.
+
+> He speaks **I**talian.​
