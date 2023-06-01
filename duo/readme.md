@@ -654,3 +654,55 @@ Em inglês, os nomes dos **países** não são os únicos que devem começar com
 > They are **M**exican.
 
 > He speaks **I**talian.​
+
+---
+
+## Unit Sixteen
+
+### **Vamos falar sobre o tempo presente!**
+
+Os verbos não mudam com tanta frequência. Porém, com *he* ou *she*, use a forma que termina em `‑s`!​​
+
+> I walk, he walk**s**
+
+> I speak, she speak**s**
+
+Em perguntas e frases negativas com *he* ou *she*, use **does** em vez de *do*.​​
+
+> He drinks coffee.
+
+> **Does** he **drink** coffee?
+​
+> He **does** not **drink** coffee.
+
+*Does not* muitas vezes é abreviado como **doesn’t**.​​
+
+> He **doesn’t** drink coffee.
+
+Unit important expressions: <ins>Faça solicitações</ins>
+
+```
+Speak more slowly, please.
+--------------------------------------------------------------------
+How do you say this word?
+--------------------------------------------------------------------
+Repeat your first name, please.
+--------------------------------------------------------------------
+Sorry, do you understand Portuguese?
+```
+
+### **Can I ask you a question?**
+
+Posso fazer uma pergunta? Claro que pode! Para perguntar **Posso…?** em inglês, dizemos **Can I…?**
+
+> Can I see that store?
+
+Você pode fazer perguntas usando **can** do mesmo jeito que faz com o **to be: can** vai no início da frase!
+
+> Can I buy this?
+
+Em português, dizemos **Pode** *me* **ajudar?** ou **Pode ajudar**-*me*? mas, em inglês, palavras como *me* sempre vêm depois do verbo.
+
+> Can you see me?
+
+> He loves you.
