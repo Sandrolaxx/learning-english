@@ -706,3 +706,65 @@ Em português, dizemos **Pode** *me* **ajudar?** ou **Pode ajudar**-*me*? mas, e
 > Can you see me?
 
 > He loves you.
+
+---
+
+## Unit Seventeen
+
+Unit important expressions: <ins>Diga as horas</ins>
+
+```
+It is five o'clock.
+--------------------------------------------------------------------
+Today is Thursday.
+--------------------------------------------------------------------
+I eat breakfast at seven o'clock.
+--------------------------------------------------------------------
+My class is at six o'clock on Thursdays.
+--------------------------------------------------------------------
+What time does she get up on Saturdays?
+```
+
+### **What time is it?**
+
+Em inglês, ao falar sobre coisas, como as horas, você deve usar a palavra **it** (em vez de **he** ou **she** que se usa para pessoas).
+
+> What time is **it**?
+
+Para dizer horas exatas, usamos **o’clock.** Nunca use **hour** ou **hours**, como em português.
+
+> It is seven o’clock.
+
+Você notou? **It** usa a mesma forma do verbo que **he** e **she**. E enquanto em português dizemos *É* uma hora ou *São* duas horas, em inglês usamos **It is** para ambos.
+
+Unit important expressions: <ins>Descreva sua família</ins>
+
+```
+My family lives in Colombia.
+--------------------------------------------------------------------
+How is your family?
+--------------------------------------------------------------------
+Daniel and Emma are married.
+--------------------------------------------------------------------
+Our children are very young.
+--------------------------------------------------------------------
+How old is your son?
+--------------------------------------------------------------------
+                                My son is two years old.
+--------------------------------------------------------------------
+My father wants to go to Italy.
+```
+
+### **Don't!**
+
+Já vimos como contrações juntam duas palavras. Por exemplo, **you are** vira **you're** e **he is** vira **he's**.
+
+Os falantes de inglês também usam muito as contrações com **do** ou **does**.
+
+> do **not** -> do**n't**
+
+> does **not** -> does**n't**
+
+> I do**n't** like coffee.
+
+> He does**n't** know Spanish.
