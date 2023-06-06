@@ -768,3 +768,41 @@ Os falantes de inglês também usam muito as contrações com **do** ou **does**
 > I do**n't** like coffee.
 
 > He does**n't** know Spanish.
+
+---
+
+## Unit Seventeen
+
+Unit important expressions: <ins>Fale sobre seu lar</ins>
+
+```
+Where is the bathroom?
+--------------------------------------------------------------------
+There are some cups in the kitchen.
+--------------------------------------------------------------------
+The chair is in front of the desk.
+--------------------------------------------------------------------
+There is no window in this bedroom!
+--------------------------------------------------------------------
+Is the fridge clean?
+```
+
+### **There are ten bedrooms!**
+
+Para dizer **há** (no sentido de existir) em inglês, dizemos **there** *is* (para uma coisa) ou **there** *are* (para mais de uma coisa)!
+
+There *is* one bathroom.
+
+There *are* three bedroom*s*.​
+
+### **They aren't at home!**
+
+Vamos conferir mais contrações! Elas são muito comuns com *not*!
+
+He **is not** under the table. -> He **isn't** under the table.
+
+This **is not** my desk.​ -> This **isn't** my desk.
+​
+They **are not** in the kitchen. -> They **aren't** in the kitchen.
+​
+The cups **are not** here. -> The cups **aren't** here.
