@@ -771,7 +771,7 @@ Os falantes de inglês também usam muito as contrações com **do** ou **does**
 
 ---
 
-## Unit Seventeen
+## Unit EighTeen
 
 Unit important expressions: <ins>Fale sobre seu lar</ins>
 
@@ -806,3 +806,63 @@ This **is not** my desk.​ -> This **isn't** my desk.
 They **are not** in the kitchen. -> They **aren't** in the kitchen.
 ​
 The cups **are not** here. -> The cups **aren't** here.
+
+---
+
+## Unit NineTeen
+
+Unit important expressions: <ins>Compre itens básicos</ins>
+
+```
+The pants are twelve dollars.
+--------------------------------------------------------------------
+How much is that shirt?
+--------------------------------------------------------------------
+Can I see that watch?
+--------------------------------------------------------------------
+That's not too expensive.
+--------------------------------------------------------------------
+Do you want a box for this shirt?
+--------------------------------------------------------------------
+The shoes are very cheap.
+```
+
+### **Dresses and boxes**
+
+Nós já aprendemos que, para diferenciar entre uma coisa e várias em inglês, nós normalmente apenas adicionamos ‑s!
+
+Mas, se a palavra termina em *‑s*, *‑x*, *‑ch*, ou *‑sh*, precisamos adicionar *‑es*.
+
+| Singular   | Plural     |
+| --------   | ---------- |
+| dress      | dress**es**|
+| watch      | watch**es**|
+| box        | box**es**  |
+
+Unit important expressions: <ins>Use presente contínuo</ins>
+
+```
+My son is doing his homework right now.
+--------------------------------------------------------------------
+What are you doing now?
+--------------------------------------------------------------------
+They're going home now.
+--------------------------------------------------------------------
+The students are reading a book about music.
+```
+
+### **What are you doing?****
+
+Para falar sobre o que você está fazendo neste momento em inglês, use **am**, **are** ou **is** seguidos do verbo com **‑ing**. 
+
+| Sujeito          | Verbo              |
+|     --------     |       ----------   |
+| I                | **am** eat**ing**  |
+| you              | **are** eat**ing** |
+| he/she/it        | **is** eat**ing**  |
+| we               | **are** eat**ing** |
+| he/she/it        | **are** eat**ing** |
+
+> I am playing soccer right now.
+
+> The bear is reading a book right now.
