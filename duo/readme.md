@@ -866,3 +866,31 @@ Para falar sobre o que você está fazendo neste momento em inglês, use **am**,
 > I am playing soccer right now.
 
 > The bear is reading a book right now.
+
+---
+
+## Unit Twenty
+
+Unit important expressions: <ins>Dê descrições</ins>
+
+```
+It's very early, and I feel very tired!
+--------------------------------------------------------------------
+Marco feels a little sad today.
+--------------------------------------------------------------------
+I drink too much coffee when I'm busy.
+--------------------------------------------------------------------
+Are you too warm?
+```
+
+### **Sons do inglês**
+
+Em inglês, é importante pronunciar bem as consoantes como **b**, **d**, e **g**, não importa onde estiverem na palavra. Pratique com as frases a seguir!
+
+> He's a **b**eautiful chil**d**.
+
+> The **d**o**g** is sa**d**.
+
+> Is it **g**oo**d** or **b**a**d**?
+
+Mas note que palavras terminadas em ‑**ing**, como morn**ing** e even**ing**, não possuem um som forte do g no final!
