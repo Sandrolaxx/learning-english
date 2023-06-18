@@ -894,3 +894,65 @@ Em inglês, é importante pronunciar bem as consoantes como **b**, **d**, e **g*
 > Is it **g**oo**d** or **b**a**d**?
 
 Mas note que palavras terminadas em ‑**ing**, como morn**ing** e even**ing**, não possuem um som forte do g no final!
+
+---
+
+## Unit Twenty One
+
+Unit important expressions: <ins>Fale de tecnologia</ins>
+
+```
+The reservation is on my phone.
+--------------------------------------------------------------------
+I have a lot of new emails.
+--------------------------------------------------------------------
+You're clicking on the wrong word!
+--------------------------------------------------------------------
+How often does Arthur use social media?
+--------------------------------------------------------------------
+There is wi-fi here, right?
+```
+
+### **Ortografia**
+
+Às vezes, ao adicionar **‑ing** a um verbo, o modo de escrever a palavra muda.
+
+Normalmente, se o verbo termina em **‑e**, o **e** desaparece!
+
+> mak**e** → mak**ing**
+
+> danc**e** → danc**ing**
+​
+Se um verbo tem apenas uma sílaba e termina em consoante‑vogal‑consoante, você deve duplicar a última consoante.
+
+> **r**u**n** → ru**nn**ing
+
+> ​s**w**i**m​** → swi**mm**ing
+​
+Unit important expressions: <ins>Descreva atividades</ins>
+
+```
+He can sing and dance.
+--------------------------------------------------------------------
+I can run, but I can't swim.
+--------------------------------------------------------------------
+He cannot read fast.
+--------------------------------------------------------------------
+Can I get there by bus?
+```
+
+### **I can't!**
+
+**Can** é usado do mesmo jeito que o **to be** em frases de negação. Isso significa que você não precisa adicionar **do**!
+
+> I **am** sick.
+
+> I'**m not** sick.
+
+> I **am not** sick.
+
+> You **can** sing.
+
+Você notou? **Cannot** é uma palavra só!
+
+Se você acha que é difícil ouvir a diferença entre **can** e **can't**, não se preocupe! Você não está só. Até mesmo falantes nativos de inglês têm dificuldades com isso às vezes.
