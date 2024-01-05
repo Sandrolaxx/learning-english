@@ -6,6 +6,7 @@ Listening:
 
 - PODCAST - BBC Learning 
 - Anotar, pegar o vocabulário, criar o vocabulary note.
+- Transcrever o PODCAST
 
 # Tuesday
 
@@ -17,6 +18,10 @@ Reading:
 - LIST OF HEADINGS
 - FILL THE GAP
 - PARAFRASHING
+
+OU
+
+- Mineração de palavras, palavras baseadas na transcrição do dia anterior.
 
 # Wednesday
 
