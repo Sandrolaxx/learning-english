@@ -43,9 +43,7 @@ Last question, a good way to end an SA is:
 
 This more about this at bbclearningenclish.com, do join us again for more 6 minutes vocabulary, good bye!
 
-#### Corrected Transcript
-
-Original Transcription:
+#### Revised Transcript
 
 This is a download from BBC Learning English. To find out more, visit our website. Today's program is all about academic English. If you are going to study, or you are a studying at an English-speaking university, you may be wondering how you combine understanding lectures and academic texts with writing SA. Academic English is different from the English people speak and write every day, it's more formal and uses higher-level words, so in today's program, we will give you ideas for understanding words and phrases that you come across and some advice for writing SA and giving presentations. We will also give you tips for studying English.
 
@@ -59,8 +57,64 @@ When you're writing your academic piece or giving a presentation you need to str
 
 And now for some tips for getting the best out of studying in English. Okay, I have a good one, have a study buddy, that is, someone you can study with, test each other, and support each other, and another one, set aside time for regular language study in addition to your academic study.
 
-#### Mineração de palavras
+### Errors in the text
 
-Palavras desconhecidas:
+![text-errors](https://github.com/Sandrolaxx/frostNext/assets/61207420/81e302a6-8d47-4555-baa4-6bd86e3e31ec)
 
-wondering, SA, speacialist, guess, meaning, own, greg, microscopic, tiny, analysis, regeneration, working out the meeting, meaning, stabelase, carecterise, specialase, lectures, diferentied, get hold, linguistcs, sign posting, stating porpuse, argues, ame, futermore, hovewer, never the less,
+### Word mining
+
+#### Unknown words:
+
+wondering, SA, speacialist, guess, meaning, own, greg, microscopic, tiny, analysis, regeneration, working out the meeting, meaning, stabelase, carecterise, specialase, lectures, diferentied, get hold, linguistcs, sign posting, stating porpuse, argues, ame, futermore, hovewer, never the less.
+
+#### Revised words:
+
+First Paragraph
+
+| Error                                                  | Correct form                                              |
+| ------------------------------------------------------ | --------------------------------------------------------- |
+| bbc learning english                                   | upper                                                     |
+| more                                                   | which comma                                               |
+| english, if                                            | English, dot(`.`) when use if                             |
+| you are go to                                          | going to                                                  |
+| studing                                                | studying                                                  |
+| english speaking                                       | English-speaking                                          |
+| you my be wondering,                                   | you may be wondering(which no comma)                      |
+| how you couple undertesding                            | combine understanding                                     |
+| texts, and writing SA, academic english is diferent to | texts with writing SA. Academic English is different from |
+| people speaks                                          | people speak                                              |
+| higher level                                           | higher-level                                              |
+| , will give                                            | , we will give                                            |
+| accross,                                               | across                                                    |
+| writhing                                               | writing                                                   |
+| giving apresentations, wil                             | giving presentations. We will                             |
+| studing in english.                                    | studying English.                                         |
+
+Second Paragraph
+
+| Error                              | Correct form                       |
+| ---------------------------------- | ---------------------------------- |
+| lock at to                         | look at the                        |
+| english, dificult english          | English: difficult English         |
+| speacialist                        | specialist                         |
+| know in academic                   | know in an academic                |
+| it's                               | its                                |
+| lock's                             | locks                              |
+| word in own language, this         | word in your own language. This    |
+| particulary usefull                | particularly useful                |
+| greg                               | Greek                              |
+| latin                              | Latin                              |
+| english comes                      | English come                       |
+| languages, words for example like, | languages. For example, words like |
+| constructed, academic english      | constructed. Academic English      |
+| sufixes.                           | suffixes.                          |
+
+Third Paragraph
+
+| Error                                            | Correct form                                       |
+| ------------------------------------------------ | -------------------------------------------------- |
+| Remeber!                                         | Remember!                                          |
+| words meaning, for example the prefix d speld de | word's meaning. For example, the prefix d spell de |
+| reduction of number                              | in the                                             |
+| of somewere,                                     | in some area,                                      |
+| from a area.                                     | from an area.                                      |
