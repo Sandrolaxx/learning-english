@@ -65,7 +65,7 @@ And now for some tips for getting the best out of studying in English. Okay, I h
 
 #### Unknown words:
 
-wondering, essay, speacialist, guess, meaning, own, greg, microscopic, tiny, analysis, regeneration, working out the meeting, meaning, stabelase, carecterise, specialase, lectures, diferentied, get hold, linguistcs, sign posting, stating porpuse, argues, ame, futermore, hovewer, never the less.
+wondering, essay, lecture, speacialist, guess, meaning, own, greg, microscopic, tiny, analysis, regeneration, working out the meeting, meaning, stabelase, carecterise, specialase, lectures, diferentied, get hold, linguistcs, sign posting, stating porpuse, argues, ame, futermore, hovewer, never the less.
 
 #### Revised words:
 
@@ -168,3 +168,11 @@ SA -> Essay
 > Tip: You can use these structures for starting paragraphs: **Body 1**: One compelling argument stems from the idea is that... **Body 2**: Moreover... **Counter argument body**: Nevertheless, it might be argued by some that ... ; Despite this, .... **Conclusion**: By way of conclusion, after taking aforementioned argument into consideration, I hold onto the idea that...<br>https://www.youtube.com/watch?v=o9aVjBHEEbU&list=PLmMiFfGLiyxr52Xcw0sqQdlG_BJxfu0zJ
 
 locking --> looking
+
+---
+
+### Translate - My Onw
+
+Esse é um download do BBC Learning English. Para mais, acesse nosso site. O programa de hoje é sobre inglês acadêmico. Se você vai estudar, ou se você já estuda em uma universidade que fala inglês, você pode ponderar combinar entender palestras e textos acadêmicos com escrita de uma redação. Inglês acadêmico é muito diferente do inglês falado e escrito pelas pessoas no dia-a-dia, é mais formal e usa palavras de alto nível, então no programa de hoje vamos te dar algumas ideias para entender palavras, frases que você verá, conselhos para escrever redações e realizar apresentações.
+
+Mas primeiro, vamos ver as três principais funções do inglês acadêmico: dificuldade do vocabulário em inglês, vocabulário específico de um assunto, linguagem para organizar uma redação e apresentação. Agora, quando você passar por uma palavra que você não conhece em um texto acadêmico ou palestras, você pode tentar buscar o significado entendendo o contexto ou tentando encontrar palavras parecidas na sua própria língua. Essa estratégia é particularmente útil se a sua própria língua tem muitas palavras originadas do grego ou do latim, muitas palavras no inglês acadêmico vêm dessas línguas. Por exemplo, palavras como microscópio, que significa pequeno, ou análise, quer dizer estudo, ou regeneração, que quer dizer renovar, outra estratégia é buscar como a palavra é construída. No inglês acadêmico, temos normalmente prefixos e sufixos.
