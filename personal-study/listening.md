@@ -65,30 +65,58 @@ And now for some tips for getting the best out of studying in English. Okay, I h
 
 #### Unknown words:
 
-wondering, essay, lecture, speacialist, guess, meaning, own, greg, microscopic, tiny, analysis, regeneration, working out the meeting, meaning, stabelase, carecterise, specialase, lectures, diferentied, get hold, linguistcs, signposting, stating porpuse, argues, ame, futermore, hovewer, never the less.
+| Word                    | Correct Form                     | Translate                       |
+| ----------------------- | -------------------------------- | ------------------------------- |
+| wondering               | wondering                        | imaginando                      |
+| essay                   | essay                            | ensaio                          |
+| lecture                 | lecture                          | palestra                        |
+| speacialist             | specialist                       | especialista                    |
+| guess                   | guess                            | adivinhar                       |
+| own                     | meaning                          | significado                     |
+| greg                    | own                              | ter                             |
+| microscopic             | Greek                            | grego                           |
+| tiny                    | microscopic                      | microscópico                    |
+| analysis                | tiny                             | pequeno                         |
+| regeneration            | analysis                         | análise                         |
+| working out the meeting | regeneration                     | regeneração                     |
+| meaning                 | working out the meeting, meaning | trabalhando na reunião, ou seja |
+| stabelase               | stabilize                        | estabilizar                     |
+| carecterise             | characterize                     | caracterizar                    |
+| specialase              | specialize                       | especializar-se                 |
+| lectures                | lectures                         | palestras                       |
+| diferentied             | differentiated                   | diferenciado                    |
+| get hold                | get hold                         | se apossar                      |
+| linguistcs              | linguists                        | linguistas                      |
+| signposting             | signposting                      | sinalização                     |
+| stating porpuse         | stating purpose                  | declarando propósito            |
+| argues                  | argues                           | argumenta                       |
+| ame                     | aim                              | mirar                           |
+| futermore               | furthermore                      | além disso                      |
+| hovewer                 | however                          | no entanto                      |
+| never the less          | nevertheles                      | no entanto                      |
 
 #### Revised words:
 
 First Paragraph
 
-| Error                                                  | Correct form                                              |
-| ------------------------------------------------------ | --------------------------------------------------------- |
-| bbc learning english                                   | upper                                                     |
-| more                                                   | which comma                                               |
-| english, if                                            | English, dot(`.`) when use if                             |
-| you are go to                                          | going to                                                  |
-| studing                                                | studying                                                  |
-| english speaking                                       | English-speaking                                          |
-| you my be wondering,                                   | you may be wondering(which no comma)                      |
-| how you couple undertesding                            | combine understanding                                     |
+| Error                                                     | Correct form                                                 |
+| --------------------------------------------------------- | ------------------------------------------------------------ |
+| bbc learning english                                      | upper                                                        |
+| more                                                      | which comma                                                  |
+| english, if                                               | English, dot(`.`) when use if                                |
+| you are go to                                             | going to                                                     |
+| studing                                                   | studying                                                     |
+| english speaking                                          | English-speaking                                             |
+| you my be wondering,                                      | you may be wondering(which no comma)                         |
+| how you couple undertesding                               | combine understanding                                        |
 | texts, and writing essay, academic english is diferent to | texts with writing essay. Academic English is different from |
-| people speaks                                          | people speak                                              |
-| higher level                                           | higher-level                                              |
-| , will give                                            | , we will give                                            |
-| accross,                                               | across                                                    |
-| writhing                                               | writing                                                   |
-| giving apresentations, wil                             | giving presentations. We will                             |
-| studing in english.                                    | studying English.                                         |
+| people speaks                                             | people speak                                                 |
+| higher level                                              | higher-level                                                 |
+| , will give                                               | , we will give                                               |
+| accross,                                                  | across                                                       |
+| writhing                                                  | writing                                                      |
+| giving apresentations, wil                                | giving presentations. We will                                |
+| studing in english.                                       | studying English.                                            |
 
 Second Paragraph
 
@@ -181,7 +209,7 @@ Lembre-se! O prefixo em antes da parte principal da palavra e pode mudar o signi
 
 Sufixos são adicionados ao fim das palavras, um sufixo comum em inglês é o `ze`, que se fala `asi`, exemplos de palavras com `ze` é `stabilize`, `caractarize`, e `specialize`, essas palavras se pronuncia com `AZEDI` no inglês americano, certo, é mesmo, agora outro sufixo comum é o `ted` falado `eti`, palavras com esse sufixo são `differentiated` e `duplicated`, palavras de assuntos especialistas podem ser difíceis, agora você pode se ajudar de duas maneiras, primeiro prepare você mesmo antes das palestras, encontre alguns textos sobre o assunto na internet ou jornais/revistas e estude recorrentemente as palavras especialistas nesses texto, sim, isso vai te ajudar, pegue um dicionário em inglês e um dicionário em inglês do assunto, por exemplo, medicina, direito ou letras, por segundo ouça o inglês no rádio e assista TV, lá tem muitos especialistas que podem te ajudar a melhorar tanto seu inglês geral quanto o especialista e é claro a uma série de cursos no site da BBC com seções de histórias de tecnologia, ciência, artes que também podem te ajudar.
 
-Quando você está escrevendo um artigo acadêmico ou realizando uma apresentação, você precisa estruturar e organizar sua escrita ou apresentação utilizando. 
+Quando você está escrevendo um artigo acadêmico ou realizando uma apresentação, você precisa estruturar e organizar sua escrita ou apresentação utilizando.
 Utilizando linguagem de sinalização, você usa sinalização para indicar partes importantes do seu ensaio, como declarar o propósito, estruturar sua visão, os principais pontos, a direção do seu argumento e a conclusão no final, também é legal, juntando palavras e frases e apresentando a conexão entre sentenças e parágrafos, sim, Neil vamos dar alguns exemplos e sinalização, primeiramente ao iniciar um texto, "o objetivo desse estudo", "esse ensaio argumenta que"
 , e então como finalizar ele, "finalmente", "em conclusão", alguns exemplos de junção de palavras e frases são, "primeiramente", "segundamente", "finalmente", e para adicionar algo que você quer escrever, "em adição", "além disso/ademais", e se quiser mostrar contraste, você pode escrever, "com tudo", "no entanto", "na outra mão".
 
