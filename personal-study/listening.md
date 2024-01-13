@@ -61,39 +61,7 @@ And now for some tips for getting the best out of studying in English. Okay, I h
 
 ![text-errors](https://github.com/Sandrolaxx/frostNext/assets/61207420/81e302a6-8d47-4555-baa4-6bd86e3e31ec)
 
-### Word mining
-
-#### Unknown words:
-
-| Word                    | Correct Form                     | Translate                       |
-| ----------------------- | -------------------------------- | ------------------------------- |
-| wondering               | wondering                        | imaginando                      |
-| essay                   | essay                            | ensaio                          |
-| lecture                 | lecture                          | palestra                        |
-| speacialist             | specialist                       | especialista                    |
-| guess                   | guess                            | adivinhar                       |
-| own                     | meaning                          | significado                     |
-| greg                    | own                              | ter                             |
-| microscopic             | Greek                            | grego                           |
-| tiny                    | microscopic                      | microscópico                    |
-| analysis                | tiny                             | pequeno                         |
-| regeneration            | analysis                         | análise                         |
-| working out the meeting | regeneration                     | regeneração                     |
-| meaning                 | working out the meeting, meaning | trabalhando na reunião, ou seja |
-| stabelase               | stabilize                        | estabilizar                     |
-| carecterise             | characterize                     | caracterizar                    |
-| specialase              | specialize                       | especializar-se                 |
-| lectures                | lectures                         | palestras                       |
-| diferentied             | differentiated                   | diferenciado                    |
-| get hold                | get hold                         | se apossar                      |
-| linguistcs              | linguists                        | linguistas                      |
-| signposting             | signposting                      | sinalização                     |
-| stating porpuse         | stating purpose                  | declarando propósito            |
-| argues                  | argues                           | argumenta                       |
-| ame                     | aim                              | mirar                           |
-| futermore               | furthermore                      | além disso                      |
-| hovewer                 | however                          | no entanto                      |
-| never the less          | nevertheles                      | no entanto                      |
+---
 
 #### Revised words:
 
@@ -214,3 +182,61 @@ Utilizando linguagem de sinalização, você usa sinalização para indicar part
 , e então como finalizar ele, "finalmente", "em conclusão", alguns exemplos de junção de palavras e frases são, "primeiramente", "segundamente", "finalmente", e para adicionar algo que você quer escrever, "em adição", "além disso/ademais", e se quiser mostrar contraste, você pode escrever, "com tudo", "no entanto", "na outra mão".
 
 E agora para mais dicas de como melhorar o estudo de inglês. Ok, eu tenho uma boa, tenha um parceiro de estudo, isso é, alguém quem você pode estudar junto, testar um ao outro e dar suporte mutualmente, e outra, definir um cronograma regular de estudo da língua em adição ao seu estudo acadêmico.
+
+### Translate - Google
+
+Este é um download da BBC Learning English. Para saber mais, visite nosso site. O programa de hoje é sobre inglês acadêmico. Se você vai estudar ou está estudando em uma universidade de língua inglesa, pode estar se perguntando como combinar a compreensão de palestras e textos acadêmicos com a redação de ensaios. O inglês acadêmico é diferente do inglês que os ingleses falam e escrevem todos os dias, é mais formal e usa palavras de nível superior, por isso, no programa de hoje, daremos a você ideias para entender palavras e frases que você encontra e alguns conselhos para escrever uma redação e apresentações. Também daremos dicas para estudar inglês.
+
+Mas primeiro, vamos dar uma olhada nas três características principais do inglês acadêmico: vocabulário difícil em inglês, vocabulário de assuntos especializados e linguagem para organizar ensaios e apresentações. Agora, quando você se depara com uma palavra que não conhece em um texto acadêmico ou palestra, você pode tentar adivinhar seu significado sorteando o contexto ou vendo se a palavra se encaixa como uma palavra em seu próprio idioma. Esta é uma estratégia particularmente útil se a sua língua tiver muitas palavras do grego ou do latim, já que muitas das palavras usadas no inglês acadêmico vêm dessas línguas. Por exemplo, palavras como microscópico, que significa minúsculo, ou análise, que significa estudo, ou regeneração, que significa renovar, outra estratégia para trabalhar o encontro é observar como a palavra foi construída. Palavras acadêmicas em inglês têm geralmente prefixos e sufixos.
+
+Lembrar! Um prefixo vem antes da parte principal da palavra e pode alterar o significado da palavra. Por exemplo, o prefixo d significa remover algo ou reverter algo, então d-população significa uma redução no número de pessoas em alguma área, e d-florestamento significa limpar três de uma área.
+
+Os sufixos são anexados ao final das palavras, um sufixo comum em inglês é `ze` soletrar `asi`, exemplos de palavras com `ze` são estabilizar, caracterizar e especializar, essas palavras são soletradas com `AZEDI` no inglês americano, como estão certos, agora outro sufixo comum é `ted` soletrar `ETI`, palavras com este sufixo são diferenciadas e duplicadas, palavras de assuntos especializados também podem causar dificuldade, agora você pode se ajudar de duas maneiras, primeiro prepare-se antes palestras, encontre alguns textos sobre o seu assunto na internet ou em periódicos e revistas e estude as palavras especialistas em recorrência desses textos, sim, e ajude-se com isso, procure no dicionário de inglês, e no dicionário de assuntos de inglês, por exemplo, medicina, direito ou linguística e, em segundo lugar, ouvir rádio em inglês e assistir TV, agora existem muitos recursos especializados que podem ajudá-lo a melhorar seu inglês geral e especializado e, claro, o site da BBC tem seções com histórias sobre tecnologia, e ciência e artes também podem ajudar.
+
+Ao escrever seu artigo acadêmico ou fazer uma apresentação, você precisa estruturar e organizar sua redação ou apresentação usando linguagem de sinalização, você usa sinalização para indicar partes importantes de sua redação, como declarar o propósito, e estruturar seus pontos de vista e pontos principais e a direção do argumento e a conclusão no final também, palavras e frases de ligação mostram conexões entre as frases e parágrafos, sim, Neil vamos pegar alguns exemplos de sinalização, primeiro para iniciar um texto, o objetivo do estudo, este ensaio argumenta que, e como encerrá-lo, finalmente, em conclusão, e alguns exemplos de palavras e frases de ligação são, em primeiro lugar, em segundo lugar, finalmente, e para adicionar algo que você pode escrever, além disso, e se quiser para mostrar contraste, você pode escrever, no entanto, por outro lado.
+
+E agora algumas dicas para tirar o melhor proveito do estudo em inglês. Ok, eu tenho um bom, tenho um colega de estudo, ou seja, alguém com quem vocês podem estudar, testar reciprocamente e apoiar reciprocamente, e outro, reservar um tempo para o estudo regular do idioma além do seu estudo acadêmico.
+
+---
+
+### Word mining
+
+#### Unknown words:
+
+| Word                    | Correct Form                     | Translate                       |
+| ----------------------- | -------------------------------- | ------------------------------- |
+| wondering               | wondering                        | imaginando                      |
+| essay                   | essay                            | ensaio                          |
+| lecture                 | lecture                          | palestra                        |
+| speacialist             | specialist                       | especialista                    |
+| guess                   | guess                            | adivinhar                       |
+| own                     | meaning                          | significado                     |
+| greg                    | own                              | ter                             |
+| microscopic             | Greek                            | grego                           |
+| tiny                    | microscopic                      | microscópico                    |
+| analysis                | tiny                             | pequeno                         |
+| regeneration            | analysis                         | análise                         |
+| working out the meeting | regeneration                     | regeneração                     |
+| meaning                 | working out the meeting, meaning | trabalhando na reunião, ou seja |
+| stabelase               | stabilize                        | estabilizar                     |
+| carecterise             | characterize                     | caracterizar                    |
+| specialase              | specialize                       | especializar-se                 |
+| lectures                | lectures                         | palestras                       |
+| diferentied             | differentiated                   | diferenciado                    |
+| get hold                | get hold                         | se apossar                      |
+| linguistcs              | linguists                        | linguistas                      |
+| signposting             | signposting                      | sinalização                     |
+| stating porpuse         | stating purpose                  | declarando propósito            |
+| argues                  | argues                           | argumenta                       |
+| ame                     | aim                              | mirar                           |
+| futermore               | furthermore                      | além disso                      |
+| hovewer                 | however                          | no entanto                      |
+| never the less          | nevertheles                      | no entanto                      |
+
+Five phrases with - wondering:
+
+- The wondering child asked all sorts of questions.
+- The children watched the fireworks with wondering eyes.
+- Aaron turned his wondering gaze on the woman he loved.
+- I wonder if wine can be made from cherries. I wonder if that film is still showing at the cinema.
+- I wonder if you would be interested in buying this car over here.
