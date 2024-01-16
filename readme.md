@@ -24,7 +24,6 @@
 
 ## Resources
 
-
 #### <a name='vocab'>Vocabulary</a>
 - [Word of the Day](https://www.englishclub.com/vocabulary/word-of-the-day.htm)
 - [Parts of Speech and Vocab Rules](https://www.englishclub.com/vocabulary/parts-of-speech.htm)
@@ -36,7 +35,6 @@
 - [EnglishClub - Grammar](https://www.englishclub.com/grammar/index.htm)
 - [GRAMMAR](http://www.rong-chang.com/grammar.htm)
 - [English Baby](http://www.englishbaby.com/lessons/grammar)
-
 
 #### <a name='speaking'>Speaking</a>
 - [EnglishClub - Speaking](https://www.englishclub.com/speaking/index.htm)
@@ -68,7 +66,6 @@
 - [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
 - [TED](http://www.ted.com/)
 
-
 **Podcasts**
 - [Eslpod.com](https://www.eslpod.com/website/index_new.html)
 - [EnglishClub](https://edition.englishclub.com/category/podcasts/)
@@ -85,18 +82,15 @@
 **Poems, Poetry**
 - [EnglishClub - Poetry](https://www.englishclub.com/listening/poetry.htm)
 
-
 #### <a name='spractice'>Speaking Practice of Live communication</a>
 - [Italki](http://www.italki.com/)
 - [Sharedtalk](http://sharedtalk.com/)
 - [Livemocha](http://livemocha.com/)
 - [Lang8](http://lang8.com/)
 
-
 #### <a name='youtube'>YouTube Channels</a>
 - [English With Genifer!](http://www.youtube.com/user/JenniferESL)
 - [EnglishMeeting with Dave Sconda](http://www.youtube.com/user/EnglishMeeting)
-
 
 #### <a name='social'>Social Networks</a>
 **Vk**
@@ -114,12 +108,6 @@
   - [English Online](https://vk.com/englishcrab)
   - [Daily English](https://vk.com/angyaz)
   
-**Facebook**
-
-**Twitter**
-- [MovieEnglish](https://twitter.com/search?q=%40movieEnglish&src=typd)
-
-
 #### <a name='courses'>Courses, Lessons and Topics</a>
 - [Poliglot](http://rutracker.org/forum/viewtopic.php?t=3919832)
 - [Audio-lessons](http://www.english-globe.ru/index.php?option=com_content&task=view&id=13&Itemid=17)
@@ -148,14 +136,10 @@
 - [Vocab Games](https://www.englishclub.com/esl-games/vocabulary/?englishclub)
 - [ESL GAMES](http://www.rong-chang.com/game.htm)
 
-
 #### <a name='programs'>Programs</a>
 - [Vocaboly](http://www.vocaboly.com/)
 
-
 #### <a name='dict'>Dictionaries</a>
-
-
 
 #### <a name='tests'>Tests</a>
 - [Level Tests](http://www.englishjet.com/english_courses_files/tests.htm)

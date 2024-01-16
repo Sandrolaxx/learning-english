@@ -203,40 +203,98 @@ E agora algumas dicas para tirar o melhor proveito do estudo em inglês. Ok, eu 
 
 #### Unknown words:
 
-| Word                    | Correct Form                     | Translate                       |
-| ----------------------- | -------------------------------- | ------------------------------- |
-| wondering               | wondering                        | imaginando                      |
-| essay                   | essay                            | ensaio                          |
-| lecture                 | lecture                          | palestra                        |
-| speacialist             | specialist                       | especialista                    |
-| guess                   | guess                            | adivinhar                       |
-| own                     | meaning                          | significado                     |
-| greg                    | own                              | ter                             |
-| microscopic             | Greek                            | grego                           |
-| tiny                    | microscopic                      | microscópico                    |
-| analysis                | tiny                             | pequeno                         |
-| regeneration            | analysis                         | análise                         |
-| working out the meeting | regeneration                     | regeneração                     |
-| meaning                 | working out the meeting, meaning | trabalhando na reunião, ou seja |
-| stabelase               | stabilize                        | estabilizar                     |
-| carecterise             | characterize                     | caracterizar                    |
-| specialase              | specialize                       | especializar-se                 |
-| lectures                | lectures                         | palestras                       |
-| diferentied             | differentiated                   | diferenciado                    |
-| get hold                | get hold                         | se apossar                      |
-| linguistcs              | linguists                        | linguistas                      |
-| signposting             | signposting                      | sinalização                     |
-| stating porpuse         | stating purpose                  | declarando propósito            |
-| argues                  | argues                           | argumenta                       |
-| ame                     | aim                              | mirar                           |
-| futermore               | furthermore                      | além disso                      |
-| hovewer                 | however                          | no entanto                      |
-| never the less          | nevertheles                      | no entanto                      |
+| Word                    | Correct Form            | Translate              |
+| ----------------------- | ----------------------- | ---------------------- |
+| wondering               | wondering               | imaginando/ a pensar   |
+| essay                   | essay                   | ensaio                 |
+| lecture                 | lecture                 | palestra               |
+| speacialist             | specialist              | especialista           |
+| guess                   | guess                   | adivinhar              |
+| meaning                 | meaning                 | significado            |
+| own                     | own                     | ter                    |
+| greg                    | Greek                   | grego                  |
+| microscopic             | microscopic             | microscópico           |
+| tiny                    | tiny                    | pequeno                |
+| analysis                | analysis                | análise                |
+| regeneration            | regeneration            | regeneração            |
+| working out the meeting | working out the meeting | trabalhando na reunião |
+| stabelase               | stabilize               | estabilizar            |
+| carecterise             | characterize            | caracterizar           |
+| specialase              | specialize              | especializar-se        |
+| lectures                | lectures                | palestras              |
+| diferentied             | differentiated          | diferenciado           |
+| get hold                | get hold                | se apossar             |
+| linguistcs              | linguists               | linguistas             |
+| signposting             | signposting             | sinalização            |
+| stating porpuse         | stating purpose         | declarando propósito   |
+| argues                  | argues                  | argumenta              |
+| ame                     | aim                     | mirar                  |
+| futermore               | furthermore             | além disso             |
+| hovewer                 | however                 | no entanto             |
+| never the less          | nevertheles             | no entanto             |
 
-Five phrases with - wondering:
+#### Phrases with unknown words:
+
+wondering:
 
 - The wondering child asked all sorts of questions.
 - The children watched the fireworks with wondering eyes.
 - Aaron turned his wondering gaze on the woman he loved.
 - I wonder if wine can be made from cherries. I wonder if that film is still showing at the cinema.
 - I wonder if you would be interested in buying this car over here.
+
+essay:
+
+- The student must write an essay about modern art.
+- The students had to write an essay about their holidays.
+
+lecture:
+
+- I attended a lecture on biodiversity during the conference.
+- The subject matter of the lecture was rather complicated.
+- Students must attend five lectures a week. (aula)
+- I gave my son a lecture on good manners.(sermão)
+
+speacialist:
+
+- A flower specialist who specializes in studying and discovering different flowers definitely thinks that it is one of the strangest but most unique type of flower.
+- I'm a specialist in clean architecture
+
+guess:
+
+- I did not know the answer, so I guessed.
+- Based on the directions, I guess this must be the right way.(imaginar)
+- I ventured a guess about the company's profit.(palpite)
+- The existence of aliens is just a guess so far.(suposição)
+
+meaning:
+
+- Many people search for the meaning of life.
+- An ambiguous statement may have more than one meaning.
+- A good salary often means hard work.(significar)
+- I mean to travel a lot next year.(pretender)
+
+own:
+
+- I run my own business.
+- My grandmother buys beans and grinds her own coffee.
+- My family owns a house in the countryside.(possui)
+- I'm on my own
+
+greek: 
+
+- A famous Greek architect designed that building.
+- The Greek culture is so rich.
+
+microscopic:
+
+- In microscopic structure they all present the closest agreement with one another.
+- A microscopic voice inside warned her to stop, but desire put uncontrolled passion into her response.
+- Microscopic examination fully confirms the existence of these compounds.
+- This is a microscopic point of agreement, but is none the less significant.
+
+tiny:
+
+- The Earth looks tiny compared to the Sun.
+- I dedicate just a tiny part of the day to reading.
+- I have two tame pigeons and a tiny canary bird.
