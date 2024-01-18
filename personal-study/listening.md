@@ -281,7 +281,7 @@ own:
 - My family owns a house in the countryside.(possui)
 - I'm on my own
 
-greek: 
+greek:
 
 - A famous Greek architect designed that building.
 - The Greek culture is so rich.
@@ -298,3 +298,46 @@ tiny:
 - The Earth looks tiny compared to the Sun.
 - I dedicate just a tiny part of the day to reading.
 - I have two tame pigeons and a tiny canary bird.
+
+analysis:
+
+- A statistical analysis forms the basis of the report.
+- Some psychologists carry out behaviour analysis.
+
+regeneration:
+
+- By the introduction of fresh toxin the process is repeated and the regeneration of side-chains is increased.
+- I seemed to know at once that the process of regeneration had already taken place in him, and I rushed to meet him.
+- Dizziness made him lose his regeneration powers.
+
+working out the meeting❌
+
+stabilize:
+
+- Deidre did her best to stabilize her breathing.
+- Can you stabilize Darian?
+- Between one and three months of age, babies' sleep habits begin to stabilize.
+- Both of these areas will stabilize as you age.
+
+characterize:
+
+- A very strong sense of smell characterizes this breed of dog.
+- These changes characterize the Merovingian age of Frankish history.
+- It is most difficult to characterize the muskinu exactly.
+- Fruit-raising and small gardening characterize its environs.
+- With him began the deep sympathy with nature, and love of animal life, which was to characterize so much of later poetry.
+
+specialize:
+
+- The food is gourmet and they specialize in steak and seafood.
+- They specialize in kebabs of all times, from chicken to fish.
+- In my practice, I specialize in anxiety disorders.
+- We specialize in furniture 1800s to 1900s, including selected bric-a-brac.
+
+lectures:
+
+- I cannot make notes during the lectures, because my hands are busy listening.
+- Seven other lectures were delivered during the first three weeks of the Lent term of 1842.
+- The former are for the most part concerned with questions relating to the theory of light, arising out of his professorial lectures, among which may be specially mentioned his paper "On the Diffraction of an Object-Glass with Circular Aperture."
+- When his master, William Varron, removed to Paris in 1301, Duns Scotus was appointed to succeed him as professor of philosophy, and his lectures attracted an immense number of students.
+- The steady tendency of Russian society towards increasing the number of secondary schools, where instruction would be based on the study of the natural sciences, is checked by the government in favour of the classical gymnasiums. 5 Sunday schools and public lectures are virtually prohibited.
