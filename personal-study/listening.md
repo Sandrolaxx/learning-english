@@ -51,7 +51,7 @@ But first, let's look at the three main features of academic English: difficult 
 
 Remember! A prefix comes before the main part of the word and can change the word's meaning. For example, the prefix d spell de means removing something or reversing something, so d-population means a reduction in the number of people in some area, and d-forestation means clearing off threes from an area.
 
-Suffixes is attached to the end of words, a common suffix in English is `ze` spell `asi`, examples of words with `ze` is stabilize, characterize, and specialize, these words are spell with `AZEDI` in American English, as right, they are, now another common suffix is `ted` spell `ETI`, words with this suffix are differentiated, and duplicated, specialist subject words may also cause difficulty, now you can help yourself in two ways, firstly prepare yourself before lectures, find some texts on your subject on the internet or in journals and magazines and study the recurrence specialist words on those texts, yes, and help yourself with this, get hold in the English dictionary, and the English subject dictionary, for example, medicine or law or linguistics, and secondly listen to the English radio and watch TV, now there are a lot of specialist features with can you help improve both your general and specialist English, and of course the BBC website has sections with have stories on technology, and science, and arts, with can also help.
+Suffixes is attached to the end of words, a common suffix in English is `ze` spell `asi`, examples of words with `ze` is stabilize, characterize, and specialize, these words are spell with `AZEDI` in American English, as right, they are, now another common suffix is `ted` spell `ETI`, words with this suffix are differentiated, and duplicated, specialist subject words may also cause difficulty, now you can help yourself in two ways, firstly prepare yourself before lectures, find some texts on your subject on the internet or in journals and magazines and study the recurrence specialist words on those texts, yes, and help yourself with this, get hold of the English dictionary, and the English subject dictionary, for example, medicine or law or linguistics, and secondly listen to the English radio and watch TV, now there are a lot of specialist features with can you help improve both your general and specialist English, and of course the BBC website has sections with have stories on technology, and science, and arts, with can also help.
 
 When you're writing your academic piece or giving a presentation you need to structure and organizing your writing or presentation by using signposting language, you use signposting to indicate important parts of your essay, such as stating purpose, and structure your views and main points and the direction of the argument and the conclusion in the end as well, linking words and phrases show connections between the sentences and paragraphs, yes, Neil let's get some examples of signposts, firstly for start a piece of writing, the aim of study, this essay argues that, and how about to end it, finally, in conclusion, and some examples of linking words and phrases are, firstly, secondly, finally, and for adding something you can write, in addition, furthermore, and if you want to show contrast, you may write, however, nevertheless, on the other hand.
 
@@ -223,7 +223,7 @@ E agora algumas dicas para tirar o melhor proveito do estudo em inglês. Ok, eu 
 | specialase              | specialize              | especializar-se        |
 | lectures                | lectures                | palestras              |
 | diferentied             | differentiated          | diferenciado           |
-| get hold                | get hold                | se apossar             |
+| get hold                | get hold of             | se apossar             |
 | linguistcs              | linguists               | linguistas             |
 | signposting             | signposting             | sinalização            |
 | stating porpuse         | stating purpose         | declarando propósito   |
@@ -231,7 +231,7 @@ E agora algumas dicas para tirar o melhor proveito do estudo em inglês. Ok, eu 
 | ame                     | aim                     | mirar                  |
 | futermore               | furthermore             | além disso             |
 | hovewer                 | however                 | no entanto             |
-| never the less          | nevertheles             | no entanto             |
+| never the less          | nevertheless            | no entanto             |
 
 #### Phrases with unknown words:
 
@@ -341,3 +341,63 @@ lectures:
 - The former are for the most part concerned with questions relating to the theory of light, arising out of his professorial lectures, among which may be specially mentioned his paper "On the Diffraction of an Object-Glass with Circular Aperture."
 - When his master, William Varron, removed to Paris in 1301, Duns Scotus was appointed to succeed him as professor of philosophy, and his lectures attracted an immense number of students.
 - The steady tendency of Russian society towards increasing the number of secondary schools, where instruction would be based on the study of the natural sciences, is checked by the government in favour of the classical gymnasiums. 5 Sunday schools and public lectures are virtually prohibited.
+
+differentiated:
+
+- In all cases a more or less full series of teeth is developed, these being differentiated into incisors, canines, premolars and molars, when all are present; but only a single pair of teeth in each jaw has deciduous predecessors.
+- Trophosome encrusting with hydranths of Bougainvillea-type, polyps differentiated into blastostyles, gastrozoids and dactylozoids; gonosome free medusae or gonophores.
+- This matter is differentiated into particular things (which are not privations but perfections) through the addition of an individualizing principle (haecceitas) to the universal (quidditas).
+
+get hold of:
+
+- I wasn’t able to get hold of my brother over the weekend, I hope he’s OK.
+- I’m trying to get ahold of some of these people for our meeting tomorrow.
+- Usually I can get hold of him at any time.
+
+[More About](https://www.mairovergara.com/get-hold-of-o-que-significa-esta-expressao/)
+
+linguists:
+
+- We are definitely not making up for the loss of specialist linguists here.
+- It is possible for linguists, like anyone else, to use special lexis unnecessarily, or to descend into a kind of jargon.
+- One of the goals of this meeting is to identify how computational linguists can help the writer.
+
+signposting:
+
+- Tables and diagrams abound, complete with interpretation guidelines, and all chapters are signposted with previews, summaries and recaps.
+- There are too many ' signposts' in the text, which is sometimes a little slow, laboured and repetitive as a result.
+- Education is a matter of increasing knowledge and reflection, statistical cueing a matter of providing signposts that even the ignorant and irreflective can use.
+
+stating purpose❌
+
+argues:
+
+- This is why Dulce argues with you.
+- In his Theodicy Leibnitz argues, like not a few predecessors, that this universe must be regarded as the best of all possible universes.
+- The former distinctly argues against the idea of a deterioration of man in the past.
+
+aim:
+
+- My aim is perfect!
+- He was free, he had nothing but his aim to consider, and he reached it.
+- She took careful aim and squeezed off a shot.
+
+furthermore:
+
+- Furthermore, in North Carolina the governor has no veto power.
+- Furthermore, this belief that prophecy had ceased led the religious personalities of the later time to authenticate their message by means of antedated prophecy.
+- I don’t know what happened at the party last night and, furthermore, I don’t want to know.
+
+however:
+
+- However, there were many challenges.
+- However, I have not set my heart on that.
+- However, I don't think finding these solutions means an end to all our troubles.
+- I absolutely must see him, however painful it may be for me.
+
+nevertheless:
+
+- In New South Wales and Queensland there were still a large number of persons opposed to the measure, which was nevertheless carried in both colonies.
+- Nevertheless, the work had been done.
+- Nevertheless his administration was by no means unfruitful.
+- Nevertheless, we will not forget that some Egyptian wheat was handed down to us by a mummy.
