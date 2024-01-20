@@ -47,7 +47,7 @@ This more about this at bbclearningenclish.com, do join us again for more 6 minu
 
 This is a download from BBC Learning English. To find out more, visit our website. Today's program is all about academic English. If you are going to study, or you are a studying at an English-speaking university, you may be wondering how you combine understanding lectures and academic texts with writing essay. Academic English is different from the English people speak and write every day, it's more formal and uses higher-level words, so in today's program, we will give you ideas for understanding words and phrases that you come across and some advice for writing essay and giving presentations. We will also give you tips for studying English.
 
-But first, let's look at the three main features of academic English: difficult English vocabulary, specialist subject vocabulary, and language for organizing essay and presentations. Now when you come across a word you don't know in an academic text or lecture, you can try to guess its meaning by lucking at the context or by seeing if the word locks like a word in your own language. This is a particularly useful strategy if your own language has a lot of words from Greek or Latin, as many of the words used in academic English come from these languages. For example, words like microscopic, which means tiny, or analysis, which means study, or regeneration, which means renew, another strategy for working out the meeting is looking how the word was constructed. Academic English words often have prefixes and suffixes.
+But first, let's look at the three main features of academic English: difficult English vocabulary, specialist subject vocabulary, and language for organizing essay and presentations. Now when you come across a word you don't know in an academic text or lecture, you can try to guess its meaning by lucking at the context or by seeing if the word locks like a word in your own language. This is a particularly useful strategy if your own language has a lot of words from Greek or Latin, as many of the words used in academic English come from these languages. For example, words like microscopic, which means tiny, or analysis, which means study, or regeneration, which means renew, another strategy for working out the meaning is looking how the word was constructed. Academic English words often have prefixes and suffixes.
 
 Remember! A prefix comes before the main part of the word and can change the word's meaning. For example, the prefix d spell de means removing something or reversing something, so d-population means a reduction in the number of people in some area, and d-forestation means clearing off threes from an area.
 
@@ -203,35 +203,35 @@ E agora algumas dicas para tirar o melhor proveito do estudo em inglês. Ok, eu 
 
 #### Unknown words:
 
-| Word                    | Correct Form            | Translate              |
-| ----------------------- | ----------------------- | ---------------------- |
-| wondering               | wondering               | imaginando/ a pensar   |
-| essay                   | essay                   | ensaio                 |
-| lecture                 | lecture                 | palestra               |
-| speacialist             | specialist              | especialista           |
-| guess                   | guess                   | adivinhar              |
-| meaning                 | meaning                 | significado            |
-| own                     | own                     | ter                    |
-| greg                    | Greek                   | grego                  |
-| microscopic             | microscopic             | microscópico           |
-| tiny                    | tiny                    | pequeno                |
-| analysis                | analysis                | análise                |
-| regeneration            | regeneration            | regeneração            |
-| working out the meeting | working out the meeting | trabalhando na reunião |
-| stabelase               | stabilize               | estabilizar            |
-| carecterise             | characterize            | caracterizar           |
-| specialase              | specialize              | especializar-se        |
-| lectures                | lectures                | palestras              |
-| diferentied             | differentiated          | diferenciado           |
-| get hold                | get hold of             | se apossar             |
-| linguistcs              | linguists               | linguistas             |
-| signposting             | signposting             | sinalização            |
-| stating porpuse         | stating purpose         | declarando propósito   |
-| argues                  | argues                  | argumenta              |
-| ame                     | aim                     | mirar                  |
-| futermore               | furthermore             | além disso             |
-| hovewer                 | however                 | no entanto             |
-| never the less          | nevertheless            | no entanto             |
+| Word                    | Correct Form            | Translate               |
+| ----------------------- | ----------------------- | ----------------------- |
+| wondering               | wondering               | imaginando/ a pensar    |
+| essay                   | essay                   | ensaio                  |
+| lecture                 | lecture                 | palestra                |
+| speacialist             | specialist              | especialista            |
+| guess                   | guess                   | adivinhar               |
+| meaning                 | meaning                 | significado             |
+| own                     | own                     | ter                     |
+| greg                    | Greek                   | grego                   |
+| microscopic             | microscopic             | microscópico            |
+| tiny                    | tiny                    | pequeno                 |
+| analysis                | analysis                | análise                 |
+| regeneration            | regeneration            | regeneração             |
+| working out the meaning | working out the meaning | trabalhar o significado |
+| stabelase               | stabilize               | estabilizar             |
+| carecterise             | characterize            | caracterizar            |
+| specialase              | specialize              | especializar-se         |
+| lectures                | lectures                | palestras               |
+| diferentied             | differentiated          | diferenciado            |
+| get hold                | get hold of             | se apossar              |
+| linguistcs              | linguists               | linguistas              |
+| signposting             | signposting             | sinalização             |
+| stating porpuse         | stating the purpose     | declarando o propósito  |
+| argues                  | argues                  | argumenta               |
+| ame                     | aim                     | mirar                   |
+| futermore               | furthermore             | além disso              |
+| hovewer                 | however                 | no entanto              |
+| never the less          | nevertheless            | no entanto              |
 
 #### Phrases with unknown words:
 
@@ -310,7 +310,12 @@ regeneration:
 - I seemed to know at once that the process of regeneration had already taken place in him, and I rushed to meet him.
 - Dizziness made him lose his regeneration powers.
 
-working out the meeting❌
+working out the meaning:
+
+- The team is collaboratively working out the meaning behind the customer feedback data to identify areas for product improvement.
+- In the literature club, members are actively working out the meaning of complex passages in the novel, fostering insightful discussions.
+- Researchers are diligently working out the meaning of the experimental results to draw accurate conclusions for their scientific study.
+- The philosophy class spent hours working out the meaning of the profound quotes from ancient texts, engaging in thoughtful debates.
 
 stabilize:
 
@@ -368,7 +373,12 @@ signposting:
 - There are too many ' signposts' in the text, which is sometimes a little slow, laboured and repetitive as a result.
 - Education is a matter of increasing knowledge and reflection, statistical cueing a matter of providing signposts that even the ignorant and irreflective can use.
 
-stating purpose❌
+stating the purpose:
+
+- Stating the purpose of our initiative, we aim to reduce our carbon footprint by implementing sustainable practices in our daily operations.
+- The meeting agenda focuses on stating the purpose of the new marketing campaign and aligning the team with the strategic goals for the upcoming quarter.
+- Stating the purpose clearly, the policy update is intended to ensure compliance with the latest industry regulations and standards.
+- In this memo, I am stating the purpose of the proposed changes to the employee benefits program, seeking input and feedback from all staff members.
 
 argues:
 
