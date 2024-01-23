@@ -21,3 +21,21 @@
 - Mallets include xylophone, marimba, chimes and others, while drums include snares, toms, bass drum, timpani, and others.
 - Katie the hen was taught to play the xylophone by hitting the notes with her beak.
 - These will include the Ugandan thumb piano and xylophone as well as West and East African drumming and dancing.
+
+##### - 22/01 - Xilofone
+
+ - Experimente o Djembe, xilofone africano e contrabaixo.
+ - O diretor, Sr. Lake, explicou que eles esperavam conseguir um xilofone grande que sempre quiseram, mas não tinham dinheiro para comprar.
+ - Os marretas incluem xilofone, marimba, sinos e outros, enquanto a bateria inclui caixas, tons, bumbo, tímpanos e outros.
+ - A galinha Katie foi ensinada a tocar xilofone batendo as notas com o bico.
+ - Estes incluirão o piano de polegar e o xilofone do Uganda, bem como percussão e dança da África Ocidental e Oriental.
+
+---
+
+#### - 23/01 - Yonder
+
+- Yonder Star is just one company that specializes in outdoor scenes.
+- They don't take a lot of time or effort to set up, but don't expect to take the lid off the box, put the shoes on your feet, and then instantly take off into the wild blue asphalt yonder.
+- Elmo wears a scarf and a helmet, perfect for exploring the wild blue yonder.
+
+#### 
