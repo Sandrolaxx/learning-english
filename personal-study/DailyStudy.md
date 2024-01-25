@@ -43,3 +43,12 @@
 - Yonder Star é apenas uma empresa especializada em cenas externas.
  - Eles não exigem muito tempo ou esforço para serem montados, mas não espere tirar a tampa da caixa, calçar os sapatos e decolar instantaneamente para o asfalto azul selvagem ali.
  - Elmo usa um lenço e um capacete, perfeitos para explorar o azul selvagem do além.
+
+---
+
+#### - 24/01 - Frolic
+
+- We had a good frolic this morning out in the garden.
+- She is fond of fun and frolic, and loves dearly to be with other children.
+- After dinner it began to snow, and we had a good frolic and an interesting lesson about the snow.
+- If there are children around, nothing pleases me so much as to frolic with them.
