@@ -38,4 +38,8 @@
 - They don't take a lot of time or effort to set up, but don't expect to take the lid off the box, put the shoes on your feet, and then instantly take off into the wild blue asphalt yonder.
 - Elmo wears a scarf and a helmet, perfect for exploring the wild blue yonder.
 
-#### 
+####
+
+- Yonder Star é apenas uma empresa especializada em cenas externas.
+ - Eles não exigem muito tempo ou esforço para serem montados, mas não espere tirar a tampa da caixa, calçar os sapatos e decolar instantaneamente para o asfalto azul selvagem ali.
+ - Elmo usa um lenço e um capacete, perfeitos para explorar o azul selvagem do além.
