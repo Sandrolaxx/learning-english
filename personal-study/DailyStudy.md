@@ -77,3 +77,20 @@
  - O problema é que meu rancho tem sido um refúgio seguro e até quartel-general da população de lobos por aqui.
  - Foi de Milford Haven que Henrique II.
  - Os riachos e rios que descem pelas montanhas são um paraíso para a prática de desportos ao ar livre.
+
+---
+
+#### - 26/01 - Impromptu
+
+- Dean explained to his stepfather Cynthia's impromptu trip to the shore after receiving Atherton's letter.
+- Even Quinn seemed to have forgotten his desire to go public in the tension of our impromptu to act.
+- It was followed by the Careme impromptu, the Lutrin vivant and Les Ombres.
+- Meredith and Derek write impromptu wedding vows on a Post-It.
+
+#### Improvisado
+
+ - Dean explicou ao padrasto a viagem improvisada de Cynthia à costa após receber a carta de Atherton.
+ - Até Quinn parecia ter esquecido seu desejo de vir a público na tensão do nosso improviso de agir.
+ - Seguiram-se o Careme improvisado, o Lutrin vivant e Les Ombres.
+ - Meredith e Derek escrevem votos de casamento improvisados em um Post-It.
+
