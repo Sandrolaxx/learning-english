@@ -53,4 +53,27 @@
 - After dinner it began to snow, and we had a good frolic and an interesting lesson about the snow.
 - If there are children around, nothing pleases me so much as to frolic with them.
 
-### Frolic
+### Brincar
+
+- Nós nos divertimos muito esta manhã no jardim.
+ - Ela gosta de diversão e brincadeiras e adora estar com outras crianças.
+ - Depois do jantar começou a nevar, e tivemos uma boa brincadeira e uma aula interessante sobre a neve.
+ - Se tem crianças por perto, nada me agrada tanto quanto brincar com elas.
+
+---
+
+#### - 25/01 - Heaven
+
+- As thus founded, New Haven was town and colony combined.
+- It is served by the New York, New Haven & Hartford railway.
+- The trouble is, my ranch has been a safe haven and even headquarters for the wolf population around here.
+- It was from Milford Haven that Henry II.
+- The streams and rivers that run down the mountains are a haven for outdoor sports.
+
+#### Paraíso
+
+- Assim fundada, New Haven era uma cidade e uma colônia combinadas.
+ - É servido pela ferrovia de Nova York, New Haven e Hartford.
+ - O problema é que meu rancho tem sido um refúgio seguro e até quartel-general da população de lobos por aqui.
+ - Foi de Milford Haven que Henrique II.
+ - Os riachos e rios que descem pelas montanhas são um paraíso para a prática de desportos ao ar livre.
