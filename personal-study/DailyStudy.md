@@ -94,3 +94,18 @@
  - Seguiram-se o Careme improvisado, o Lutrin vivant e Les Ombres.
  - Meredith e Derek escrevem votos de casamento improvisados em um Post-It.
 
+---
+
+#### - 27/01 - Jaunty
+
+- Anatole followed him with his usual jaunty step but his face betrayed anxiety.
+- Second is the jaunty zebra animal print that's done in alternating eye catching colors of brown and white.
+- The brim can tip down on one side to give it a jaunty look.
+- Affix onto patterned paper at a jaunty angle, using glue or foam 3D adhesives.
+
+#### Alegre
+
+ - Anatole o seguiu com seu passo alegre de sempre, mas seu rosto traía ansiedade.
+ - Em segundo lugar está a alegre estampa animal zebra feita em cores alternadas e atraentes de marrom e branco.
+ - A aba pode inclinar-se para um lado para dar uma aparência alegre.
+ - Fixe em papel estampado em um ângulo elegante, usando cola ou adesivos 3D de espuma.
