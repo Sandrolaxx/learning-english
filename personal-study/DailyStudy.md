@@ -109,3 +109,9 @@
  - Em segundo lugar está a alegre estampa animal zebra feita em cores alternadas e atraentes de marrom e branco.
  - A aba pode inclinar-se para um lado para dar uma aparência alegre.
  - Fixe em papel estampado em um ângulo elegante, usando cola ou adesivos 3D de espuma.
+
+ ---
+
+#### - 28/01 - Pixie
+
+Tinkerbell is a mischievous little pixie with plenty of girly charm.
