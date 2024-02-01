@@ -114,4 +114,16 @@
 
 #### - 28/01 - Pixie
 
-Tinkerbell is a mischievous little pixie with plenty of girly charm.
+- Tinkerbell is a mischievous little pixie with plenty of girly charm.
+- Going from blonde to brunette or cutting waist length hair into a pretty pixie takes some getting used to.
+- Whether you like a pixie cut or a bob or a shag, there is a senior citizen hairstyle that suits you.
+- Glitter gels, highlighting powders and rhinestone gem appliques can all be added to your makeup routine to create a ethereal pixie style.
+
+#### - Duende
+
+ - Tinkerbell é uma pequena duende travessa com muito charme feminino.
+ - Passar de loira para morena ou cortar o cabelo na altura da cintura em uma linda duende leva algum tempo para se acostumar.
+ - Quer você goste de um corte pixie, bob ou shag, existe um penteado para idosos que combina com você.
+ - Géis brilhantes, pós iluminadores e apliques de pedras de strass podem ser adicionados à sua rotina de maquiagem para criar um estilo etéreo de duende.
+
+---
