@@ -134,3 +134,28 @@
 - What happens beyond that is between the two of you.
 - It is abundant beyond imagination.
 - There were groves of trees near the shore, and high hills beyond them.
+
+#### - Por aí
+
+ - Ele parecia mais que aliviado.
+ - O que acontece além disso é entre vocês dois.
+ - É abundante além da imaginação.
+ - Havia bosques perto da costa e altas colinas além deles.
+
+---
+
+#### - 30/01 - Scrabble
+
+- Sarah suggested a game of Scrabble after dinner.
+- The scrabble board, does not fit the turn table.
+- Your Scrabble integrity and interpersonal relationship will be better for it.
+- Scrabble is the quintessential word board game.
+
+#### Scrabble
+
+ - Sarah sugeriu um jogo de Scrabble depois do jantar.
+ - O tabuleiro scrabble, não cabe na mesa giratória.
+ - Sua integridade e relacionamento interpessoal no Scrabble serão melhores com isso.
+ - Scrabble é o jogo de tabuleiro de palavras por excelência.
+
+---
