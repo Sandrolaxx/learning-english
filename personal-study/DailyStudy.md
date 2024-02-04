@@ -159,3 +159,19 @@
  - Scrabble é o jogo de tabuleiro de palavras por excelência.
 
 ---
+
+#### - 31/02 - Pedestrian
+
+- But he liked them; liked that mad driving at twelve miles an hour, liked upsetting a driver or running down a pedestrian, and flying at full gallop through the Moscow streets.
+- Once again, the mysterious notebook took a back seat to the more pedestrian happenings at the Ouray inn.
+- The pedestrian bridge across Leith Street can just be seen in the distance.
+- The pedestrian bridge across Leith Street can just be seen in the distance.
+
+#### Pedestre
+
+- Mas ele gostou deles;  gostava daquela condução louca a vinte quilômetros por hora, gostava de perturbar um motorista ou atropelar um pedestre e de voar a todo galope pelas ruas de Moscou.
+ - Mais uma vez, o caderno misterioso ficou em segundo plano em relação aos acontecimentos mais pedestres na pousada Ouray.
+ - A ponte pedonal sobre a Leith Street pode ser vista à distância.
+ - A ponte pedonal sobre a Leith Street pode ser vista à distância.
+
+---
