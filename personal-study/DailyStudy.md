@@ -189,3 +189,19 @@
  - Fazer mechas no cabelo é uma maneira fácil de rejuvenescer sua aparência.
  - Assim como é importante se preparar para um treino intenso, é igualmente crucial comer bem depois, para que seu corpo possa se reparar e rejuvenescer.
  - Dr. Hema diz: "Nos próximos três meses, minha dica se concentrará em um conceito inovador em cirurgia estética, que é rejuvenescer a pele camada por camada.
+
+---
+
+#### - 02/02 - Lamb
+
+- But the lamb is so tiny.
+- A grown woman playing in the hay with a lamb – all dressed up.
+- The others fanned out, and she suddenly felt like a lamb surrounded by a wolf pack trying to decide what to do with her.
+- The paschal lamb is no longer eaten but represented by the shank bone of a lamb roasted in the ashes; unleavened bread and bitter herbs (haroseth) are eaten; four cups of wine are drunk before and after the repast, and a certain number of Psalms are recited.
+
+### Cordeiro
+
+ - Mas o cordeiro é tão pequenininho.
+ - Uma mulher adulta brincando no feno com um cordeiro – toda arrumada.
+ - Os outros se espalharam, e de repente ela se sentiu como um cordeiro cercado por uma matilha de lobos tentando decidir o que fazer com ela.
+ - O cordeiro pascal não é mais comido, mas representado pelo pernil de um cordeiro assado nas cinzas;  comem-se pão ázimo e ervas amargas (haroseth);  bebem-se quatro copos de vinho antes e depois da refeição, e recita-se um certo número de Salmos.
