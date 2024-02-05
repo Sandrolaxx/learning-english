@@ -160,7 +160,7 @@
 
 ---
 
-#### - 31/02 - Pedestrian
+#### - 31/01 - Pedestrian
 
 - But he liked them; liked that mad driving at twelve miles an hour, liked upsetting a driver or running down a pedestrian, and flying at full gallop through the Moscow streets.
 - Once again, the mysterious notebook took a back seat to the more pedestrian happenings at the Ouray inn.
@@ -175,3 +175,17 @@
  - A ponte pedonal sobre a Leith Street pode ser vista à distância.
 
 ---
+
+#### - 01/02 - Rejuvenate
+
+- The project is to rejuvenate an area once overgrown into an orchard increasing bio diversity and interest.
+- Getting hair highlights is an easy way to rejuvenate your looks.
+- Just as it's important to gear up for an intense workout, it's equally crucial to eat well afterward so your body can repair and rejuvenate.
+- Dr. Hema says, "For the next three months, my Tip will focus on a breakthrough concept in cosmetic surgery, which is to rejuvenate your skin layer by layer.
+
+#### Rejuvenescer
+
+ - O projecto visa rejuvenescer uma área que antes estava coberta de vegetação e se transformar num pomar, aumentando a biodiversidade e o interesse.
+ - Fazer mechas no cabelo é uma maneira fácil de rejuvenescer sua aparência.
+ - Assim como é importante se preparar para um treino intenso, é igualmente crucial comer bem depois, para que seu corpo possa se reparar e rejuvenescer.
+ - Dr. Hema diz: "Nos próximos três meses, minha dica se concentrará em um conceito inovador em cirurgia estética, que é rejuvenescer a pele camada por camada.
