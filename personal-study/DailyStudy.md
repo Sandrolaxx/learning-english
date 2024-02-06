@@ -1,6 +1,6 @@
 #Word of the day
 
-### - 21/01 - Vortex
+#### - 21/01 - Vortex
 - A whirling mass of water forming a vacuum at its center, into which anything caught in the motion is drawn; whirlpool.
 - A whirl or powerful eddy of air; whirlwind.
 - A place or situation regarded as drawing into its center all that surrounds it, and hence being inescapable or destructive.
@@ -205,3 +205,19 @@
  - Uma mulher adulta brincando no feno com um cordeiro – toda arrumada.
  - Os outros se espalharam, e de repente ela se sentiu como um cordeiro cercado por uma matilha de lobos tentando decidir o que fazer com ela.
  - O cordeiro pascal não é mais comido, mas representado pelo pernil de um cordeiro assado nas cinzas;  comem-se pão ázimo e ervas amargas (haroseth);  bebem-se quatro copos de vinho antes e depois da refeição, e recita-se um certo número de Salmos.
+
+---
+
+#### - 03/02 - Melee
+
+- He caught a glimpse of Rissa through the melee and wrestled the horse for control.
+- The man inches from her fired into the melee, along with the laser guns of several more.
+- Players on both sides quickly joined in, creating a melee.
+- Nikki flips out and in the ensuing melee, slaps Dominic.
+
+#### Corpo a corpo
+
+ - Ele teve um vislumbre de Rissa em meio à confusão e lutou com o cavalo para se controlar.
+ - O homem a centímetros dela disparou contra a confusão, junto com as armas laser de vários outros.
+ - Jogadores de ambos os lados rapidamente se juntaram, criando um corpo a corpo.
+ - Nikki enlouquece e na confusão que se segue, dá um tapa em Dominic.
