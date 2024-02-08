@@ -221,3 +221,21 @@
  - O homem a centímetros dela disparou contra a confusão, junto com as armas laser de vários outros.
  - Jogadores de ambos os lados rapidamente se juntaram, criando um corpo a corpo.
  - Nikki enlouquece e na confusão que se segue, dá um tapa em Dominic.
+
+----
+
+#### Spring
+
+- The snow melted, leaving in its wake a harvest of spring flowers.
+- Spring is around the corner.
+- The night air of spring was chilly in the mountains.
+- The night air of spring was chilly in the mountains.
+
+---
+
+#### Primavera
+
+ - A neve derreteu, deixando em seu rastro uma colheita de flores primaveris.
+ - A primavera está chegando.
+ - O ar noturno da primavera estava frio nas montanhas.
+ - O ar noturno da primavera estava frio nas montanhas.
