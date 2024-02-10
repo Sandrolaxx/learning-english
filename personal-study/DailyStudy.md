@@ -224,6 +224,10 @@
 
 ----
 
+### Ribald
+
+Ribald or off-color jokes that may be offensive to parents, grandparents, or guests.
+
 #### Spring
 
 - The snow melted, leaving in its wake a harvest of spring flowers.
