@@ -1,14 +1,16 @@
 #Word of the day
 
 #### - 21/01 - Vortex
+
 - A whirling mass of water forming a vacuum at its center, into which anything caught in the motion is drawn; whirlpool.
 - A whirl or powerful eddy of air; whirlwind.
 - A place or situation regarded as drawing into its center all that surrounds it, and hence being inescapable or destructive.
 - Any activity, situation, or state of affairs that resembles a whirl or eddy in its rush, absorbing effect, catastrophic power, etc.
 
 #### Vórtice
-- Uma grande massa de água formando um vácuo em seu centro, para o qual qualquer coisa capturada pelo movimento é atraída;  hidromassagem.
-- Um redemoinho ou poderoso redemoinho de ar;  redemoinho.
+
+- Uma grande massa de água formando um vácuo em seu centro, para o qual qualquer coisa capturada pelo movimento é atraída; hidromassagem.
+- Um redemoinho ou poderoso redemoinho de ar; redemoinho.
 - Um lugar ou situação considerado como atraindo para o seu centro tudo o que o rodeia e, portanto, sendo inevitável ou destrutivo.
 - Qualquer atividade, situação ou estado de coisas que se assemelhe a um redemoinho ou redemoinho em sua velocidade, efeito absorvente, poder catastrófico, etc.
 
@@ -24,11 +26,11 @@
 
 ##### - 22/01 - Xilofone
 
- - Experimente o Djembe, xilofone africano e contrabaixo.
- - O diretor, Sr. Lake, explicou que eles esperavam conseguir um xilofone grande que sempre quiseram, mas não tinham dinheiro para comprar.
- - Os marretas incluem xilofone, marimba, sinos e outros, enquanto a bateria inclui caixas, tons, bumbo, tímpanos e outros.
- - A galinha Katie foi ensinada a tocar xilofone batendo as notas com o bico.
- - Estes incluirão o piano de polegar e o xilofone do Uganda, bem como percussão e dança da África Ocidental e Oriental.
+- Experimente o Djembe, xilofone africano e contrabaixo.
+- O diretor, Sr. Lake, explicou que eles esperavam conseguir um xilofone grande que sempre quiseram, mas não tinham dinheiro para comprar.
+- Os marretas incluem xilofone, marimba, sinos e outros, enquanto a bateria inclui caixas, tons, bumbo, tímpanos e outros.
+- A galinha Katie foi ensinada a tocar xilofone batendo as notas com o bico.
+- Estes incluirão o piano de polegar e o xilofone do Uganda, bem como percussão e dança da África Ocidental e Oriental.
 
 ---
 
@@ -41,8 +43,8 @@
 ####
 
 - Yonder Star é apenas uma empresa especializada em cenas externas.
- - Eles não exigem muito tempo ou esforço para serem montados, mas não espere tirar a tampa da caixa, calçar os sapatos e decolar instantaneamente para o asfalto azul selvagem ali.
- - Elmo usa um lenço e um capacete, perfeitos para explorar o azul selvagem do além.
+- Eles não exigem muito tempo ou esforço para serem montados, mas não espere tirar a tampa da caixa, calçar os sapatos e decolar instantaneamente para o asfalto azul selvagem ali.
+- Elmo usa um lenço e um capacete, perfeitos para explorar o azul selvagem do além.
 
 ---
 
@@ -56,9 +58,9 @@
 ### Brincar
 
 - Nós nos divertimos muito esta manhã no jardim.
- - Ela gosta de diversão e brincadeiras e adora estar com outras crianças.
- - Depois do jantar começou a nevar, e tivemos uma boa brincadeira e uma aula interessante sobre a neve.
- - Se tem crianças por perto, nada me agrada tanto quanto brincar com elas.
+- Ela gosta de diversão e brincadeiras e adora estar com outras crianças.
+- Depois do jantar começou a nevar, e tivemos uma boa brincadeira e uma aula interessante sobre a neve.
+- Se tem crianças por perto, nada me agrada tanto quanto brincar com elas.
 
 ---
 
@@ -73,10 +75,10 @@
 #### Paraíso
 
 - Assim fundada, New Haven era uma cidade e uma colônia combinadas.
- - É servido pela ferrovia de Nova York, New Haven e Hartford.
- - O problema é que meu rancho tem sido um refúgio seguro e até quartel-general da população de lobos por aqui.
- - Foi de Milford Haven que Henrique II.
- - Os riachos e rios que descem pelas montanhas são um paraíso para a prática de desportos ao ar livre.
+- É servido pela ferrovia de Nova York, New Haven e Hartford.
+- O problema é que meu rancho tem sido um refúgio seguro e até quartel-general da população de lobos por aqui.
+- Foi de Milford Haven que Henrique II.
+- Os riachos e rios que descem pelas montanhas são um paraíso para a prática de desportos ao ar livre.
 
 ---
 
@@ -89,10 +91,10 @@
 
 #### Improvisado
 
- - Dean explicou ao padrasto a viagem improvisada de Cynthia à costa após receber a carta de Atherton.
- - Até Quinn parecia ter esquecido seu desejo de vir a público na tensão do nosso improviso de agir.
- - Seguiram-se o Careme improvisado, o Lutrin vivant e Les Ombres.
- - Meredith e Derek escrevem votos de casamento improvisados em um Post-It.
+- Dean explicou ao padrasto a viagem improvisada de Cynthia à costa após receber a carta de Atherton.
+- Até Quinn parecia ter esquecido seu desejo de vir a público na tensão do nosso improviso de agir.
+- Seguiram-se o Careme improvisado, o Lutrin vivant e Les Ombres.
+- Meredith e Derek escrevem votos de casamento improvisados em um Post-It.
 
 ---
 
@@ -105,12 +107,12 @@
 
 #### Alegre
 
- - Anatole o seguiu com seu passo alegre de sempre, mas seu rosto traía ansiedade.
- - Em segundo lugar está a alegre estampa animal zebra feita em cores alternadas e atraentes de marrom e branco.
- - A aba pode inclinar-se para um lado para dar uma aparência alegre.
- - Fixe em papel estampado em um ângulo elegante, usando cola ou adesivos 3D de espuma.
+- Anatole o seguiu com seu passo alegre de sempre, mas seu rosto traía ansiedade.
+- Em segundo lugar está a alegre estampa animal zebra feita em cores alternadas e atraentes de marrom e branco.
+- A aba pode inclinar-se para um lado para dar uma aparência alegre.
+- Fixe em papel estampado em um ângulo elegante, usando cola ou adesivos 3D de espuma.
 
- ---
+---
 
 #### - 28/01 - Pixie
 
@@ -121,10 +123,10 @@
 
 #### - Duende
 
- - Tinkerbell é uma pequena duende travessa com muito charme feminino.
- - Passar de loira para morena ou cortar o cabelo na altura da cintura em uma linda duende leva algum tempo para se acostumar.
- - Quer você goste de um corte pixie, bob ou shag, existe um penteado para idosos que combina com você.
- - Géis brilhantes, pós iluminadores e apliques de pedras de strass podem ser adicionados à sua rotina de maquiagem para criar um estilo etéreo de duende.
+- Tinkerbell é uma pequena duende travessa com muito charme feminino.
+- Passar de loira para morena ou cortar o cabelo na altura da cintura em uma linda duende leva algum tempo para se acostumar.
+- Quer você goste de um corte pixie, bob ou shag, existe um penteado para idosos que combina com você.
+- Géis brilhantes, pós iluminadores e apliques de pedras de strass podem ser adicionados à sua rotina de maquiagem para criar um estilo etéreo de duende.
 
 ---
 
@@ -137,10 +139,10 @@
 
 #### - Por aí
 
- - Ele parecia mais que aliviado.
- - O que acontece além disso é entre vocês dois.
- - É abundante além da imaginação.
- - Havia bosques perto da costa e altas colinas além deles.
+- Ele parecia mais que aliviado.
+- O que acontece além disso é entre vocês dois.
+- É abundante além da imaginação.
+- Havia bosques perto da costa e altas colinas além deles.
 
 ---
 
@@ -153,10 +155,10 @@
 
 #### Scrabble
 
- - Sarah sugeriu um jogo de Scrabble depois do jantar.
- - O tabuleiro scrabble, não cabe na mesa giratória.
- - Sua integridade e relacionamento interpessoal no Scrabble serão melhores com isso.
- - Scrabble é o jogo de tabuleiro de palavras por excelência.
+- Sarah sugeriu um jogo de Scrabble depois do jantar.
+- O tabuleiro scrabble, não cabe na mesa giratória.
+- Sua integridade e relacionamento interpessoal no Scrabble serão melhores com isso.
+- Scrabble é o jogo de tabuleiro de palavras por excelência.
 
 ---
 
@@ -169,10 +171,10 @@
 
 #### Pedestre
 
-- Mas ele gostou deles;  gostava daquela condução louca a vinte quilômetros por hora, gostava de perturbar um motorista ou atropelar um pedestre e de voar a todo galope pelas ruas de Moscou.
- - Mais uma vez, o caderno misterioso ficou em segundo plano em relação aos acontecimentos mais pedestres na pousada Ouray.
- - A ponte pedonal sobre a Leith Street pode ser vista à distância.
- - A ponte pedonal sobre a Leith Street pode ser vista à distância.
+- Mas ele gostou deles; gostava daquela condução louca a vinte quilômetros por hora, gostava de perturbar um motorista ou atropelar um pedestre e de voar a todo galope pelas ruas de Moscou.
+- Mais uma vez, o caderno misterioso ficou em segundo plano em relação aos acontecimentos mais pedestres na pousada Ouray.
+- A ponte pedonal sobre a Leith Street pode ser vista à distância.
+- A ponte pedonal sobre a Leith Street pode ser vista à distância.
 
 ---
 
@@ -185,10 +187,10 @@
 
 #### Rejuvenescer
 
- - O projecto visa rejuvenescer uma área que antes estava coberta de vegetação e se transformar num pomar, aumentando a biodiversidade e o interesse.
- - Fazer mechas no cabelo é uma maneira fácil de rejuvenescer sua aparência.
- - Assim como é importante se preparar para um treino intenso, é igualmente crucial comer bem depois, para que seu corpo possa se reparar e rejuvenescer.
- - Dr. Hema diz: "Nos próximos três meses, minha dica se concentrará em um conceito inovador em cirurgia estética, que é rejuvenescer a pele camada por camada.
+- O projecto visa rejuvenescer uma área que antes estava coberta de vegetação e se transformar num pomar, aumentando a biodiversidade e o interesse.
+- Fazer mechas no cabelo é uma maneira fácil de rejuvenescer sua aparência.
+- Assim como é importante se preparar para um treino intenso, é igualmente crucial comer bem depois, para que seu corpo possa se reparar e rejuvenescer.
+- Dr. Hema diz: "Nos próximos três meses, minha dica se concentrará em um conceito inovador em cirurgia estética, que é rejuvenescer a pele camada por camada.
 
 ---
 
@@ -201,10 +203,10 @@
 
 ### Cordeiro
 
- - Mas o cordeiro é tão pequenininho.
- - Uma mulher adulta brincando no feno com um cordeiro – toda arrumada.
- - Os outros se espalharam, e de repente ela se sentiu como um cordeiro cercado por uma matilha de lobos tentando decidir o que fazer com ela.
- - O cordeiro pascal não é mais comido, mas representado pelo pernil de um cordeiro assado nas cinzas;  comem-se pão ázimo e ervas amargas (haroseth);  bebem-se quatro copos de vinho antes e depois da refeição, e recita-se um certo número de Salmos.
+- Mas o cordeiro é tão pequenininho.
+- Uma mulher adulta brincando no feno com um cordeiro – toda arrumada.
+- Os outros se espalharam, e de repente ela se sentiu como um cordeiro cercado por uma matilha de lobos tentando decidir o que fazer com ela.
+- O cordeiro pascal não é mais comido, mas representado pelo pernil de um cordeiro assado nas cinzas; comem-se pão ázimo e ervas amargas (haroseth); bebem-se quatro copos de vinho antes e depois da refeição, e recita-se um certo número de Salmos.
 
 ---
 
@@ -215,31 +217,47 @@
 - Players on both sides quickly joined in, creating a melee.
 - Nikki flips out and in the ensuing melee, slaps Dominic.
 
-#### Corpo a corpo
+#### - Corpo a corpo
 
- - Ele teve um vislumbre de Rissa em meio à confusão e lutou com o cavalo para se controlar.
- - O homem a centímetros dela disparou contra a confusão, junto com as armas laser de vários outros.
- - Jogadores de ambos os lados rapidamente se juntaram, criando um corpo a corpo.
- - Nikki enlouquece e na confusão que se segue, dá um tapa em Dominic.
+- Ele teve um vislumbre de Rissa em meio à confusão e lutou com o cavalo para se controlar.
+- O homem a centímetros dela disparou contra a confusão, junto com as armas laser de vários outros.
+- Jogadores de ambos os lados rapidamente se juntaram, criando um corpo a corpo.
+- Nikki enlouquece e na confusão que se segue, dá um tapa em Dominic.
 
-----
+---
 
-### Ribald
-
-Ribald or off-color jokes that may be offensive to parents, grandparents, or guests.
-
-#### Spring
+#### - 04/02 - Spring
 
 - The snow melted, leaving in its wake a harvest of spring flowers.
 - Spring is around the corner.
 - The night air of spring was chilly in the mountains.
-- The night air of spring was chilly in the mountains.
+- It's so lovely a tour on a spring afternoon.
+- I can see from my perch a window downstairs in back remains open to catch the lovely spring breeze.
 
 ---
 
 #### Primavera
 
- - A neve derreteu, deixando em seu rastro uma colheita de flores primaveris.
- - A primavera está chegando.
- - O ar noturno da primavera estava frio nas montanhas.
- - O ar noturno da primavera estava frio nas montanhas.
+- A neve derreteu, deixando em seu rastro uma colheita de flores primaveris.
+- A primavera está chegando.
+- O ar noturno da primavera estava frio nas montanhas.
+- É tão lindo um passeio numa tarde de primavera.
+- Posso ver do meu poleiro que uma janela lá embaixo permanece aberta para pegar a adorável brisa da primavera.
+
+---
+
+#### - 05/02 - Ribald
+
+- Ribald or off-color jokes that may be offensive to parents, grandparents, or guests.
+- We share the big chair in the canteen, and ignore the ribald comments from everyone.
+- The ribald humor, the overuse of which might potentially have ruined this bodice ripper, is also kept in check.
+- You heard their ribald laugh as they clutched the moving bag that the Count threw to them.
+- He got into some trouble with the chancellor, Gardiner, over a ribald play, "Pammachius," performed by the students, deriding the old ecclesiastical system, though Bonner wrote to Parker of the assured affection he bore him.
+
+#### Piadas obscenas
+
+- Piadas obscenas ou obscenas que podem ser ofensivas para pais, avós ou convidados.
+- Compartilhamos a cadeira grande da cantina e ignoramos os comentários obscenos de todos.
+- O humor obsceno, cujo uso excessivo poderia potencialmente ter arruinado este rasgador de corpete, também é controlado.
+- Você ouviu a risada obscena deles enquanto seguravam a bolsa de mudança que o conde jogou para eles.
+- Ele teve alguns problemas com o chanceler, Gardiner, por causa de uma peça obscena, "Pammachius", apresentada pelos estudantes, ridicularizando o antigo sistema eclesiástico, embora Bonner tenha escrito a Parker sobre o afeto garantido que ele lhe dedicava.
