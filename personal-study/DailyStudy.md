@@ -261,3 +261,21 @@
 - O humor obsceno, cujo uso excessivo poderia potencialmente ter arruinado este rasgador de corpete, também é controlado.
 - Você ouviu a risada obscena deles enquanto seguravam a bolsa de mudança que o conde jogou para eles.
 - Ele teve alguns problemas com o chanceler, Gardiner, por causa de uma peça obscena, "Pammachius", apresentada pelos estudantes, ridicularizando o antigo sistema eclesiástico, embora Bonner tenha escrito a Parker sobre o afeto garantido que ele lhe dedicava.
+
+---
+
+### - 06/02 - Pinnacle
+
+- This was the pinnacle of my happiness, from which I was in a little while dashed to earth.
+- You have now reached the pinnacle of your career.
+- On the same side of the Great Valley, south of the Potomac, are the Pinnacle (3007 ft.) and Pidgeon Roost (3400 ft.).
+- The men who built the temple of Bel at Nippur, in the year (say) 5000 B.C., must have felt themselves at a pinnacle of civilization and culture.
+- The recalled parlement seemed at the pinnacle of power.
+
+### Pináculo
+
+- Este foi o ápice da minha felicidade, da qual em pouco tempo fui lançado à terra.
+- Você atingiu o auge da sua carreira.
+- No mesmo lado do Grande Vale, ao sul do Potomac, estão o Pinnacle (3.007 pés) e o Pidgeon Roost (3.400 pés).
+- Os homens que construíram o templo de Bel em Nippur, no ano (digamos) 5000 a.C., devem ter-se sentido no auge da civilização e da cultura.
+- O parlamento reconvocado parecia estar no auge do poder.
