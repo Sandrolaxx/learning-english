@@ -279,3 +279,21 @@
 - No mesmo lado do Grande Vale, ao sul do Potomac, estão o Pinnacle (3.007 pés) e o Pidgeon Roost (3.400 pés).
 - Os homens que construíram o templo de Bel em Nippur, no ano (digamos) 5000 a.C., devem ter-se sentido no auge da civilização e da cultura.
 - O parlamento reconvocado parecia estar no auge do poder.
+
+---
+
+### - 13/02 - Magnanimous
+
+-His heart was kind and his affections were strong; he was magnanimous and disinterested, simple and honest.
+-I must be magnanimous and truly great.
+-Sumner's last years were further saddened by the misconstruction put upon one of his most magnanimous acts.
+-A magnificent, magnanimous man; holding the reins of the world, not quite in the imaginary sense; scourging anarchy down, and urging noble effort up, really on a grand scale.
+-He is an invalid and an old man who must be forgiven; but he is good and magnanimous and will love her who makes his son happy.
+
+### Magnânimo
+
+-Seu coração era gentil e seus afetos eram fortes; ele era magnânimo e desinteressado, simples e honesto.
+-Devo ser magnânimo e verdadeiramente grande.
+-Os últimos anos de Sumner foram ainda mais tristes pela má interpretação de um de seus atos mais magnânimos.
+-Um homem magnífico e magnânimo; segurando as rédeas do mundo, não exatamente no sentido imaginário; devastando a anarquia e incentivando o esforço nobre, realmente em grande escala.
+-Ele é um inválido e um velho que deve ser perdoado; mas ele é bom e magnânimo e amará aquela que faz feliz seu filho.
