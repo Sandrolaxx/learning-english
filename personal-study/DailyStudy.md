@@ -284,16 +284,34 @@
 
 ### - 13/02 - Magnanimous
 
--His heart was kind and his affections were strong; he was magnanimous and disinterested, simple and honest.
--I must be magnanimous and truly great.
--Sumner's last years were further saddened by the misconstruction put upon one of his most magnanimous acts.
--A magnificent, magnanimous man; holding the reins of the world, not quite in the imaginary sense; scourging anarchy down, and urging noble effort up, really on a grand scale.
--He is an invalid and an old man who must be forgiven; but he is good and magnanimous and will love her who makes his son happy.
+- His heart was kind and his affections were strong; he was magnanimous and disinterested, simple and honest.
+- I must be magnanimous and truly great.
+- Sumner's last years were further saddened by the misconstruction put upon one of his most magnanimous acts.
+- A magnificent, magnanimous man; holding the reins of the world, not quite in the imaginary sense; scourging anarchy down, and urging noble effort up, really on a grand scale.
+- He is an invalid and an old man who must be forgiven; but he is good and magnanimous and will love her who makes his son happy.
 
 ### Magnânimo
 
--Seu coração era gentil e seus afetos eram fortes; ele era magnânimo e desinteressado, simples e honesto.
--Devo ser magnânimo e verdadeiramente grande.
--Os últimos anos de Sumner foram ainda mais tristes pela má interpretação de um de seus atos mais magnânimos.
--Um homem magnífico e magnânimo; segurando as rédeas do mundo, não exatamente no sentido imaginário; devastando a anarquia e incentivando o esforço nobre, realmente em grande escala.
--Ele é um inválido e um velho que deve ser perdoado; mas ele é bom e magnânimo e amará aquela que faz feliz seu filho.
+- Seu coração era gentil e seus afetos eram fortes; ele era magnânimo e desinteressado, simples e honesto.
+- Devo ser magnânimo e verdadeiramente grande.
+- Os últimos anos de Sumner foram ainda mais tristes pela má interpretação de um de seus atos mais magnânimos.
+- Um homem magnífico e magnânimo; segurando as rédeas do mundo, não exatamente no sentido imaginário; devastando a anarquia e incentivando o esforço nobre, realmente em grande escala.
+- Ele é um inválido e um velho que deve ser perdoado; mas ele é bom e magnânimo e amará aquela que faz feliz seu filho.
+
+---
+
+### - 14/02 - Jerkin
+
+- A man may wear it on both sides, like a leather jerkin.
+- An optional "jerkin" could be worn over the doublet.
+- He was wearing a green jerkin over scuffed leather armor.
+- A coachman in a jerkin, who stood nearest, sprang forward and snatched it up.
+- The sleeves were laced onto the torso portion of the outfit, which enabled it to both be worn as a jerkin in warm weather and also to replace the sleeves as they became worn out or suffered tears.
+
+### Jerkin
+
+- Um homem pode usá-lo dos dois lados, como um gibão de couro.
+- Um "gibão" opcional pode ser usado por cima do gibão.
+- Ele estava vestindo um gibão verde sobre uma armadura de couro surrada.
+- Um cocheiro de gibão, que estava mais próximo, avançou e agarrou-o.
+- As mangas foram amarradas no torso do traje, o que permitiu que ele fosse usado como gibão nos dias quentes e também para substituir as mangas quando elas se desgastassem ou rasgassem.
