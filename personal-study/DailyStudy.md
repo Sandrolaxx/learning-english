@@ -201,7 +201,7 @@
 - The others fanned out, and she suddenly felt like a lamb surrounded by a wolf pack trying to decide what to do with her.
 - The paschal lamb is no longer eaten but represented by the shank bone of a lamb roasted in the ashes; unleavened bread and bitter herbs (haroseth) are eaten; four cups of wine are drunk before and after the repast, and a certain number of Psalms are recited.
 
-### Cordeiro
+#### Cordeiro
 
 - Mas o cordeiro é tão pequenininho.
 - Uma mulher adulta brincando no feno com um cordeiro – toda arrumada.
@@ -264,7 +264,7 @@
 
 ---
 
-### - 06/02 - Pinnacle
+#### - 06/02 - Pinnacle
 
 - This was the pinnacle of my happiness, from which I was in a little while dashed to earth.
 - You have now reached the pinnacle of your career.
@@ -272,7 +272,7 @@
 - The men who built the temple of Bel at Nippur, in the year (say) 5000 B.C., must have felt themselves at a pinnacle of civilization and culture.
 - The recalled parlement seemed at the pinnacle of power.
 
-### Pináculo
+#### Pináculo
 
 - Este foi o ápice da minha felicidade, da qual em pouco tempo fui lançado à terra.
 - Você atingiu o auge da sua carreira.
@@ -282,7 +282,7 @@
 
 ---
 
-### - 13/02 - Magnanimous
+#### - 07/02 - Magnanimous
 
 - His heart was kind and his affections were strong; he was magnanimous and disinterested, simple and honest.
 - I must be magnanimous and truly great.
@@ -290,7 +290,7 @@
 - A magnificent, magnanimous man; holding the reins of the world, not quite in the imaginary sense; scourging anarchy down, and urging noble effort up, really on a grand scale.
 - He is an invalid and an old man who must be forgiven; but he is good and magnanimous and will love her who makes his son happy.
 
-### Magnânimo
+#### Magnânimo
 
 - Seu coração era gentil e seus afetos eram fortes; ele era magnânimo e desinteressado, simples e honesto.
 - Devo ser magnânimo e verdadeiramente grande.
@@ -300,7 +300,7 @@
 
 ---
 
-### - 14/02 - Jerkin
+#### - 08/02 - Jerkin
 
 - A man may wear it on both sides, like a leather jerkin.
 - An optional "jerkin" could be worn over the doublet.
@@ -308,10 +308,28 @@
 - A coachman in a jerkin, who stood nearest, sprang forward and snatched it up.
 - The sleeves were laced onto the torso portion of the outfit, which enabled it to both be worn as a jerkin in warm weather and also to replace the sleeves as they became worn out or suffered tears.
 
-### Jerkin
+#### Jerkin
 
 - Um homem pode usá-lo dos dois lados, como um gibão de couro.
 - Um "gibão" opcional pode ser usado por cima do gibão.
 - Ele estava vestindo um gibão verde sobre uma armadura de couro surrada.
 - Um cocheiro de gibão, que estava mais próximo, avançou e agarrou-o.
 - As mangas foram amarradas no torso do traje, o que permitiu que ele fosse usado como gibão nos dias quentes e também para substituir as mangas quando elas se desgastassem ou rasgassem.
+
+---
+
+#### - 09/02 - Verdure
+
+- The verdure had thickened and its bright green stood out sharply against the brownish strips of winter rye trodden down by the cattle, and against the pale-yellow stubble of the spring buckwheat.
+- The grass used for Japanese lawns loses its verdure in autumn and remains from November to March a greyish brown blot upon the scene.
+- In the upper part of the river the reservoirs are partially protected by curtains of verdure from the effects of the evaporation which makes itself so severely felt on the treeless seaboard.
+- On either side of the river valley a steppe-like desert, covered in the spring with verdure, the rest of the year barren and brown, stretches away as far as the eye can see.
+- The boldness of its scenery is softened by the richness of its verdure.
+
+#### - Verdura
+
+- A verdura havia engrossado e seu verde brilhante destacava-se nitidamente contra as faixas acastanhadas do centeio de inverno pisadas pelo gado e contra o restolho amarelo-pálido do trigo sarraceno da primavera.
+- A grama usada nos gramados japoneses perde o verde no outono e permanece de novembro a março como uma mancha marrom acinzentada no cenário.
+- Na parte alta do rio as albufeiras estão parcialmente protegidas por cortinas de verdura dos efeitos da evaporação que tanto se faz sentir na costa desprovida de árvores.
+- Em ambos os lados do vale do rio, um deserto semelhante a uma estepe, coberto de vegetação na primavera, estéril e marrom no resto do ano, estende-se até onde a vista alcança.
+- A ousadia da sua paisagem é suavizada pela riqueza do seu verde.
