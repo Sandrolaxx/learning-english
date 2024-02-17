@@ -333,3 +333,21 @@
 - Na parte alta do rio as albufeiras estão parcialmente protegidas por cortinas de verdura dos efeitos da evaporação que tanto se faz sentir na costa desprovida de árvores.
 - Em ambos os lados do vale do rio, um deserto semelhante a uma estepe, coberto de vegetação na primavera, estéril e marrom no resto do ano, estende-se até onde a vista alcança.
 - A ousadia da sua paisagem é suavizada pela riqueza do seu verde.
+
+---
+
+### - 10/02 - Querulous
+
+- Her tone was now querulous and her lip drawn up, giving her not a joyful, but an animal, squirrel-like expression.
+- He passed into the next room, and the deep, querulous sounds of his voice were at once heard from there.
+- I never heard from him a querulous tone or saw a sign of irritation.
+- You ca n't go on, the querulous small voice insisted.
+- Though querulous because of his non-preferment, De Quincey tells us that "his lordship was a joyous, jovial, and cordial host."
+
+### Queixoso
+
+- Seu tom agora era queixoso e seus lábios contraídos, dando-lhe uma expressão não alegre, mas sim animal, de esquilo.
+- Ele passou para a sala ao lado, e os sons profundos e queixosos de sua voz foram imediatamente ouvidos de lá.
+- Nunca ouvi dele um tom queixoso ou vi sinal de irritação.
+- Você não pode continuar, insistiu a vozinha queixosa.
+- Embora queixoso por causa de sua não preferência, De Quincey nos diz que "sua senhoria foi um anfitrião alegre, jovial e cordial".
