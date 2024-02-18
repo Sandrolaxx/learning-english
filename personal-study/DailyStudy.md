@@ -351,3 +351,21 @@
 - Nunca ouvi dele um tom queixoso ou vi sinal de irritação.
 - Você não pode continuar, insistiu a vozinha queixosa.
 - Embora queixoso por causa de sua não preferência, De Quincey nos diz que "sua senhoria foi um anfitrião alegre, jovial e cordial".
+
+---
+
+### - 17/02 - Alacrity
+
+- She rose with alacrity and moved away.
+- With a bridegroom's fresh alacrity, let us address the issues at hand.
+- Having stripped off with great alacrity, Daniel got on the bed.
+- The minister had an alacrity of spirit that helped minimize the weight he carries.
+- Spain, which then was without a governor of consular rank, showed no alacrity.
+
+### Entusiasmo/Vivacidade
+
+- Ela se levantou com entusiasmo e se afastou.
+- Com a vivacidade de um noivo, vamos abordar as questões em questão.
+- Depois de se despir com grande entusiasmo, Daniel deitou-se na cama.
+- O ministro teve uma vivacidade de espírito que ajudou a minimizar o peso que carrega.
+- A Espanha, que então não tinha governador de categoria consular, não demonstrou entusiasmo.
