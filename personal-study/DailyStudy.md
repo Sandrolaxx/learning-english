@@ -336,7 +336,7 @@
 
 ---
 
-### - 10/02 - Querulous
+#### - 10/02 - Querulous
 
 - Her tone was now querulous and her lip drawn up, giving her not a joyful, but an animal, squirrel-like expression.
 - He passed into the next room, and the deep, querulous sounds of his voice were at once heard from there.
@@ -344,7 +344,7 @@
 - You ca n't go on, the querulous small voice insisted.
 - Though querulous because of his non-preferment, De Quincey tells us that "his lordship was a joyous, jovial, and cordial host."
 
-### Queixoso
+#### Queixoso
 
 - Seu tom agora era queixoso e seus lábios contraídos, dando-lhe uma expressão não alegre, mas sim animal, de esquilo.
 - Ele passou para a sala ao lado, e os sons profundos e queixosos de sua voz foram imediatamente ouvidos de lá.
@@ -354,7 +354,7 @@
 
 ---
 
-### - 17/02 - Alacrity
+#### - 17/02 - Alacrity
 
 - She rose with alacrity and moved away.
 - With a bridegroom's fresh alacrity, let us address the issues at hand.
@@ -362,10 +362,28 @@
 - The minister had an alacrity of spirit that helped minimize the weight he carries.
 - Spain, which then was without a governor of consular rank, showed no alacrity.
 
-### Entusiasmo/Vivacidade
+#### Entusiasmo/Vivacidade
 
 - Ela se levantou com entusiasmo e se afastou.
 - Com a vivacidade de um noivo, vamos abordar as questões em questão.
 - Depois de se despir com grande entusiasmo, Daniel deitou-se na cama.
 - O ministro teve uma vivacidade de espírito que ajudou a minimizar o peso que carrega.
 - A Espanha, que então não tinha governador de categoria consular, não demonstrou entusiasmo.
+
+---
+
+#### - 19/02 - Precipitate
+
+- The precipitate is washed, collected, and dried at a very moderate heat.
+- Soap when dissolved in a large amount of water suffers hydrolysis, with formation of a precipitate of acid salt and a solution containing free alkali.
+- In this crisis Pericles persuaded the wavering assembly that compromise was useless, because Sparta was resolved to precipitate a war in any case.
+- Worm infections can precipitate other circulatory conditions, causing even more complications.
+- The yellow precipitate obtained is washed with a solution of potassium acetate and finally with dilute alcohol.
+
+### Precipitado
+
+- O precipitado é lavado, recolhido e seco a calor muito moderado.
+- O sabão quando dissolvido em grande quantidade de água sofre hidrólise, com formação de um precipitado de sal ácido e uma solução contendo álcali livre.
+- Nesta crise, Péricles convenceu a hesitante assembleia de que o acordo era inútil, porque Esparta estava decidida a precipitar uma guerra de qualquer maneira.
+- As infecções por vermes podem precipitar outras condições circulatórias, causando ainda mais complicações.
+- O precipitado amarelo obtido é lavado com uma solução de acetato de potássio e finalmente com álcool diluído.
