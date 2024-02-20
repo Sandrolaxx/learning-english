@@ -354,7 +354,7 @@
 
 ---
 
-#### - 17/02 - Alacrity
+#### - 11/02 - Alacrity
 
 - She rose with alacrity and moved away.
 - With a bridegroom's fresh alacrity, let us address the issues at hand.
@@ -372,7 +372,7 @@
 
 ---
 
-#### - 19/02 - Precipitate
+#### - 12/02 - Precipitate
 
 - The precipitate is washed, collected, and dried at a very moderate heat.
 - Soap when dissolved in a large amount of water suffers hydrolysis, with formation of a precipitate of acid salt and a solution containing free alkali.
@@ -387,3 +387,19 @@
 - Nesta crise, Péricles convenceu a hesitante assembleia de que o acordo era inútil, porque Esparta estava decidida a precipitar uma guerra de qualquer maneira.
 - As infecções por vermes podem precipitar outras condições circulatórias, causando ainda mais complicações.
 - O precipitado amarelo obtido é lavado com uma solução de acetato de potássio e finalmente com álcool diluído.
+
+---
+
+#### - 13/02 - Outlandish
+
+- Work shoes shouldn't be too outlandish yet they should be stylish.
+- The end result will be over-the-top, garish and outlandish.
+- This is a distinctly ' offbeat ' track, with some rather outlandish lyrics!
+- This is a distinctly ' offbeat ' track, with some rather outlandish lyrics!
+
+#### Estranho
+
+- Os sapatos de trabalho não devem ser muito estranhos, mas devem ser elegantes.
+- O resultado final será exagerado, extravagante e estranho.
+- Esta é uma faixa distintamente ‘excêntrica’, com algumas letras bastante estranhas!
+- Esta é uma faixa distintamente ‘excêntrica’, com algumas letras bastante estranhas!
