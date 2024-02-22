@@ -405,3 +405,17 @@
 - Na penumbra da cortina seus olhos luminosos brilhavam mais do que o normal pelas lágrimas de alegria que havia neles.
 - Estas forças têm o mesmo período e direção que as próprias vibrações luminosas não perturbadas.
 - Ele parecia não um professor entre os alunos, mas um aluno entre os alunos; pausas para reflexão alternadas com exposição luminosa; demonstração acompanhada de invenção; e assim originou sua Theorie des fonctions analytiques (Paris, 1797).
+
+#### - 14/02 - Outlandish
+
+- Work shoes shouldn't be too outlandish yet they should be stylish.
+- The end result will be over-the-top, garish and outlandish.
+- This is a distinctly ' offbeat ' track, with some rather outlandish lyrics!
+- This is a distinctly ' offbeat ' track, with some rather outlandish lyrics!
+
+#### Estranho
+
+- Os sapatos de trabalho não devem ser muito estranhos, mas devem ser elegantes.
+- O resultado final será exagerado, extravagante e estranho.
+- Esta é uma faixa distintamente ‘excêntrica’, com algumas letras bastante estranhas!
+- Esta é uma faixa distintamente ‘excêntrica’, com algumas letras bastante estranhas!
