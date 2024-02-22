@@ -354,7 +354,7 @@
 
 ---
 
-#### - 17/02 - Alacrity
+#### - 11/02 - Alacrity
 
 - She rose with alacrity and moved away.
 - With a bridegroom's fresh alacrity, let us address the issues at hand.
@@ -372,7 +372,7 @@
 
 ---
 
-#### - 19/02 - Precipitate
+#### - 12/02 - Precipitate
 
 - The precipitate is washed, collected, and dried at a very moderate heat.
 - Soap when dissolved in a large amount of water suffers hydrolysis, with formation of a precipitate of acid salt and a solution containing free alkali.
@@ -387,3 +387,21 @@
 - Nesta crise, Péricles convenceu a hesitante assembleia de que o acordo era inútil, porque Esparta estava decidida a precipitar uma guerra de qualquer maneira.
 - As infecções por vermes podem precipitar outras condições circulatórias, causando ainda mais complicações.
 - O precipitado amarelo obtido é lavado com uma solução de acetato de potássio e finalmente com álcool diluído.
+
+---
+
+### - 13/02 - Luminous
+
+- A luminous warmth seems to enfold me.
+- The name "firefly" is often applied also to luminous beetles of the family Lampyridae, to which the well-known glow-worm belongs.
+- In the dim shadow of the curtain her luminous eyes shone more brightly than usual from the tears of joy that were in them.
+- These forces have the same period and direction as the undisturbed luminous vibrations themselves.
+- He seemed, not a professor amongst students, but a learner amongst learners; pauses for thought alternated with luminous exposition; invention accompanied demonstration; and thus originated his Theorie des fonctions analytiques (Paris, 1797).
+
+### Luminoso
+
+- Um calor luminoso parece envolver-me.
+- O nome "vaga-lume" é frequentemente aplicado também a besouros luminosos da família Lampyridae, à qual pertence o conhecido pirilampo.
+- Na penumbra da cortina seus olhos luminosos brilhavam mais do que o normal pelas lágrimas de alegria que havia neles.
+- Estas forças têm o mesmo período e direção que as próprias vibrações luminosas não perturbadas.
+- Ele parecia não um professor entre os alunos, mas um aluno entre os alunos; pausas para reflexão alternadas com exposição luminosa; demonstração acompanhada de invenção; e assim originou sua Theorie des fonctions analytiques (Paris, 1797).
