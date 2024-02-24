@@ -406,6 +406,8 @@
 - Estas forças têm o mesmo período e direção que as próprias vibrações luminosas não perturbadas.
 - Ele parecia não um professor entre os alunos, mas um aluno entre os alunos; pausas para reflexão alternadas com exposição luminosa; demonstração acompanhada de invenção; e assim originou sua Theorie des fonctions analytiques (Paris, 1797).
 
+---
+
 #### - 14/02 - Outlandish
 
 - Work shoes shouldn't be too outlandish yet they should be stylish.
@@ -437,3 +439,21 @@
 - Acho que alguém não ficou feliz com o fim da guerra e tem o poder e o dinheiro para revigorá-la, disse ele.
 - Em alguns casos, a exposição pode ser prejudicial (pelo menos temporariamente), mas para uma celebridade cuja estrela está a desaparecer, a publicidade pode revigorar a sua carreira ou pelo menos colocar o seu nome novamente nas notícias.
 - Snoop Dogg não é uma celebridade da lista B que espera revigorar sua carreira com um reality show.
+
+---
+
+### - 16/02 - Hermetic
+
+- A submarine is a hermetic environment where no water can enter and no air can escape.
+- A team of engineers specifically focused on ensuring the space shuttle was hermetic so that the passengers would stay safe.
+- We give below some of the more important hermetic axioms from The Kybalion with a few comments added to each.
+- We give below some of the more important hermetic axioms from The Kybalion with a few comments added to each.
+- Of these pseudepigraphic Hermetic writings some have come down to us in the original Greek; others survive in Latin or Arabic translations; but the majority appear to have perished.
+
+### Hermético
+
+ - Um submarino é um ambiente hermético onde nenhuma água pode entrar e nenhum ar pode escapar.
+ - Uma equipe de engenheiros focada especificamente em garantir que o ônibus espacial fosse hermético para que os passageiros permanecessem seguros.
+ - Damos abaixo alguns dos axiomas herméticos mais importantes do Caibalion com alguns comentários adicionados a cada um.
+ - Damos abaixo alguns dos axiomas herméticos mais importantes do Caibalion com alguns comentários adicionados a cada um.
+ - Destes escritos herméticos pseudoepigráficos, alguns chegaram até nós no original grego;  outros sobrevivem em traduções latinas ou árabes;  mas a maioria parece ter morrido.
