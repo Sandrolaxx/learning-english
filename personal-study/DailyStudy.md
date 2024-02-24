@@ -419,3 +419,21 @@
 - O resultado final será exagerado, extravagante e estranho.
 - Esta é uma faixa distintamente ‘excêntrica’, com algumas letras bastante estranhas!
 - Esta é uma faixa distintamente ‘excêntrica’, com algumas letras bastante estranhas!
+
+---
+
+### - 15/02 - Reinvigorate
+
+- To such work Benson at once devoted himself; and did more perhaps than any other man to reinvigorate cathedral life in England.
+- If used for this purpose, flirting can reinvigorate a marriage that has grown stale.
+- I think someone wasn't happy the war ended and has the power and money to reinvigorate it, he said.
+- In some cases, the exposure can be damaging (at least temporarily), but for a celebrity whose star is fading, the publicity can reinvigorate their career or at least put their name in the news again.
+- Snoop Dogg is not a B-List celebrity hoping to reinvigorate his career with a reality series.
+
+### Revigorar
+
+- A tal trabalho Benson dedicou-se imediatamente; e talvez tenha feito mais do que qualquer outro homem para revigorar a vida da catedral na Inglaterra.
+- Se usado para esse propósito, o flerte pode revigorar um casamento que se tornou obsoleto.
+- Acho que alguém não ficou feliz com o fim da guerra e tem o poder e o dinheiro para revigorá-la, disse ele.
+- Em alguns casos, a exposição pode ser prejudicial (pelo menos temporariamente), mas para uma celebridade cuja estrela está a desaparecer, a publicidade pode revigorar a sua carreira ou pelo menos colocar o seu nome novamente nas notícias.
+- Snoop Dogg não é uma celebridade da lista B que espera revigorar sua carreira com um reality show.
