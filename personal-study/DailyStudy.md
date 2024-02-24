@@ -457,3 +457,21 @@
  - Damos abaixo alguns dos axiomas herméticos mais importantes do Caibalion com alguns comentários adicionados a cada um.
  - Damos abaixo alguns dos axiomas herméticos mais importantes do Caibalion com alguns comentários adicionados a cada um.
  - Destes escritos herméticos pseudoepigráficos, alguns chegaram até nós no original grego;  outros sobrevivem em traduções latinas ou árabes;  mas a maioria parece ter morrido.
+
+---
+
+### - 17/02 - Poignant
+
+- The moment was too poignant to be amusing.
+- It was one of many poignant moments.
+- It was a poignant portrayal of the effects of a war that touched every aspect of society.
+- Some of his most poignant and most enchanting letters were written during this romantic period of his life.
+- Old Man Adam's wise words have become very poignant indeed.
+
+### Comovente
+
+- O momento foi muito comovente para ser divertido.
+ - Foi um dos muitos momentos comoventes.
+ - Foi um retrato comovente dos efeitos de uma guerra que tocou todos os aspectos da sociedade.
+ - Algumas de suas cartas mais comoventes e encantadoras foram escritas durante esse período romântico de sua vida.
+ - As sábias palavras do Velho Adam tornaram-se realmente muito comoventes.
