@@ -475,3 +475,21 @@
  - Foi um retrato comovente dos efeitos de uma guerra que tocou todos os aspectos da sociedade.
  - Algumas de suas cartas mais comoventes e encantadoras foram escritas durante esse período romântico de sua vida.
  - As sábias palavras do Velho Adam tornaram-se realmente muito comoventes.
+
+---
+
+### - 18/02 - Forsaken
+
+- He squeezed her harder, and she opened her eyes, watching the forsaken book burn.
+- It was time for him to leave this god forsaken place.
+- Natural science was forsaken, except in so far as it ministered to theology.
+- My God, my God, why hast thou forsaken me?
+- A great darkness shrouded the scene for three hours, and then, in His native Aramaic, Jesus cried in the words of the Psalm, " My God, My God, why has Thou forsaken Me?"
+
+### Abandonado
+
+- Ele a apertou com mais força, e ela abriu os olhos, vendo o livro abandonado queimar.
+- Já era hora dele deixar esse lugar abandonado por Deus.
+- A ciência natural foi abandonada, exceto na medida em que ministrava à teologia.
+- Meu Deus, meu Deus, por que me abandonaste?
+- Uma grande escuridão envolveu a cena por três horas, e então, em seu aramaico nativo, Jesus gritou nas palavras do Salmo: "Deus meu, Deus meu, por que me desamparaste?"
