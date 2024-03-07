@@ -493,3 +493,21 @@
 - A ciência natural foi abandonada, exceto na medida em que ministrava à teologia.
 - Meu Deus, meu Deus, por que me abandonaste?
 - Uma grande escuridão envolveu a cena por três horas, e então, em seu aramaico nativo, Jesus gritou nas palavras do Salmo: "Deus meu, Deus meu, por que me desamparaste?"
+
+---
+
+### 19/02 - Precipitate
+
+- The precipitate is washed, collected, and dried at a very moderate heat.
+- Soap when dissolved in a large amount of water suffers hydrolysis, with formation of a precipitate of acid salt and a solution containing free alkali.
+- In this crisis Pericles persuaded the wavering assembly that compromise was useless, because Sparta was resolved to precipitate a war in any case.
+- Worm infections can precipitate other circulatory conditions, causing even more complications.
+- The yellow precipitate obtained is washed with a solution of potassium acetate and finally with dilute alcohol.
+
+### Precipitado
+
+- O precipitado é lavado, recolhido e seco a calor muito moderado.
+- O sabão quando dissolvido em grande quantidade de água sofre hidrólise, com formação de um precipitado de sal ácido e uma solução contendo álcali livre.
+- Nesta crise, Péricles convenceu a hesitante assembleia de que o acordo era inútil, porque Esparta estava decidida a precipitar uma guerra de qualquer maneira.
+- As infecções por vermes podem precipitar outras condições circulatórias, causando ainda mais complicações.
+- O precipitado amarelo obtido é lavado com uma solução de acetato de potássio e finalmente com álcool diluído.
