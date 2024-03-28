@@ -511,3 +511,21 @@
 - Nesta crise, Péricles convenceu a hesitante assembleia de que o acordo era inútil, porque Esparta estava decidida a precipitar uma guerra de qualquer maneira.
 - As infecções por vermes podem precipitar outras condições circulatórias, causando ainda mais complicações.
 - O precipitado amarelo obtido é lavado com uma solução de acetato de potássio e finalmente com álcool diluído.
+
+---
+
+### 20/02 - Savior
+
+- That does not mean when we accept Jesus as Savior and Lord we are then made perfect, no we are just forgiven.
+- We shall truly and sincerely repent and turn from our sin, thanking Jesus that He is our Savior.
+- At the Cross where Jesus died I meet God with true repentance in my heart, thanking Him for Jesus my Savior.
+- We serve a risen savior, He's in this world today.
+- And, as a result, God sent a savior, Moses.
+
+### Salvador
+
+- Isso não significa que quando aceitamos Jesus como Salvador e Senhor, somos aperfeiçoados, não, somos apenas perdoados.
+- Devemos nos arrepender verdadeira e sinceramente e abandonar nossos pecados, agradecendo a Jesus por Ele ser nosso Salvador.
+- Na Cruz onde Jesus morreu encontro Deus com verdadeiro arrependimento no coração, agradecendo-Lhe por Jesus meu Salvador.
+- Servimos um salvador ressuscitado, Ele está neste mundo hoje.
+- E, como resultado, Deus enviou um salvador, Moisés.
