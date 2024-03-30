@@ -529,3 +529,21 @@
 - Na Cruz onde Jesus morreu encontro Deus com verdadeiro arrependimento no coração, agradecendo-Lhe por Jesus meu Salvador.
 - Servimos um salvador ressuscitado, Ele está neste mundo hoje.
 - E, como resultado, Deus enviou um salvador, Moisés.
+
+---
+
+### 21/02 - Sin
+
+- His main sin appears to be his poor timing.
+- It is not a sin to want your child.
+- Sin is the contradiction of that purpose, and guilt is alienation from the family.
+- God loves the sinner, but hates the sin.
+- Ogling a spouse couldn't be a sin – especially when he derived such obvious pleasure from it.
+
+### Pecado
+
+- Seu principal pecado parece ser o mau timing.
+- Não é pecado querer seu filho.
+- O pecado é a contradição desse propósito, e a culpa é a alienação da família.
+- Deus ama o pecador, mas odeia o pecado.
+- Cobiçar uma esposa não poderia ser pecado – especialmente quando ele extraía um prazer tão óbvio disso.
