@@ -547,3 +547,21 @@
 - O pecado é a contradição desse propósito, e a culpa é a alienação da família.
 - Deus ama o pecador, mas odeia o pecado.
 - Cobiçar uma esposa não poderia ser pecado – especialmente quando ele extraía um prazer tão óbvio disso.
+
+---
+
+### Iridescent
+
+- The cream colored siding looked iridescent in the moonlight.
+- The happiest specimens of this glass almost rival the wings of butterflies in the brilliancy of their iridescent colours.
+- Most curious of all is the courtship of the males of some species of Salticidae, or jumping spiders, which are decorated with plumes or coloured stripes or iridescent patches.
+- But instead of a rim of darker blue surrounding her irises, they were rimmed by a thick band of iridescent silver.
+
+### Iridescente
+
+ - O revestimento de cor creme parecia iridescente ao luar.
+ - Os exemplares mais felizes deste vidro quase rivalizam com as asas das borboletas no brilho das suas cores iridescentes.
+ - O mais curioso de tudo é o cortejo dos machos de algumas espécies de Salticidae, ou aranhas saltadoras, que são decoradas com plumas ou listras coloridas ou manchas iridescentes.
+ - Mas em vez de uma borda azul mais escura envolvendo suas íris, elas eram cercadas por uma faixa grossa de prata iridescente.
+
+
