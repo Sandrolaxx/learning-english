@@ -564,4 +564,18 @@
  - O mais curioso de tudo é o cortejo dos machos de algumas espécies de Salticidae, ou aranhas saltadoras, que são decoradas com plumas ou listras coloridas ou manchas iridescentes.
  - Mas em vez de uma borda azul mais escura envolvendo suas íris, elas eram cercadas por uma faixa grossa de prata iridescente.
 
+---
 
+### Inchoate
+
+- Thenceforth, till James came to the throne of England, the history of Scotland was but a series of inchoate revolutions, intrigues that led to nothing definite and skirmishes in the war of kirk and state.
+- The " Reception " seemed to me rather inchoate not to say disorderly.
+- The lien remains inchoate until a breach of the charter occurs, when the lien becomes perfected.
+- The liability to contribute is inchoate only when the sacrifice has been made.
+
+### Incipiente
+
+ - Daí em diante, até James subir ao trono da Inglaterra, a história da Escócia foi apenas uma série de revoluções incipientes, intrigas que não levaram a nada definido e escaramuças na guerra de Kirk e de Estado.
+ - A “Recepção” me pareceu um tanto incipiente para não dizer desordenada.
+ - A garantia permanece incipiente até que ocorra uma violação do estatuto, quando a garantia se torna aperfeiçoada.
+ - A obrigação de contribuir é incipiente apenas quando o sacrifício é feito.
