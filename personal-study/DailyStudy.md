@@ -579,3 +579,19 @@
  - A “Recepção” me pareceu um tanto incipiente para não dizer desordenada.
  - A garantia permanece incipiente até que ocorra uma violação do estatuto, quando a garantia se torna aperfeiçoada.
  - A obrigação de contribuir é incipiente apenas quando o sacrifício é feito.
+
+---
+
+### Effervescent
+
+- Effervescent soda water is a mild gastric sedative.
+- When you add it to a glass of water, you get an effervescent drink.
+- These wines are effervescent, and they can range in flavor from very dry to very sweet.
+- It is an effervescent powder that mixes with water.
+
+# Efervescente
+
+ - A água com gás efervescente é um sedativo gástrico leve.
+ - Ao adicioná-lo a um copo de água, obtém-se uma bebida efervescente.
+ - Estes vinhos são efervescentes e podem variar em sabor, desde muito seco até muito doce.
+ - É um pó efervescente que se mistura com água.
