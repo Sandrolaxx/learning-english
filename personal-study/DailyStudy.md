@@ -595,3 +595,19 @@
  - Ao adicioná-lo a um copo de água, obtém-se uma bebida efervescente.
  - Estes vinhos são efervescentes e podem variar em sabor, desde muito seco até muito doce.
  - É um pó efervescente que se mistura com água.
+
+---
+
+# Hale
+
+- His old soldiers, once so hale and spruce, were little more than skeletons.
+- But Hale did not confine himself to law.
+- Anna was 90 in January and still hale last time I saw her.
+- You originally hale from the fine shores of Liverpool.
+
+# Saudável
+
+- Seus velhos soldados, outrora tão vigorosos e enfeitados, eram pouco mais que esqueletos.
+ - Mas Hale não se limitou à advocacia.
+ - Anna tinha 90 anos em janeiro e ainda estava saudável da última vez que a vi.
+ - Você veio originalmente da bela costa de Liverpool.
