@@ -611,3 +611,19 @@
  - Mas Hale não se limitou à advocacia.
  - Anna tinha 90 anos em janeiro e ainda estava saudável da última vez que a vi.
  - Você veio originalmente da bela costa de Liverpool.
+
+---
+
+# Incorporeal
+
+- All kinds of interests and property, whether corporeal, such as lands or buildings, or incorporeal, such as rights of common or of way, may be let.
+- The common law doctrine of a six months' notice being required to terminate a tenancy from year to year of a corporeal hereditament, does not apply to an incorporeal hereditament such as a right to shoot.
+- If incorporeal, he can neither act nor feel.
+- He further supposed that the monads are " incorporeal automata," not interacting like bodies, but each perceiving what was passing in the other, and acting in consequence by appetite, or self-acting.
+
+# Incorpóreo
+
+ - Podem ser arrendados todos os tipos de interesses e bens, sejam corpóreos, como terrenos ou edifícios, ou incorpóreos, como direitos de uso comum ou de passagem.
+ - A doutrina do direito consuetudinário de que é necessário um aviso prévio de seis meses para rescindir um arrendamento de ano para ano de uma herança corpórea, não se aplica a uma herança incorpórea, como o direito de atirar.
+ - Se incorpóreo, ele não pode agir nem sentir.
+ - Ele supôs ainda que as mônadas são “autômatos incorpóreos”, não interagindo como corpos, mas cada uma percebendo o que estava acontecendo na outra e agindo em consequência pelo apetite, ou auto-atuação.
