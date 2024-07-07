@@ -424,7 +424,7 @@
 
 ---
 
-### - 15/02 - Reinvigorate
+#### - 15/02 - Reinvigorate
 
 - To such work Benson at once devoted himself; and did more perhaps than any other man to reinvigorate cathedral life in England.
 - If used for this purpose, flirting can reinvigorate a marriage that has grown stale.
@@ -432,7 +432,7 @@
 - In some cases, the exposure can be damaging (at least temporarily), but for a celebrity whose star is fading, the publicity can reinvigorate their career or at least put their name in the news again.
 - Snoop Dogg is not a B-List celebrity hoping to reinvigorate his career with a reality series.
 
-### Revigorar
+#### Revigorar
 
 - A tal trabalho Benson dedicou-se imediatamente; e talvez tenha feito mais do que qualquer outro homem para revigorar a vida da catedral na Inglaterra.
 - Se usado para esse propósito, o flerte pode revigorar um casamento que se tornou obsoleto.
@@ -442,7 +442,7 @@
 
 ---
 
-### - 16/02 - Hermetic
+#### - 16/02 - Hermetic
 
 - A submarine is a hermetic environment where no water can enter and no air can escape.
 - A team of engineers specifically focused on ensuring the space shuttle was hermetic so that the passengers would stay safe.
@@ -460,7 +460,7 @@
 
 ---
 
-### - 17/02 - Poignant
+#### - 17/02 - Poignant
 
 - The moment was too poignant to be amusing.
 - It was one of many poignant moments.
@@ -468,7 +468,7 @@
 - Some of his most poignant and most enchanting letters were written during this romantic period of his life.
 - Old Man Adam's wise words have become very poignant indeed.
 
-### Comovente
+#### Comovente
 
 - O momento foi muito comovente para ser divertido.
  - Foi um dos muitos momentos comoventes.
@@ -478,7 +478,7 @@
 
 ---
 
-### - 18/02 - Forsaken
+#### - 18/02 - Forsaken
 
 - He squeezed her harder, and she opened her eyes, watching the forsaken book burn.
 - It was time for him to leave this god forsaken place.
@@ -486,7 +486,7 @@
 - My God, my God, why hast thou forsaken me?
 - A great darkness shrouded the scene for three hours, and then, in His native Aramaic, Jesus cried in the words of the Psalm, " My God, My God, why has Thou forsaken Me?"
 
-### Abandonado
+#### Abandonado
 
 - Ele a apertou com mais força, e ela abriu os olhos, vendo o livro abandonado queimar.
 - Já era hora dele deixar esse lugar abandonado por Deus.
@@ -504,7 +504,7 @@
 - Worm infections can precipitate other circulatory conditions, causing even more complications.
 - The yellow precipitate obtained is washed with a solution of potassium acetate and finally with dilute alcohol.
 
-### Precipitado
+#### Precipitado
 
 - O precipitado é lavado, recolhido e seco a calor muito moderado.
 - O sabão quando dissolvido em grande quantidade de água sofre hidrólise, com formação de um precipitado de sal ácido e uma solução contendo álcali livre.
@@ -514,7 +514,7 @@
 
 ---
 
-### 20/02 - Savior
+#### 20/02 - Savior
 
 - That does not mean when we accept Jesus as Savior and Lord we are then made perfect, no we are just forgiven.
 - We shall truly and sincerely repent and turn from our sin, thanking Jesus that He is our Savior.
@@ -522,7 +522,7 @@
 - We serve a risen savior, He's in this world today.
 - And, as a result, God sent a savior, Moses.
 
-### Salvador
+#### Salvador
 
 - Isso não significa que quando aceitamos Jesus como Salvador e Senhor, somos aperfeiçoados, não, somos apenas perdoados.
 - Devemos nos arrepender verdadeira e sinceramente e abandonar nossos pecados, agradecendo a Jesus por Ele ser nosso Salvador.
@@ -532,7 +532,7 @@
 
 ---
 
-### 21/02 - Sin
+#### 21/02 - Sin
 
 - His main sin appears to be his poor timing.
 - It is not a sin to want your child.
@@ -540,7 +540,7 @@
 - God loves the sinner, but hates the sin.
 - Ogling a spouse couldn't be a sin – especially when he derived such obvious pleasure from it.
 
-### Pecado
+#### Pecado
 
 - Seu principal pecado parece ser o mau timing.
 - Não é pecado querer seu filho.
@@ -550,14 +550,14 @@
 
 ---
 
-### Iridescent
+#### Iridescent
 
 - The cream colored siding looked iridescent in the moonlight.
 - The happiest specimens of this glass almost rival the wings of butterflies in the brilliancy of their iridescent colours.
 - Most curious of all is the courtship of the males of some species of Salticidae, or jumping spiders, which are decorated with plumes or coloured stripes or iridescent patches.
 - But instead of a rim of darker blue surrounding her irises, they were rimmed by a thick band of iridescent silver.
 
-### Iridescente
+#### Iridescente
 
  - O revestimento de cor creme parecia iridescente ao luar.
  - Os exemplares mais felizes deste vidro quase rivalizam com as asas das borboletas no brilho das suas cores iridescentes.
@@ -573,7 +573,7 @@
 - The lien remains inchoate until a breach of the charter occurs, when the lien becomes perfected.
 - The liability to contribute is inchoate only when the sacrifice has been made.
 
-### Incipiente
+#### Incipiente
 
  - Daí em diante, até James subir ao trono da Inglaterra, a história da Escócia foi apenas uma série de revoluções incipientes, intrigas que não levaram a nada definido e escaramuças na guerra de Kirk e de Estado.
  - A “Recepção” me pareceu um tanto incipiente para não dizer desordenada.
@@ -582,14 +582,14 @@
 
 ---
 
-### Effervescent
+#### Effervescent
 
 - Effervescent soda water is a mild gastric sedative.
 - When you add it to a glass of water, you get an effervescent drink.
 - These wines are effervescent, and they can range in flavor from very dry to very sweet.
 - It is an effervescent powder that mixes with water.
 
-# Efervescente
+#### Efervescente
 
  - A água com gás efervescente é um sedativo gástrico leve.
  - Ao adicioná-lo a um copo de água, obtém-se uma bebida efervescente.
@@ -598,14 +598,14 @@
 
 ---
 
-# Hale
+#### Hale
 
 - His old soldiers, once so hale and spruce, were little more than skeletons.
 - But Hale did not confine himself to law.
 - Anna was 90 in January and still hale last time I saw her.
 - You originally hale from the fine shores of Liverpool.
 
-# Saudável
+#### Saudável
 
 - Seus velhos soldados, outrora tão vigorosos e enfeitados, eram pouco mais que esqueletos.
  - Mas Hale não se limitou à advocacia.
@@ -614,16 +614,32 @@
 
 ---
 
-# Incorporeal
+#### Incorporeal
 
 - All kinds of interests and property, whether corporeal, such as lands or buildings, or incorporeal, such as rights of common or of way, may be let.
 - The common law doctrine of a six months' notice being required to terminate a tenancy from year to year of a corporeal hereditament, does not apply to an incorporeal hereditament such as a right to shoot.
 - If incorporeal, he can neither act nor feel.
 - He further supposed that the monads are " incorporeal automata," not interacting like bodies, but each perceiving what was passing in the other, and acting in consequence by appetite, or self-acting.
 
-# Incorpóreo
+#### Incorpóreo
 
  - Podem ser arrendados todos os tipos de interesses e bens, sejam corpóreos, como terrenos ou edifícios, ou incorpóreos, como direitos de uso comum ou de passagem.
  - A doutrina do direito consuetudinário de que é necessário um aviso prévio de seis meses para rescindir um arrendamento de ano para ano de uma herança corpórea, não se aplica a uma herança incorpórea, como o direito de atirar.
  - Se incorpóreo, ele não pode agir nem sentir.
  - Ele supôs ainda que as mônadas são “autômatos incorpóreos”, não interagindo como corpos, mas cada uma percebendo o que estava acontecendo na outra e agindo em consequência pelo apetite, ou auto-atuação.
+
+---
+
+#### Unctuous
+
+- Micaceous iron ore consists of delicate steel-grey scales of specular haematite, unctuous to the touch, used as a lubricant and also as a pigment.
+- A soft, unctuous form results on treating carbon with ash or silica in special furnaces, and this gives the so-called "deflocculated" variety when treated with gallotannic acid.
+- For garden purposes loam should be rather unctuous or soapy to the touch when moderately dry, not too clinging nor adhesive, and should readily crumble when a compressed handful is thrown on the ground.
+- Rather, there was a flinty, somewhat austere structure giving support and contrast to rich, unctuous fruit.
+
+#### Untuoso
+
+- O minério de ferro micáceo consiste em delicadas escamas cinza-aço de hematita especular, untuosas ao toque, utilizadas como lubrificante e também como pigmento.
+- Uma forma macia e untuosa resulta do tratamento do carbono com cinza ou sílica em fornos especiais, o que dá a variedade chamada "desfloculada" quando tratada com ácido galotânico.
+- Para fins de jardim, a argila deve ser bastante untuosa ou ensaboada ao toque quando moderadamente seca, não muito pegajosa nem adesiva, e deve esfarelar-se facilmente quando um punhado comprimido é jogado no chão.
+- Em vez disso, havia uma estrutura pedregosa e um tanto austera, dando suporte e contraste a frutas ricas e untuosas.
