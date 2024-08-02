@@ -643,3 +643,19 @@
 - Uma forma macia e untuosa resulta do tratamento do carbono com cinza ou sílica em fornos especiais, o que dá a variedade chamada "desfloculada" quando tratada com ácido galotânico.
 - Para fins de jardim, a argila deve ser bastante untuosa ou ensaboada ao toque quando moderadamente seca, não muito pegajosa nem adesiva, e deve esfarelar-se facilmente quando um punhado comprimido é jogado no chão.
 - Em vez disso, havia uma estrutura pedregosa e um tanto austera, dando suporte e contraste a frutas ricas e untuosas.
+
+---
+
+### Poignant
+
+- It was a poignant portrayal of the effects of a war that touched every aspect of society.
+- The moment was too poignant to be amusing.
+- It was one of many poignant moments.
+- Some of his most poignant and most enchanting letters were written during this romantic period of his life.
+
+### Pungente
+
+ - Foi um retrato comovente dos efeitos de uma guerra que tocou todos os aspectos da sociedade.
+ - O momento foi muito comovente para ser divertido.
+ - Foi um dos muitos momentos comoventes.
+ - Algumas de suas cartas mais comoventes e encantadoras foram escritas durante esse período romântico de sua vida.
