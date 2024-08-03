@@ -659,3 +659,19 @@
  - O momento foi muito comovente para ser divertido.
  - Foi um dos muitos momentos comoventes.
  - Algumas de suas cartas mais comoventes e encantadoras foram escritas durante esse período romântico de sua vida.
+
+---
+
+### Lively
+
+- The lively woman was fun to be around.
+- The prince stood still; his lively glittering eyes from under their thick, bushy eyebrows sternly scanned all present and rested on the little princess.
+- They imply a lively sense of radical human need.
+- It was his custom on all these trips to make little lively sketches of landscape and buildings.
+
+### Vivaz
+
+ - Era divertido estar perto da mulher animada.
+ - O príncipe ficou parado;  seus olhos vivos e brilhantes, sob as sobrancelhas grossas e espessas, examinaram severamente todos os presentes e pousaram na princesinha.
+ - Implicam um sentido vivo de necessidade humana radical.
+ - Era seu costume em todas essas viagens fazer pequenos esboços vivos de paisagens e edifícios.
