@@ -675,3 +675,19 @@
  - O príncipe ficou parado;  seus olhos vivos e brilhantes, sob as sobrancelhas grossas e espessas, examinaram severamente todos os presentes e pousaram na princesinha.
  - Implicam um sentido vivo de necessidade humana radical.
  - Era seu costume em todas essas viagens fazer pequenos esboços vivos de paisagens e edifícios.
+
+---
+
+# Malice
+
+- She recoiled inwardly at the malice in his eyes.
+- Actions done with malice have no good intention.
+- If a person commits a crime with malice, they did it on purpose.
+- Parents should never want their children to do bad things out of malice.
+
+# Malícia
+
+ - Ela recuou interiormente diante da malícia nos olhos dele.
+ - Ações praticadas com malícia não têm boa intenção.
+ - Se uma pessoa comete um crime com dolo, fez isso de propósito.
+ - Os pais nunca devem querer que seus filhos façam coisas ruins por maldade.
