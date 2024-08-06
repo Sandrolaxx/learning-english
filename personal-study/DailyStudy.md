@@ -678,16 +678,32 @@
 
 ---
 
-# Malice
+### Malice
 
 - She recoiled inwardly at the malice in his eyes.
 - Actions done with malice have no good intention.
 - If a person commits a crime with malice, they did it on purpose.
 - Parents should never want their children to do bad things out of malice.
 
-# Malícia
+### Malícia
 
  - Ela recuou interiormente diante da malícia nos olhos dele.
  - Ações praticadas com malícia não têm boa intenção.
  - Se uma pessoa comete um crime com dolo, fez isso de propósito.
  - Os pais nunca devem querer que seus filhos façam coisas ruins por maldade.
+
+---
+
+### Scant
+
+- Recent logic does scant justice to scientific analysis.
+- Continuous forest areas are scant.
+- The sands and clays found here are fine and soft, and as there is scant vegetation to protect the hillsides they are easily eroded by the rains.
+- Summer attire may best be described as scant.
+
+### Escasso
+
+ - A lógica recente faz pouca justiça à análise científica.
+ - As áreas florestais contínuas são escassas.
+ - As areias e argilas aqui encontradas são finas e fofas e, como há escassa vegetação para proteger as encostas, são facilmente erodidas pelas chuvas.
+ - O traje de verão pode ser descrito como escasso.
