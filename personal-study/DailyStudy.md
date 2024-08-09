@@ -707,3 +707,19 @@
  - As áreas florestais contínuas são escassas.
  - As areias e argilas aqui encontradas são finas e fofas e, como há escassa vegetação para proteger as encostas, são facilmente erodidas pelas chuvas.
  - O traje de verão pode ser descrito como escasso.
+
+---
+
+### Paradox
+
+- To abandon this certainty can leave us with a skeptical paradox that is genuinely depressing.
+- The position approaches to paradox and is not likely to be generally accepted.
+- The paradox of science is that its success in understanding nature has created problems for its understanding of human nature.
+- The paradox of individual freedom in an era of individual helplessness is a complicated issue.
+
+### Paradoxo
+
+ - Abandonar esta certeza pode deixar-nos num paradoxo cético que é verdadeiramente deprimente.
+ - A posição aproxima-se do paradoxo e não é provável que seja geralmente aceite.
+ - O paradoxo da ciência é que o seu sucesso na compreensão da natureza criou problemas para a sua compreensão da natureza humana.
+ - O paradoxo da liberdade individual numa era de desamparo individual é uma questão complicada.
