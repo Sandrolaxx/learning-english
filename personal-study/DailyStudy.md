@@ -723,3 +723,17 @@
  - A posição aproxima-se do paradoxo e não é provável que seja geralmente aceite.
  - O paradoxo da ciência é que o seu sucesso na compreensão da natureza criou problemas para a sua compreensão da natureza humana.
  - O paradoxo da liberdade individual numa era de desamparo individual é uma questão complicada.
+
+---
+
+### Munificent
+
+- He was a munificent patron of men of letters, who came in large numbers to his court.
+- Akbar was a munificent patron of literature.
+- Maharaja Lachhmeswar Singh Bahadur, who succeeded to the raj in 1860 and died in 1898, was distinguished for his public services, and especially as one of the most munificent of living philanthropists.
+
+### Munificent
+
+- He was a munificent patron of men of letters, who came in large numbers to his court.
+- Akbar was a munificent patron of literature.
+- Maharaja Lachhmeswar Singh Bahadur, who succeeded to the raj in 1860 and died in 1898, was distinguished for his public services, and especially as one of the most munificent of living philanthropists.
