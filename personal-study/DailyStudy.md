@@ -737,3 +737,19 @@
 - He was a munificent patron of men of letters, who came in large numbers to his court.
 - Akbar was a munificent patron of literature.
 - Maharaja Lachhmeswar Singh Bahadur, who succeeded to the raj in 1860 and died in 1898, was distinguished for his public services, and especially as one of the most munificent of living philanthropists.
+
+---
+
+### Ephemeral
+
+- New words are constantly being coined, some will prove ephemeral, others are here to stay.
+- The civic reaction was an example of the ephemeral nature of the public's interest.
+- He led an ephemeral electronic existence.
+- Concentrate on remembering the ephemeral moments which will be the most precious 20 years from now.
+
+### Efêmero
+
+ - Novas palavras são constantemente cunhadas, algumas serão efêmeras, outras vieram para ficar.
+ - A reacção cívica foi um exemplo da natureza efémera do interesse público.
+ - Ele levou uma existência eletrônica efêmera.
+ - Concentre-se em relembrar os momentos efêmeros que serão os mais preciosos daqui a 20 anos.
