@@ -753,3 +753,19 @@
  - A reacção cívica foi um exemplo da natureza efémera do interesse público.
  - Ele levou uma existência eletrônica efêmera.
  - Concentre-se em relembrar os momentos efêmeros que serão os mais preciosos daqui a 20 anos.
+
+---
+
+### Bombastic
+
+- This is a singular prose poem, in language sometimes rather bombastic but often beautiful.
+- He's not bombastic, just clear-headed and positive about the priorities which matter to him.
+- His most important poem is Wladystaus IV., King of Poland, in which he sings in a very bombastic strain the various expeditions of the Polish monarch.
+- This one, written for some reason in conjunction with a former colleague, is too bombastic just a tad.
+
+### Bombástico
+
+ - Este é um poema em prosa singular, numa linguagem por vezes bastante bombástica, mas muitas vezes bela.
+ - Ele não é bombástico, apenas lúcido e positivo sobre as prioridades que são importantes para ele.
+ - O seu poema mais importante é Wladystaus IV., Rei da Polónia, no qual canta com um tom muito bombástico as várias expedições do monarca polaco.
+ - Este, escrito por algum motivo em conjunto com um ex-colega, é um pouco bombástico demais.
