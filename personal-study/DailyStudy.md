@@ -769,3 +769,21 @@
  - Ele não é bombástico, apenas lúcido e positivo sobre as prioridades que são importantes para ele.
  - O seu poema mais importante é Wladystaus IV., Rei da Polónia, no qual canta com um tom muito bombástico as várias expedições do monarca polaco.
  - Este, escrito por algum motivo em conjunto com um ex-colega, é um pouco bombástico demais.
+
+---
+
+### Rueful
+
+- Daniel just looked at him with a rueful grin.
+- He gazed down into the river water, with what looked like a fond, rueful smile.
+- However, I think those pouring scorn on this notion will very soon come to feel a little rueful.
+- Visitors ' manager, Neville Powell was left looking very rueful after such a poor display from his underperforming team.
+- To round off the weekend 's matches, John Cannon sends a rueful comment from a Sussex viewpoint.
+
+### Arrependido
+
+ - Daniel apenas olhou para ele com um sorriso pesaroso.
+ - Ele olhou para a água do rio, com o que parecia ser um sorriso afetuoso e triste.
+ - No entanto, penso que aqueles que desprezam esta noção irão muito em breve sentir-se um pouco tristes.
+ - O técnico dos visitantes, Neville Powell, ficou muito triste depois de uma exibição tão ruim de seu time de baixo desempenho.
+ - Para encerrar as partidas do fim de semana, John Cannon envia um comentário triste do ponto de vista de Sussex.
