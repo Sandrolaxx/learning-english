@@ -787,3 +787,19 @@
  - No entanto, penso que aqueles que desprezam esta noção irão muito em breve sentir-se um pouco tristes.
  - O técnico dos visitantes, Neville Powell, ficou muito triste depois de uma exibição tão ruim de seu time de baixo desempenho.
  - Para encerrar as partidas do fim de semana, John Cannon envia um comentário triste do ponto de vista de Sussex.
+
+---
+
+### Charlatan
+
+- The king himself was indeed a semi-idiot, scarce responsible for his actions, yet his was the era of such striking personalities as the brilliant charlatan Struensee.
+- But the pupil soon found his teacher to be a charlatan, and taught himself, aided by commentaries, to master logic, geometry andastronomy.
+- The famous charlatan Cagliostro was also arrested, but it was recognized that he had taken no part in the affair.
+- A quack is one who pretends to knowledge of which he is ignorant, a charlatan, particularly a medical impostor.
+
+### Charlatão
+
+ - O próprio rei era de facto um semi-idiota, pouco responsável pelas suas ações, mas esta foi a era de personalidades marcantes como o brilhante charlatão Struensee.
+ - Mas o aluno logo descobriu que seu professor era um charlatão e aprendeu sozinho, auxiliado por comentários, a dominar a lógica, a geometria e a astronomia.
+ - O famoso charlatão Cagliostro também foi preso, mas foi reconhecido que não participou do caso.
+ - Charlatão é aquele que finge saber que ignora, um charlatão, principalmente um impostor médico.
