@@ -803,3 +803,19 @@
  - Mas o aluno logo descobriu que seu professor era um charlatão e aprendeu sozinho, auxiliado por comentários, a dominar a lógica, a geometria e a astronomia.
  - O famoso charlatão Cagliostro também foi preso, mas foi reconhecido que não participou do caso.
  - Charlatão é aquele que finge saber que ignora, um charlatão, principalmente um impostor médico.
+
+---
+
+### Gumption
+
+- I want to put a little gumption into what we do!
+- But I hope I'd have the gumption not to rationalize my actions by pretending I believed what I did was right.
+- He knew full well that they did not have the gumption to test anything.
+- Mix a little sincerity and gumption in your hard-line approach, and perhaps you'll get somewhere and not antagonize others.
+
+### Bom senso
+
+ - Quero colocar um pouco de coragem no que fazemos!
+ - Mas espero ter a coragem de não racionalizar minhas ações fingindo que acreditei que o que fiz foi certo.
+ - Ele sabia muito bem que eles não tinham coragem de testar nada.
+ - Misture um pouco de sinceridade e coragem em sua abordagem linha-dura e talvez você chegue a algum lugar e não antagonize os outros.
