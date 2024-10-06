@@ -819,3 +819,19 @@
  - Mas espero ter a coragem de não racionalizar minhas ações fingindo que acreditei que o que fiz foi certo.
  - Ele sabia muito bem que eles não tinham coragem de testar nada.
  - Misture um pouco de sinceridade e coragem em sua abordagem linha-dura e talvez você chegue a algum lugar e não antagonize os outros.
+
+---
+
+### Diabolical
+
+- In other words, they regarded Zeus, Aphrodite and the rest as real persons, diabolical not divine.
+- It not only divides states and churches, it divides families; ay, it divides the individual, separating the diabolical in him from the divine.
+- In the play she takes the role of narrator, recalling for a shocked 1972 congressional hearing the diabolical experiment.
+- Peter must use all the powers at his disposal to try to stop this diabolical madman in his octagonal tracks.
+
+### Diabólico
+
+ - Em outras palavras, eles consideravam Zeus, Afrodite e o resto como pessoas reais, diabólicas e não divinas.
+ - Não divide apenas estados e igrejas, divide famílias;  sim, divide o indivíduo, separando o diabólico nele do divino.
+ - Na peça ela assume o papel de narradora, relembrando para uma chocada audiência no Congresso de 1972 o experimento diabólico.
+ - Peter deve usar todos os poderes à sua disposição para tentar deter esse louco diabólico em suas trilhas octogonais.
