@@ -835,3 +835,17 @@
  - Não divide apenas estados e igrejas, divide famílias;  sim, divide o indivíduo, separando o diabólico nele do divino.
  - Na peça ela assume o papel de narradora, relembrando para uma chocada audiência no Congresso de 1972 o experimento diabólico.
  - Peter deve usar todos os poderes à sua disposição para tentar deter esse louco diabólico em suas trilhas octogonais.
+
+---
+
+### Irreverent
+
+- It was a sure sign he was forgiven for his irreverent try at changing the age-old ritual of greeting card purchasing.
+- Though it is the duty of a minister to warn against irreverent or profane participation in the Lord's Supper, he himself has no right to exclude any one from communion; that can only be done as the act of himself and the elders duly assembled in session.
+- Han Solo is the rakish, irreverent anti-hero you can't help but like.
+
+### Irreverente
+
+ - Foi um sinal claro de que ele foi perdoado por sua tentativa irreverente de mudar o antigo ritual de compra de cartões comemorativos.
+ - Embora seja dever do ministro alertar contra a participação irreverente ou profana na Ceia do Senhor, ele próprio não tem o direito de excluir ninguém da comunhão;  isso só pode ser feito como um ato dele e dos presbíteros devidamente reunidos em sessão.
+ - Han Solo é o anti-herói libertino e irreverente que você não pode deixar de gostar.
