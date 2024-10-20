@@ -849,3 +849,21 @@
  - Foi um sinal claro de que ele foi perdoado por sua tentativa irreverente de mudar o antigo ritual de compra de cartões comemorativos.
  - Embora seja dever do ministro alertar contra a participação irreverente ou profana na Ceia do Senhor, ele próprio não tem o direito de excluir ninguém da comunhão;  isso só pode ser feito como um ato dele e dos presbíteros devidamente reunidos em sessão.
  - Han Solo é o anti-herói libertino e irreverente que você não pode deixar de gostar.
+
+---
+
+### Prayer
+
+- His companion's prayer is forgotten.
+- After a brief prayer, she opened her eyes and glanced up.
+- I don't have a prayer of beating you.
+- He closed his eyes and said a prayer of thanks.
+- The Lord's prayer in signs is not the Lord's prayer in English.
+
+  ### Oração
+
+- A oração de sua companheira foi esquecida.
+- Após uma breve oração, ela abriu os olhos e olhou para cima.
+- Eu não tenho uma oração de te vencer.
+- Ele fechou os olhos e fez uma oração de agradecimento.
+- A oração do Senhor em sinais não é a oração do Senhor em inglês.
