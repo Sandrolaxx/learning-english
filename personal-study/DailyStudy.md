@@ -867,3 +867,21 @@
 - Eu não tenho uma oração de te vencer.
 - Ele fechou os olhos e fez uma oração de agradecimento.
 - A oração do Senhor em sinais não é a oração do Senhor em inglês.
+
+---
+
+### Indemnity
+
+- Members of the Senate and of the House of Commons receive an annual indemnity of $250o, with a travelling allowance.
+- The local market price will form the basis of the indemnity for the live stock and implements to be expropriated.
+- Etruria reverted to the French empire, but the Spanish princess and her son did not receive the promised indemnity.
+- Should a mine-owner, in the course of developing his mine, damage the mine of a neighbouring owner, he must pay him an agreed indemnity.
+- In order to assist the young kingdom of Bulgaria, which could only with great difficulty and with much damage to its resources have found means to indemnify Turkey for this serious breach of treaty engagements, the Russian government intervened, and proposed as compensation to the Turkish government the deferment for forty years of the annual payment (£T350,000) of the 1877 war indemnity.
+
+### Indenização
+
+- Membros do Senado e da Câmara dos Comuns recebem uma indenização anual de $ 250o, com um subsídio de viagem.
+- O preço de mercado local formará a base da indenização para o gado e implementos a serem expropriados.
+- A Etrúria voltou ao império francês, mas a princesa espanhola e seu filho não receberam a indenização prometida.
+- Se um proprietário de mina, no curso do desenvolvimento de sua mina, danificar a mina de um proprietário vizinho, ele deve pagar a ele uma indenização acordada.
+- Para ajudar o jovem reino da Bulgária, que só com grande dificuldade e com muitos danos aos seus recursos poderia ter encontrado meios de indenizar a Turquia por esta grave violação dos compromissos do tratado, o governo russo interveio e propôs como compensação ao governo turco o adiamento por quarenta anos do pagamento anual (£ T350.000) da indenização de guerra de 1877.
