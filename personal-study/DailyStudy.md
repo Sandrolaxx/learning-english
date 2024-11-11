@@ -885,3 +885,19 @@
 - A Etrúria voltou ao império francês, mas a princesa espanhola e seu filho não receberam a indenização prometida.
 - Se um proprietário de mina, no curso do desenvolvimento de sua mina, danificar a mina de um proprietário vizinho, ele deve pagar a ele uma indenização acordada.
 - Para ajudar o jovem reino da Bulgária, que só com grande dificuldade e com muitos danos aos seus recursos poderia ter encontrado meios de indenizar a Turquia por esta grave violação dos compromissos do tratado, o governo russo interveio e propôs como compensação ao governo turco o adiamento por quarenta anos do pagamento anual (£ T350.000) da indenização de guerra de 1877.
+
+---
+
+### Cognizance
+
+- To this commission may be referred the cognizance of particular matters.
+- Under his cognizance come questions of public order, health and elections to parliament.
+- The procedure of the courts which had cognizance of the matter was, however, by no means strict, and the judges and subordinate officials were often not ill-disposed towards Christians, so that evasion was fairly easy.
+- By the Central Criminal Court Act 1834, cognizance of crimes committed within the jurisdiction of the admiralty was given to the central criminal court.
+
+### Conhecimento
+
+- A esta comissão pode ser encaminhado o conhecimento de assuntos particulares.
+- Sob seu conhecimento vêm questões de ordem pública, saúde e eleições para o parlamento.
+- O procedimento dos tribunais que tinham conhecimento do assunto não era, no entanto, de forma alguma rigoroso, e os juízes e funcionários subordinados muitas vezes não eram mal-intencionados em relação aos cristãos, de modo que a evasão era bastante fácil.
+- Pelo Ato do Tribunal Criminal Central de 1834, o conhecimento de crimes cometidos dentro da jurisdição do almirantado foi dado ao tribunal criminal central.
