@@ -901,3 +901,19 @@
 - Sob seu conhecimento vêm questões de ordem pública, saúde e eleições para o parlamento.
 - O procedimento dos tribunais que tinham conhecimento do assunto não era, no entanto, de forma alguma rigoroso, e os juízes e funcionários subordinados muitas vezes não eram mal-intencionados em relação aos cristãos, de modo que a evasão era bastante fácil.
 - Pelo Ato do Tribunal Criminal Central de 1834, o conhecimento de crimes cometidos dentro da jurisdição do almirantado foi dado ao tribunal criminal central.
+
+---
+
+### Baleful
+
+- The former vamp's baleful look remained, but his eyes were blue, not red.
+- How far he was personally responsible for the Anglican Settlement, the Poor Laws, and the foreign policy of the reign, how far he was thwarted by the baleful influence of Leicester and the caprices of the queen, remains to a large extent a matter of conjecture.
+- Philip happened to become the most prominent and most formidable type of a danger which was already threatening Greece before his baleful star arose.
+- In Wales its counterpart was Gwyllgi, "the Dog of Darkness," a frightful apparition of a mastiff with baleful breath and blazing red eyes.
+
+### Maligno
+
+- O olhar maligno do antigo vampiro permaneceu, mas seus olhos eram azuis, não vermelhos.
+- Até que ponto ele foi pessoalmente responsável pelo Acordo Anglicano, pelas Leis dos Pobres e pela política externa do reinado, até que ponto ele foi frustrado pela influência maligna de Leicester e pelos caprichos da rainha, continua sendo, em grande parte, uma questão de conjectura.
+- Philip acabou se tornando o tipo mais proeminente e formidável de um perigo que já ameaçava a Grécia antes que sua estrela maligna surgisse.
+- No País de Gales, sua contraparte era Gwyllgi, "o Cão das Trevas", uma aparição assustadora de um mastim com hálito maligno e olhos vermelhos brilhantes.
