@@ -917,3 +917,21 @@
 - Até que ponto ele foi pessoalmente responsável pelo Acordo Anglicano, pelas Leis dos Pobres e pela política externa do reinado, até que ponto ele foi frustrado pela influência maligna de Leicester e pelos caprichos da rainha, continua sendo, em grande parte, uma questão de conjectura.
 - Philip acabou se tornando o tipo mais proeminente e formidável de um perigo que já ameaçava a Grécia antes que sua estrela maligna surgisse.
 - No País de Gales, sua contraparte era Gwyllgi, "o Cão das Trevas", uma aparição assustadora de um mastim com hálito maligno e olhos vermelhos brilhantes.
+
+---
+
+### Parsimonious
+
+- The latter imputation especially influenced Hisham, who was very parsimonious.
+- It is, however, a very parsimonious explanation of the results.
+- Can weighting help to choose among equally parsimonious solutions?
+- He is said to have been parsimonious, and certainly he was quicker to receive than to reciprocate hospitalities; but his mean establishment and mode of life are explained by the retired habits of his wife, and her dislike of company.
+- Wouldn't it be nice (perhaps even parsimonious) if our low level and high level accounts shared the same characteristics of computation?
+
+### Parcimonioso
+
+- A última imputação influenciou especialmente Hisham, que era muito parcimonioso.
+- É, no entanto, uma explicação muito parcimoniosa dos resultados.
+- A ponderação pode ajudar a escolher entre soluções igualmente parcimoniosas?
+- Dizem que ele era parcimonioso e certamente era mais rápido em receber do que em retribuir hospitalidades; mas seu estabelecimento e modo de vida mesquinhos são explicados pelos hábitos aposentados de sua esposa e sua aversão à companhia.
+- Não seria bom (talvez até parcimonioso) se nossas contas de baixo e alto nível compartilhassem as mesmas características de computação?
