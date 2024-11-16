@@ -935,3 +935,21 @@
 - A ponderação pode ajudar a escolher entre soluções igualmente parcimoniosas?
 - Dizem que ele era parcimonioso e certamente era mais rápido em receber do que em retribuir hospitalidades; mas seu estabelecimento e modo de vida mesquinhos são explicados pelos hábitos aposentados de sua esposa e sua aversão à companhia.
 - Não seria bom (talvez até parcimonioso) se nossas contas de baixo e alto nível compartilhassem as mesmas características de computação?
+
+---
+
+### Hermetic
+
+- A submarine is a hermetic environment where no water can enter and no air can escape.
+- A team of engineers specifically focused on ensuring the space shuttle was hermetic so that the passengers would stay safe.
+- We give below some of the more important hermetic axioms from The Kybalion with a few comments added to each.
+- Of these pseudepigraphic Hermetic writings some have come down to us in the original Greek; others survive in Latin or Arabic translations; but the majority appear to have perished.
+- More generally, the study is so short on context as to be almost hermetic.
+
+### Hermético
+
+- Um submarino é um ambiente hermético onde nenhuma água pode entrar e nenhum ar pode escapar.
+- Uma equipe de engenheiros focada especificamente em garantir que o ônibus espacial fosse hermético para que os passageiros ficassem seguros.
+- Damos abaixo alguns dos axiomas herméticos mais importantes do Caibalion com alguns comentários adicionados a cada um.
+- Destes escritos herméticos pseudoepigráficos, alguns chegaram até nós no grego original; outros sobrevivem em traduções latinas ou árabes; mas a maioria parece ter perecido.
+- De forma mais geral, o estudo é tão curto em contexto que é quase hermético.
