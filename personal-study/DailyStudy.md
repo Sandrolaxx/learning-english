@@ -953,3 +953,21 @@
 - Damos abaixo alguns dos axiomas herméticos mais importantes do Caibalion com alguns comentários adicionados a cada um.
 - Destes escritos herméticos pseudoepigráficos, alguns chegaram até nós no grego original; outros sobrevivem em traduções latinas ou árabes; mas a maioria parece ter perecido.
 - De forma mais geral, o estudo é tão curto em contexto que é quase hermético.
+
+---
+
+### Alacrity
+
+- She rose with alacrity and moved away.
+- With a bridegroom's fresh alacrity, let us address the issues at hand.
+- Having stripped off with great alacrity, Daniel got on the bed.
+- The minister had an alacrity of spirit that helped minimize the weight he carries.
+- Spain, which then was without a governor of consular rank, showed no alacrity.
+
+### Rapidez
+
+- Ela se levantou com rapidez e se afastou.
+- Com a rapidez fresca de um noivo, vamos abordar os problemas em questão.
+- Tendo se despido com grande rapidez, Daniel subiu na cama.
+- O ministro tinha uma rapidez de espírito que ajudou a minimizar o peso que ele carrega.
+- A Espanha, que então estava sem um governador de nível consular, não demonstrou rapidez.
