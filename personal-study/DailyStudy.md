@@ -971,3 +971,21 @@
 - Tendo se despido com grande rapidez, Daniel subiu na cama.
 - O ministro tinha uma rapidez de espírito que ajudou a minimizar o peso que ele carrega.
 - A Espanha, que então estava sem um governador de nível consular, não demonstrou rapidez.
+
+---
+
+### Formidable
+
+- He does have a formidable temper, you know.
+- Two formidable men stood on either side.
+- Josh was no stranger to a fistfight, and he was considered by many to be a formidable opponent.
+- The girls had a large amount of respect for their formidable grandfather.
+- Small children are even afraid to approach the thick, glass enclosure that surrounds the formidable lion.
+
+### Formidável
+
+- Ele tem um temperamento formidável, sabia?
+- Dois homens formidáveis ​​estavam de cada lado.
+- Josh não era estranho a brigas de socos, e era considerado por muitos um oponente formidável.
+- As meninas tinham muito respeito pelo formidável avô.
+- Crianças pequenas têm até medo de se aproximar do espesso cercado de vidro que cerca o formidável leão.
