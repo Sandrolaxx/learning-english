@@ -989,3 +989,19 @@
 - Josh não era estranho a brigas de socos, e era considerado por muitos um oponente formidável.
 - As meninas tinham muito respeito pelo formidável avô.
 - Crianças pequenas têm até medo de se aproximar do espesso cercado de vidro que cerca o formidável leão.
+
+---
+
+### Exuberant
+
+- His poems, novels and comedies are full of wit and exuberant vitality.
+- A rich and exuberant growth of the plants is a first essential of successful tea cultivation.
+- But we find no trace of the exuberant comic power and geniality of his great contemporary.
+- Fictional villians and heroes are often puffed up with exuberant hubris.
+
+### Exuberante
+
+ - Seus poemas, romances e comédias são cheios de humor e vitalidade exuberante.
+ - Um crescimento rico e exuberante das plantas é o primeiro elemento essencial para o sucesso do cultivo do chá.
+ - Mas não encontramos nenhum vestígio do exuberante poder cômico e da genialidade de seu grande contemporâneo.
+ - Vilões e heróis fictícios costumam ficar cheios de arrogância exuberante.
