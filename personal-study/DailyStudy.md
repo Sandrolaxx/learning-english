@@ -1005,3 +1005,21 @@
  - Um crescimento rico e exuberante das plantas é o primeiro elemento essencial para o sucesso do cultivo do chá.
  - Mas não encontramos nenhum vestígio do exuberante poder cômico e da genialidade de seu grande contemporâneo.
  - Vilões e heróis fictícios costumam ficar cheios de arrogância exuberante.
+
+---
+
+### Indolent
+
+- The natives were allowed to live the indolent life of the tropics.
+- Evidently Peter was determined to tear his son away from a life of indolent ease.
+- Being a rather indolent person, that suits me just fine.
+- He lacked neither ambition nor capacity, but was indolent and only exerted himself spasmodically.
+- They are uneducated, indolent and vicious.
+
+### Indolente
+
+- Os nativos tinham permissão para viver a vida indolente dos trópicos.
+- Evidentemente, Peter estava determinado a arrancar seu filho de uma vida de facilidade indolente.
+- Sendo uma pessoa um tanto indolente, isso me convém muito bem.
+- Ele não tinha ambição nem capacidade, mas era indolente e só se esforçava espasmodicamente.
+- Eles são incultos, indolentes e cruéis.
