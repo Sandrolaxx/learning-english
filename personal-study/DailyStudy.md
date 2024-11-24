@@ -1023,3 +1023,20 @@
 - Sendo uma pessoa um tanto indolente, isso me convém muito bem.
 - Ele não tinha ambição nem capacidade, mas era indolente e só se esforçava espasmodicamente.
 - Eles são incultos, indolentes e cruéis.
+
+---
+
+### Lacustrine
+
+- Lacustrine and fluviatile deposits occur intermingled with the above.
+- In the great lacustrine depression of Nicaragua is collected all the drainage from the eastern versant of the volcanic mountains, from the sheer western escarpment of the main cordillera, and from a large area of northern Costa Rica.
+- The Lacustrine period has not yet reached its close in Russia.
+- But the great lakes which covered the country during the Lacustrine period have disappeared, leaving behind them immense marshes like those of the Pripet and in the N.E.
+
+### Lacustre
+
+- Depósitos lacustres e fluviais ocorrem misturados com os acima.
+- Na grande depressão lacustre da Nicarágua é coletada toda a drenagem da versante oriental das montanhas vulcânicas, da escarpa ocidental da cordilheira principal e de uma grande área do norte da Costa Rica.
+- O período lacustre ainda não chegou ao fim na Rússia.
+- Mas os grandes lagos que cobriam o país durante o período lacustre desapareceram, deixando para trás imensos pântanos como os do Pripet e no N.E.
+  
