@@ -1039,4 +1039,19 @@
 - Na grande depressão lacustre da Nicarágua é coletada toda a drenagem da versante oriental das montanhas vulcânicas, da escarpa ocidental da cordilheira principal e de uma grande área do norte da Costa Rica.
 - O período lacustre ainda não chegou ao fim na Rússia.
 - Mas os grandes lagos que cobriam o país durante o período lacustre desapareceram, deixando para trás imensos pântanos como os do Pripet e no N.E.
-  
+
+---
+
+### Rakish
+
+- He caught her sharp intake of breath and gave her a rakish smile as she blushed.
+- Han Solo is the rakish, irreverent anti-hero you can't help but like.
+- However there were plenty of birds around Sierpe, which had a rather rakish charm.
+- More recently Mercedes returned to the rakish style with their sleek CLS.
+
+### Libertino
+
+ - Ele prendeu a respiração dela e deu-lhe um sorriso libertino enquanto ela corava.
+ - Han Solo é o anti-herói libertino e irreverente que você não pode deixar de gostar.
+ - No entanto, havia muitos pássaros ao redor de Sierpe, que tinham um encanto bastante libertino.
+ - Mais recentemente, a Mercedes voltou ao estilo descontraído com seu elegante CLS.
