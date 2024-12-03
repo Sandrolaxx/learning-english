@@ -1055,3 +1055,19 @@
  - Han Solo é o anti-herói libertino e irreverente que você não pode deixar de gostar.
  - No entanto, havia muitos pássaros ao redor de Sierpe, que tinham um encanto bastante libertino.
  - Mais recentemente, a Mercedes voltou ao estilo descontraído com seu elegante CLS.
+
+---
+
+### Noisome
+
+- How did the anatomists persuade their peers to condone, rather than condemn, the noisome business of dissection?
+- Until recently, computer games helped to soothe those old pains, rather like Clearasil on a particularly noisome spot.
+- Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.
+- The doctor and valet lifted the cloak with which he was covered and, making wry faces at the noisome smell of mortifying flesh that came from the wound, began examining that dreadful place.
+
+### Barulhento
+
+ - Como é que os anatomistas persuadiram os seus pares a tolerar, em vez de condenar, o nocivo negócio da dissecação?
+ - Até recentemente, os jogos de computador ajudavam a aliviar essas dores antigas, como o Clearasil num local particularmente nocivo.
+ - Certamente ele te livrará do laço do passarinheiro e da peste nociva.
+ - O médico e o criado levantaram a capa que o cobria e, fazendo caretas diante do cheiro nauseabundo de carne mortificante que emanava da ferida, começaram a examinar aquele lugar horrível.
