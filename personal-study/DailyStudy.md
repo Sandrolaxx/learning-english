@@ -1211,3 +1211,19 @@
  - Embrulhar o filé mignon com bacon é a maneira ideal de dar sabor à carne e ao mesmo tempo adicionar um pouco de gordura para ajudar a evitar que o bife resseque.
  - Os vestidos suéter são o epítome do sonho da Chanel de roupas que imbuam as mulheres com uma sensação de poder e liberdade.
  - A capacidade de criar avatares pessoais, para imbuí-los da personalidade do usuário, é algo que se tornou muito importante para o participante sério da sala de bate-papo.
+
+---
+
+### Redolent
+
+- The central part, however, with its winding narrow streets, is redolent of its historical past, when, as one of the leading cities of the Hanseatic League, it enjoyed commercial supremacy over all the towns of Westphalia.
+- He quickly entered the small reception room with its still-unplastered wooden walls redolent of pine, and would have gone farther, but Anton ran ahead on tiptoe and knocked at a door.
+- The the rest of the decor is also redolent of the late 1960s.
+- Is it then an extension of the Romantic movement, since it seems so redolent of nostalgia for the pre-modern?
+
+### Reminiscência
+
+- A parte central, no entanto, com suas ruas estreitas e sinuosas, é uma reminiscência de seu passado histórico, quando, como uma das principais cidades da Liga Hanseática, desfrutava da supremacia comercial sobre todas as cidades da Vestfália.
+- Ele entrou rapidamente na pequena sala de recepção com suas paredes de madeira ainda sem reboco, reminiscentes de pinho, e teria ido mais longe, mas Anton correu na ponta dos pés e bateu em uma porta.
+- O resto da decoração também é uma reminiscência do final dos anos 1960.
+- É então uma extensão do movimento romântico, já que parece tão reminiscente de nostalgia pelo pré-moderno?
