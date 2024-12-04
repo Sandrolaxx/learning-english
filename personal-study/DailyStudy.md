@@ -1071,3 +1071,19 @@
  - Até recentemente, os jogos de computador ajudavam a aliviar essas dores antigas, como o Clearasil num local particularmente nocivo.
  - Certamente ele te livrará do laço do passarinheiro e da peste nociva.
  - O médico e o criado levantaram a capa que o cobria e, fazendo caretas diante do cheiro nauseabundo de carne mortificante que emanava da ferida, começaram a examinar aquele lugar horrível.
+
+---
+
+### Inflorescence
+
+- Hardy bulbs of the garlic family, some species of which are ornamental; the inflorescence is umbellate.
+- Each podium consists of a portion of the stem bearing one or more leaves, each with an axillary bud or buds, and terminating in a tendril or an inflorescence.
+- The tendril or inflorescence, according to the views above explained, though in reality terminal, is bent to one side; hence it appears to be lateral and opposite to the leaf.
+- A flower dissected and gummed on the sheets will often retain the colour which it is impossible to preserve in a crowded inflorescence.
+
+### Inflorescência
+
+ - Bolbos resistentes da família do alho, alguns dos quais são ornamentais;  a inflorescência é umbelada.
+ - Cada pódio consiste em uma porção do caule contendo uma ou mais folhas, cada uma com uma ou mais gemas axilares, e terminando em uma gavinha ou inflorescência.
+ - A gavinha ou inflorescência, segundo as visões acima explicadas, embora na realidade terminal, é dobrada para um lado;  portanto, parece ser lateral e oposto à folha.
+ - Uma flor dissecada e colada nas folhas muitas vezes retém a cor que é impossível preservar numa inflorescência apinhada.
