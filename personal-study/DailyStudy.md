@@ -1087,3 +1087,19 @@
  - Cada pódio consiste em uma porção do caule contendo uma ou mais folhas, cada uma com uma ou mais gemas axilares, e terminando em uma gavinha ou inflorescência.
  - A gavinha ou inflorescência, segundo as visões acima explicadas, embora na realidade terminal, é dobrada para um lado;  portanto, parece ser lateral e oposto à folha.
  - Uma flor dissecada e colada nas folhas muitas vezes retém a cor que é impossível preservar numa inflorescência apinhada.
+
+---
+
+### Inchoate
+
+- Thenceforth, till James came to the throne of England, the history of Scotland was but a series of inchoate revolutions, intrigues that led to nothing definite and skirmishes in the war of kirk and state.
+- The " Reception " seemed to me rather inchoate not to say disorderly.
+- The lien remains inchoate until a breach of the charter occurs, when the lien becomes perfected.
+- The liability to contribute is inchoate only when the sacrifice has been made.
+
+### Incipiente
+
+- Daí em diante, até James chegar ao trono da Inglaterra, a história da Escócia foi apenas uma série de revoluções incipientes, intrigas que não levaram a nada definido e escaramuças na guerra de igreja e estado.
+- A "Recepção" me pareceu bastante incipiente para não dizer desordenada.
+- O vínculo permanece incipiente até que ocorra uma violação da carta, quando o vínculo se torna perfeito.
+- A responsabilidade de contribuir é incipiente somente quando o sacrifício foi feito.
