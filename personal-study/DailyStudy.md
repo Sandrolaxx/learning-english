@@ -1103,3 +1103,17 @@
 - A "Recepção" me pareceu bastante incipiente para não dizer desordenada.
 - O vínculo permanece incipiente até que ocorra uma violação da carta, quando o vínculo se torna perfeito.
 - A responsabilidade de contribuir é incipiente somente quando o sacrifício foi feito.
+
+### Taxonomy
+
+- A close encounter of the first kind, according to his taxonomy, is simply seeing a UFO.
+- References to works dealing with the taxonomy and geographical distribution of scorpions are given at the end of this article (28).
+- He stressed that no-one has produced a full taxonomy for a firm yet!
+- When trying to create a taxonomy of emoticons, the easiest method is to go with the categories of emotions that the instant message smileys are designed to convey.
+
+### Taxonomia
+
+ - Um encontro imediato do primeiro tipo, de acordo com a sua taxonomia, é simplesmente ver um OVNI.
+ - Referências a trabalhos que tratam da taxonomia e distribuição geográfica dos escorpiões são fornecidas no final deste artigo (28).
+ - Ele enfatizou que ainda ninguém produziu uma taxonomia completa para uma empresa!
+ - Ao tentar criar uma taxonomia de emoticons, o método mais fácil é seguir as categorias de emoções que os smileys de mensagens instantâneas foram projetados para transmitir.
