@@ -1117,3 +1117,19 @@
  - Referências a trabalhos que tratam da taxonomia e distribuição geográfica dos escorpiões são fornecidas no final deste artigo (28).
  - Ele enfatizou que ainda ninguém produziu uma taxonomia completa para uma empresa!
  - Ao tentar criar uma taxonomia de emoticons, o método mais fácil é seguir as categorias de emoções que os smileys de mensagens instantâneas foram projetados para transmitir.
+
+---
+
+### Pristine 
+
+- The biohazard elimination field was marked by pristine white fencing.
+- Perhaps it's not so pristine, like most of this tired city.
+- Andre snorted and motioned to the pristine white sofa.
+- It was pristine and white, rising out of the ground like a natural formation.
+
+### Imaculado 
+
+ - O campo de eliminação de risco biológico foi marcado por uma cerca branca imaculada.
+ - Talvez não seja tão imaculado como a maior parte desta cidade cansada.
+ - Andre bufou e apontou para o sofá branco imaculado.
+ - Era imaculado e branco, surgindo do solo como uma formação natural.
