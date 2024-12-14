@@ -1133,3 +1133,19 @@
  - Talvez não seja tão imaculado como a maior parte desta cidade cansada.
  - Andre bufou e apontou para o sofá branco imaculado.
  - Era imaculado e branco, surgindo do solo como uma formação natural.
+
+---
+
+### Congenial
+
+- Bees find a highly congenial habitat in Mexico, and some honey is exported.
+- At Strassburg began his intimacy with Caspar Schwenkfeld, a congenial spirit.
+- I remember especially the walks we all took together every day in Central Park, the only part of the city that was congenial to me.
+- The scene couldn't have looked more congenial.
+
+### Agradável
+
+ - As abelhas encontram um habitat altamente agradável no México e algum mel é exportado.
+ - Em Estrasburgo começou a sua intimidade com Caspar Schwenkfeld, um espírito simpático.
+ - Lembro-me principalmente dos passeios que todos fazíamos juntos todos os dias no Central Park, único lugar da cidade que me agradava.
+ - A cena não poderia ter parecido mais agradável.
