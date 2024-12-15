@@ -1149,3 +1149,19 @@
  - Em Estrasburgo começou a sua intimidade com Caspar Schwenkfeld, um espírito simpático.
  - Lembro-me principalmente dos passeios que todos fazíamos juntos todos os dias no Central Park, único lugar da cidade que me agradava.
  - A cena não poderia ter parecido mais agradável.
+
+### Myriad
+
+- A myriad of emotions flooded over Dean as Corday spoke.
+- I'll never be able to count the myriad blessings I have received.
+- The sparkling myriad lights of the city reminded me of my days in Paris.
+- Our house has been plagued with myriad insects this summer.
+- There are endless possibilities, thanks to the myriad styles available.
+
+### Miríade
+
+ - Uma miríade de emoções inundou Dean enquanto Corday falava.
+ - Nunca poderei contar as inúmeras bênçãos que recebi.
+ - As inúmeras luzes cintilantes da cidade me lembraram dos meus dias em Paris.
+ - Nossa casa foi infestada de inúmeros insetos neste verão.
+ - Existem infinitas possibilidades, graças à infinidade de estilos disponíveis.
