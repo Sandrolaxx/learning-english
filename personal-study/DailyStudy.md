@@ -1165,3 +1165,19 @@
  - As inúmeras luzes cintilantes da cidade me lembraram dos meus dias em Paris.
  - Nossa casa foi infestada de inúmeros insetos neste verão.
  - Existem infinitas possibilidades, graças à infinidade de estilos disponíveis.
+
+---
+
+### Rouse
+
+- When I sleep normally, it takes a lot more than that to rouse me.
+- Only when the moon was halfway across the sky did he rouse himself.
+- Natasha asked quickly in a whisper, afraid to move lest she should rouse the dozing baby.
+- For many years he made the aspects of life at sea his particular theme, and he contrived to rouse the patriotic enthusiasm of the Danish public as it had never been roused before.
+
+### Despertar
+
+ - Quando durmo normalmente, é preciso muito mais do que isso para me acordar.
+ - Somente quando a lua estava na metade do céu ele despertou.
+ - Natasha perguntou rapidamente em um sussurro, com medo de se mover para não acordar o bebê cochilando.
+ - Durante muitos anos ele fez dos aspectos da vida no mar o seu tema particular e conseguiu despertar o entusiasmo patriótico do público dinamarquês como nunca tinha sido despertado antes.
