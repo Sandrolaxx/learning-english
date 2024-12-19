@@ -1181,3 +1181,19 @@
  - Somente quando a lua estava na metade do céu ele despertou.
  - Natasha perguntou rapidamente em um sussurro, com medo de se mover para não acordar o bebê cochilando.
  - Durante muitos anos ele fez dos aspectos da vida no mar o seu tema particular e conseguiu despertar o entusiasmo patriótico do público dinamarquês como nunca tinha sido despertado antes.
+
+---
+
+### Dignatary
+
+- The highest county dignitary is the lord-lieutenant, the office dating from 1782.
+- The lord chief justice is, next to the lord chancellor, the highest judicial dignitary in the kingdom.
+- The master of the horse is the third dignitary of the court, and is always a member of the ministry (before 1782 the office was of cabinet rank), a peer and a privy councillor.
+- On returning from Tilsit to Paris he relieved Talleyrand of the ministry of foreign affairs, softening the fall by creating him a grand dignitary of the empire.
+
+### Dignatário
+
+ - O mais alto dignitário do condado é o senhor-tenente, cargo que data de 1782.
+ - O senhor presidente do tribunal é, depois do senhor chanceler, o mais alto dignitário judicial do reino.
+ - O dono do cavalo é o terceiro dignitário da corte, sendo sempre membro do ministério (antes de 1782 o cargo era de gabinete), par e conselheiro particular.
+ - Ao retornar de Tilsit para Paris, ele dispensou Talleyrand do ministério das relações exteriores, amenizando a queda ao torná-lo um grande dignitário do império.
