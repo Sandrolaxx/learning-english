@@ -1197,3 +1197,17 @@
  - O senhor presidente do tribunal é, depois do senhor chanceler, o mais alto dignitário judicial do reino.
  - O dono do cavalo é o terceiro dignitário da corte, sendo sempre membro do ministério (antes de 1782 o cargo era de gabinete), par e conselheiro particular.
  - Ao retornar de Tilsit para Paris, ele dispensou Talleyrand do ministério das relações exteriores, amenizando a queda ao torná-lo um grande dignitário do império.
+
+---
+
+### Imbue
+
+- Wrapping your filet mignon with bacon is an ideal way to imbue the meat with flavor while adding a little bit of fat to help prevent the steak from drying out.
+- Sweater dresses are the epitome of Chanel 's dream of clothes that imbue women with a sense of their own power and freedom.
+- The ability to create personal avatars, to imbue them with the user's personality, is something that has become quite important to the serious chat-room participant.
+
+### Imbuir
+
+ - Embrulhar o filé mignon com bacon é a maneira ideal de dar sabor à carne e ao mesmo tempo adicionar um pouco de gordura para ajudar a evitar que o bife resseque.
+ - Os vestidos suéter são o epítome do sonho da Chanel de roupas que imbuam as mulheres com uma sensação de poder e liberdade.
+ - A capacidade de criar avatares pessoais, para imbuí-los da personalidade do usuário, é algo que se tornou muito importante para o participante sério da sala de bate-papo.
