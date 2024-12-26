@@ -1227,3 +1227,19 @@
 - Ele entrou rapidamente na pequena sala de recepção com suas paredes de madeira ainda sem reboco, reminiscentes de pinho, e teria ido mais longe, mas Anton correu na ponta dos pés e bateu em uma porta.
 - O resto da decoração também é uma reminiscência do final dos anos 1960.
 - É então uma extensão do movimento romântico, já que parece tão reminiscente de nostalgia pelo pré-moderno?
+
+---
+
+### Wont
+
+- Having secretly become a Christian, Sebastian was wont to encourage those of his brethren who in the hour of trial seemed wavering in their profession.
+- The outside world was wont to regard him as a mystic; and the mystical, or sacramental, view of life enters, it is true, very largely into his teaching.
+- Vieta is wont to be called the father of modern algebra.
+- But that wont even compare with the thrill of running out on the Molineux turf wearing old gold and black.
+
+### Não vai
+
+ - Tendo se tornado cristão secretamente, Sebastião costumava encorajar aqueles de seus irmãos que na hora da prova pareciam hesitantes em sua profissão.
+ - O mundo exterior costumava considerá-lo um místico;  e a visão mística ou sacramental da vida entra, é verdade, em grande parte em seus ensinamentos.
+ - Vieta costuma ser chamado de pai da álgebra moderna.
+ - Mas isso nem se compara à emoção de correr no gramado de Molineux vestindo ouro velho e preto.
