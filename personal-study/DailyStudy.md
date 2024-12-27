@@ -1243,3 +1243,19 @@
  - O mundo exterior costumava considerá-lo um místico;  e a visão mística ou sacramental da vida entra, é verdade, em grande parte em seus ensinamentos.
  - Vieta costuma ser chamado de pai da álgebra moderna.
  - Mas isso nem se compara à emoção de correr no gramado de Molineux vestindo ouro velho e preto.
+
+---
+
+### Habitat
+
+- Vipera have the same habitat in British waters as certain species of soles.
+- Bees find a highly congenial habitat in Mexico, and some honey is exported.
+- Study a particular biome or habitat in depth.
+- Their natural habitat is from Argentina on north through Central America and into parts of Texas, New Mexico and Arizona.
+
+### Habitat
+
+ - As víboras têm o mesmo habitat nas águas britânicas que certas espécies de linguado.
+ - As abelhas encontram um habitat altamente agradável no México e algum mel é exportado.
+ - Estude em profundidade um determinado bioma ou habitat.
+ - Seu habitat natural vai da Argentina ao norte, passando pela América Central e em partes do Texas, Novo México e Arizona
