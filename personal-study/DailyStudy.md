@@ -1259,3 +1259,19 @@
  - As abelhas encontram um habitat altamente agradável no México e algum mel é exportado.
  - Estude em profundidade um determinado bioma ou habitat.
  - Seu habitat natural vai da Argentina ao norte, passando pela América Central e em partes do Texas, Novo México e Arizona
+
+---
+
+### Accolate
+
+- It was the biggest accolade in the industry.
+- The New York awards are the media industry's highest accolade.
+- Surely he now has earned the accolade "master."
+- Despite having won this industry accolade, I have absolutely no intention of resting on my laurels.
+
+### Agradecimento
+
+ - Foi o maior prêmio do setor.
+ - Os prémios de Nova Iorque são o maior galardão da indústria dos meios de comunicação social.
+ - Certamente ele agora ganhou o prêmio de “mestre”.
+ - Apesar de ter ganhado este prêmio da indústria, não tenho absolutamente nenhuma intenção de descansar sobre os louros.
