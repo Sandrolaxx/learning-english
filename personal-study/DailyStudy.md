@@ -1275,3 +1275,21 @@
  - Os prémios de Nova Iorque são o maior galardão da indústria dos meios de comunicação social.
  - Certamente ele agora ganhou o prêmio de “mestre”.
  - Apesar de ter ganhado este prêmio da indústria, não tenho absolutamente nenhuma intenção de descansar sobre os louros.
+
+---
+
+### Rumpus
+
+- There was a great rumpus downstairs this morning.
+- I think of family get togethers in the living room or rumpus room.
+- Well, consider the following penumbra of events that surround the current rumpus.
+- It also holds the key to why the current rumpus presages something far, far worse.
+- Previously Condoleezza Rice Crew in Sudan security rumpus Hey George, where you goin ' with that iPod in your hand?
+
+### Confusão
+
+ - Houve uma grande confusão lá embaixo esta manhã.
+ - Penso em reuniões de família na sala ou na sala de zaragata.
+ - Bem, considere a seguinte penumbra de eventos que cercam a atual confusão.
+ - Também contém a chave para a razão pela qual a actual confusão pressagia algo muito, muito pior.
+ - Anteriormente Condoleezza Rice Crew na confusão de segurança do Sudão Ei George, aonde você vai com esse iPod na mão?
