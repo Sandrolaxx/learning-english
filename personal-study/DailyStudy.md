@@ -1293,3 +1293,21 @@
  - Bem, considere a seguinte penumbra de eventos que cercam a atual confusão.
  - Também contém a chave para a razão pela qual a actual confusão pressagia algo muito, muito pior.
  - Anteriormente Condoleezza Rice Crew na confusão de segurança do Sudão Ei George, aonde você vai com esse iPod na mão?
+
+--- 
+
+### Surly
+
+- But his surly guest said scarcely a word.
+- The voice became surly.
+- On a previous visit I found him to be somewhat surly, but last night he was downright rude!
+- Smit was a surly fellow, and refused shelter to the traveler, who was therefore obliged to continue his journey during the night.
+- Hence comes the modern use of the word for a low-born or vulgar person, particularly one with an unpleasant, surly or miserly character.
+
+### Surpreendente
+
+ - Mas seu convidado mal-humorado mal disse uma palavra.
+ - A voz ficou ranzinza.
+ - Em uma visita anterior eu o achei um tanto grosseiro, mas ontem à noite ele foi totalmente rude!
+ - Smit era um sujeito mal-humorado e recusou abrigo ao viajante, que foi, portanto, obrigado a continuar sua viagem durante a noite.
+ - Daí vem o uso moderno da palavra para designar uma pessoa de origem humilde ou vulgar, especialmente aquela com um caráter desagradável, ranzinza ou mesquinho.
