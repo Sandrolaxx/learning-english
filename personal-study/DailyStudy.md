@@ -1311,3 +1311,19 @@
  - Em uma visita anterior eu o achei um tanto grosseiro, mas ontem à noite ele foi totalmente rude!
  - Smit era um sujeito mal-humorado e recusou abrigo ao viajante, que foi, portanto, obrigado a continuar sua viagem durante a noite.
  - Daí vem o uso moderno da palavra para designar uma pessoa de origem humilde ou vulgar, especialmente aquela com um caráter desagradável, ranzinza ou mesquinho.
+
+---
+
+### Roost
+
+- Parrots are gregarious and usually feed and roost in companies, but are at least temporarily monogamous.
+- Some of the larger wading birds had started to come into roost.
+- They are unable to fly till nearly two years old, and continue for a considerable time after taking wing to roost and hunt with their parents.
+- The access to the the roost is usually at or near the gable apex or the lower eaves.
+
+### Poleiro
+
+ - Os papagaios são gregários e geralmente se alimentam e empoleiram-se em companhias, mas são pelo menos temporariamente monogâmicos.
+ - Algumas das aves pernaltas maiores começaram a empoleirar-se.
+ - Eles são incapazes de voar até quase dois anos de idade e continuam por um tempo considerável depois de voar para poleiro e caçar com seus pais.
+ - O acesso ao poleiro é geralmente no ápice da empena ou próximo ao beiral.
