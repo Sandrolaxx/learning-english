@@ -1327,3 +1327,19 @@
  - Algumas das aves pernaltas maiores começaram a empoleirar-se.
  - Eles são incapazes de voar até quase dois anos de idade e continuam por um tempo considerável depois de voar para poleiro e caçar com seus pais.
  - O acesso ao poleiro é geralmente no ápice da empena ou próximo ao beiral.
+
+---
+
+### Affinity
+
+- Some people have a natural affinity with children.
+- You have an affinity for jumping off tall things.
+- Brady smiled, amused that Angel remembered his affinity for chocolate.
+- Embedded in the nucleus are one or more nucleoli (plasmosomes) having an affinity for the " acid dyes."
+
+### Afinidade
+
+ - Algumas pessoas têm uma afinidade natural com as crianças.
+ - Você tem afinidade em pular de coisas altas.
+ - Brady sorriu, divertido por Angel lembrar de sua afinidade por chocolate.
+ - Embutidos no núcleo estão um ou mais nucléolos (plasmossomos) com afinidade pelos “corantes ácidos”.
