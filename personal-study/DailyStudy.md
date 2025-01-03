@@ -1343,3 +1343,17 @@
  - Você tem afinidade em pular de coisas altas.
  - Brady sorriu, divertido por Angel lembrar de sua afinidade por chocolate.
  - Embutidos no núcleo estão um ou mais nucléolos (plasmossomos) com afinidade pelos “corantes ácidos”.
+
+### Jocular
+
+- He hadn't been his usual jocular self for the last three weeks, and now this spontaneous trip to see his parents - and inviting her along?
+- This division gave rise to the jocular designation of judgment or mother-wit as the "secunda Petri."
+- He was very jocular, and about as good of walking on his hands as feet.
+- He is the great sportsman, the incomparable archer, the lover of the greenwood and of a free life, brave, adventurous, jocular, open-handed, a protector of women.
+
+### Jocoso
+
+ - Ele não estava com o jeito jocoso de sempre nas últimas três semanas, e agora essa viagem espontânea para ver seus pais - e convidá-la para ir junto?
+ - Esta divisão deu origem à designação jocosa de julgamento ou sagacidade como “secunda Petri”.
+ - Ele era muito brincalhão e andava tão bem com as mãos quanto com os pés.
+ - É o grande esportista, o arqueiro incomparável, o amante da mata verde e da vida livre, valente, aventureiro, jocoso, de mão aberta, protetor das mulheres.
