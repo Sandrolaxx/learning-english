@@ -1357,3 +1357,21 @@
  - Esta divisão deu origem à designação jocosa de julgamento ou sagacidade como “secunda Petri”.
  - Ele era muito brincalhão e andava tão bem com as mãos quanto com os pés.
  - É o grande esportista, o arqueiro incomparável, o amante da mata verde e da vida livre, valente, aventureiro, jocoso, de mão aberta, protetor das mulheres.
+
+---
+
+### Convivial
+
+- This is especially fun to do over dinner or other convivial gathering.
+- The atmosphere is very convivial, " he said.
+- After an extremely convivial evening, the Thursday morning alarm call came early.
+- Several friends were already moored at Moret when I arrived, so Thursday night was particularly convivial.
+- Cabins are comfortable and spacious, and alfresco dining for all 48 passengers ensures that mealtimes are fresh and convivial.
+
+### Convívio
+
+- Isso é especialmente divertido de fazer durante o jantar ou outra reunião de convívio.
+- A atmosfera é muito agradável", ele disse.
+- Depois de uma noite extremamente agradável, o alarme da manhã de quinta-feira chegou cedo.
+- Vários amigos já estavam atracados em Moret quando cheguei, então a noite de quinta-feira foi particularmente agradável.
+- As cabines são confortáveis ​​e espaçosas, e o jantar ao ar livre para todos os 48 passageiros garante que as refeições sejam frescas e agradáveis.
