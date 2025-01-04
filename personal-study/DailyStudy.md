@@ -1375,3 +1375,21 @@
 - Depois de uma noite extremamente agradável, o alarme da manhã de quinta-feira chegou cedo.
 - Vários amigos já estavam atracados em Moret quando cheguei, então a noite de quinta-feira foi particularmente agradável.
 - As cabines são confortáveis ​​e espaçosas, e o jantar ao ar livre para todos os 48 passageiros garante que as refeições sejam frescas e agradáveis.
+
+---
+
+### Kitsch
+
+- The furniture is somewhat a little kitsch but everything is clean and you feel like you're in a little palace.
+- I'm not jealous of something I find looks kitsch, gimme a break!
+- Later artists parodied the excesses, producing religious kitsch loathsome to the austere Protestant ethic.
+- The other songs were selected by Barry and show various facets of typical 60s kitsch.
+- Antique, vintage, retro, kitsch, shabby chic, kitsch and collectible china, pottery and porcelain decorative pieces.
+
+### Brega
+
+- A mobília é um pouco brega, mas tudo é limpo e você se sente como se estivesse em um pequeno palácio.
+- Não tenho inveja de algo que acho brega, me dá um tempo!
+- Artistas posteriores parodiaram os excessos, produzindo um brega religioso repugnante à austera ética protestante.
+- As outras músicas foram selecionadas por Barry e mostram várias facetas do brega típico dos anos 60.
+- Peças decorativas antigas, vintage, retrô, brega, shabby chic, colecionáveis ​​de porcelana, cerâmica e porcelana.
