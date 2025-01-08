@@ -1393,3 +1393,17 @@
 - Artistas posteriores parodiaram os excessos, produzindo um brega religioso repugnante à austera ética protestante.
 - As outras músicas foram selecionadas por Barry e mostram várias facetas do brega típico dos anos 60.
 - Peças decorativas antigas, vintage, retrô, brega, shabby chic, colecionáveis ​​de porcelana, cerâmica e porcelana.
+
+---
+
+### Incorporeal
+
+- All kinds of interests and property, whether corporeal, such as lands or buildings, or incorporeal, such as rights of common or of way, may be let.
+- The common law doctrine of a six months' notice being required to terminate a tenancy from year to year of a corporeal hereditament, does not apply to an incorporeal hereditament such as a right to shoot.
+- But hallucinatory figures, both in dreams and waking life, are not necessarily those of the living; from the reappearance of dead friends or enemies primitive man was inevitably led to the belief that there existed an incorporeal part of man which survived the dissolution of the body.
+
+### Incorpóreo
+
+ - Podem ser arrendados todos os tipos de interesses e bens, sejam corpóreos, como terrenos ou edifícios, ou incorpóreos, como direitos de uso comum ou de passagem.
+ - A doutrina do direito consuetudinário de que é necessário um aviso prévio de seis meses para rescindir um arrendamento de ano para ano de uma herança corpórea, não se aplica a uma herança incorpórea, como o direito de atirar.
+ - Mas as figuras alucinatórias, tanto nos sonhos como na vida desperta, não são necessariamente as dos vivos;  do reaparecimento de amigos ou inimigos mortos, o homem primitivo foi inevitavelmente levado à crença de que existia uma parte incorpórea do homem que sobreviveu à dissolução do corpo.
