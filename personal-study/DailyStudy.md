@@ -1407,3 +1407,19 @@
  - Podem ser arrendados todos os tipos de interesses e bens, sejam corpóreos, como terrenos ou edifícios, ou incorpóreos, como direitos de uso comum ou de passagem.
  - A doutrina do direito consuetudinário de que é necessário um aviso prévio de seis meses para rescindir um arrendamento de ano para ano de uma herança corpórea, não se aplica a uma herança incorpórea, como o direito de atirar.
  - Mas as figuras alucinatórias, tanto nos sonhos como na vida desperta, não são necessariamente as dos vivos;  do reaparecimento de amigos ou inimigos mortos, o homem primitivo foi inevitavelmente levado à crença de que existia uma parte incorpórea do homem que sobreviveu à dissolução do corpo.
+
+---
+
+### Formidable
+
+- He does have a formidable temper, you know.
+- Two formidable men stood on either side.
+- Josh was no stranger to a fistfight, and he was considered by many to be a formidable opponent.
+- The girls had a large amount of respect for their formidable grandfather.
+
+### Formidável
+
+ - Ele tem um temperamento formidável, você sabe.
+ - Dois homens formidáveis estavam de cada lado.
+ - Josh conhecia bem as brigas e era considerado por muitos um oponente formidável.
+ - As meninas tinham muito respeito por seu formidável avô.
