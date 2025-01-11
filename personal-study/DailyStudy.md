@@ -1423,3 +1423,19 @@
  - Dois homens formidáveis estavam de cada lado.
  - Josh conhecia bem as brigas e era considerado por muitos um oponente formidável.
  - As meninas tinham muito respeito por seu formidável avô.
+
+---
+
+### Umbrage
+
+- He also took umbrage with the data the PCT were using to back their claims for change.
+- Dr. Tholuck had published some verses of a religious character, which had given umbrage to some sect or other.
+- However, in this case they certainly appear to have taken great umbrage at the statements made by Beverly twenty years earlier.
+- At length the intrigues of the Hawaiian embassy gave umbrage to the German government, and it was deemed prudent to recall it to Honolulu in July 1887.
+
+### Ofensa
+
+ - Ele também se ofendeu com os dados que o PCT estava a utilizar para apoiar as suas reivindicações de mudança.
+ - O Dr. Tholuck publicou alguns versos de caráter religioso, que ofenderam uma ou outra seita.
+ - No entanto, neste caso, eles certamente parecem ter ficado muito ofendidos com as declarações feitas por Beverly vinte anos antes.
+ - Por fim, as intrigas da embaixada havaiana ofenderam o governo alemão, e foi considerado prudente trazê-la de volta a Honolulu em julho de 1887.
