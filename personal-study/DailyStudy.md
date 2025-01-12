@@ -1439,3 +1439,19 @@
  - O Dr. Tholuck publicou alguns versos de caráter religioso, que ofenderam uma ou outra seita.
  - No entanto, neste caso, eles certamente parecem ter ficado muito ofendidos com as declarações feitas por Beverly vinte anos antes.
  - Por fim, as intrigas da embaixada havaiana ofenderam o governo alemão, e foi considerado prudente trazê-la de volta a Honolulu em julho de 1887.
+
+---
+
+### Yob
+
+- Yob behavior, which is predominantly fuelled by alcohol.
+- Home Affairs Prime Minister says parents are to blame for yob culture.
+- Voters find the peaceable kingdom in which they have lived for so long shattered by the brutal emergence of yob rule.
+- The Zam Zam Indian Takeaway has suffered a yob attack since our last visit.
+
+### Provocador
+
+ - Comportamento provocador, que é predominantemente alimentado pelo álcool.
+ - O primeiro-ministro dos Assuntos Internos diz que os pais são os culpados pela cultura desordeiros.
+ - Os eleitores descobrem que o reino pacífico em que viveram durante tanto tempo foi destruído pela emergência brutal do governo desordeiro.
+ - O Zam Zam Indian Takeaway sofreu um ataque desde a nossa última visita.
