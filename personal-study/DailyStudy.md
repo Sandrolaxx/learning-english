@@ -1455,3 +1455,19 @@
  - O primeiro-ministro dos Assuntos Internos diz que os pais são os culpados pela cultura desordeiros.
  - Os eleitores descobrem que o reino pacífico em que viveram durante tanto tempo foi destruído pela emergência brutal do governo desordeiro.
  - O Zam Zam Indian Takeaway sofreu um ataque desde a nossa última visita.
+
+---
+
+### Proclaim
+
+- Proclaim the pure and perfect life.
+- The government, therefore (Badeni having resigned), had to proclaim the necessary measures by imperial warrant.
+- On his departure from Norway in 1000, the king commissioned him to proclaim Christianity in Greenland.
+- Here in December 1880 a great meeting of Boers resolved again to proclaim the independence of the Transvaal.
+
+### Proclamar
+
+ - Proclamar a vida pura e perfeita.
+ - O governo, portanto (tendo Badeni renunciado), teve que proclamar as medidas necessárias por mandado imperial.
+ - Ao partir da Noruega em 1000, o rei o encarregou de proclamar o Cristianismo na Groenlândia.
+ - Aqui, em dezembro de 1880, uma grande reunião de bôeres resolveu novamente proclamar a independência do Transvaal.
