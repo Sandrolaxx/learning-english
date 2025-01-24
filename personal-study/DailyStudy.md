@@ -1471,3 +1471,19 @@
  - O governo, portanto (tendo Badeni renunciado), teve que proclamar as medidas necessárias por mandado imperial.
  - Ao partir da Noruega em 1000, o rei o encarregou de proclamar o Cristianismo na Groenlândia.
  - Aqui, em dezembro de 1880, uma grande reunião de bôeres resolveu novamente proclamar a independência do Transvaal.
+
+---
+
+### Panacea
+
+- He finds his panacea in the concrete life of humanity.
+- Imprisonment, albeit somewhat modified and diluted, continues to be used as the chief penalty and most trusted panacea for all crime.
+- It is the great panacea, a cure for all ills.
+- After years of incarceration the outside had become the panacea to all my ills.
+
+### Panacéia
+
+ - Ele encontra a sua panacéia na vida concreta da humanidade.
+ - A prisão, embora um pouco modificada e diluída, continua a ser utilizada como a principal pena e a panaceia mais confiável para todos os crimes.
+ - É a grande panacéia, a cura para todos os males.
+ - Depois de anos de encarceramento, o exterior tornou-se a panacéia para todos os meus males.
