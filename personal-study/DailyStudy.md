@@ -1487,3 +1487,17 @@
  - A prisão, embora um pouco modificada e diluída, continua a ser utilizada como a principal pena e a panaceia mais confiável para todos os crimes.
  - É a grande panacéia, a cura para todos os males.
  - Depois de anos de encarceramento, o exterior tornou-se a panacéia para todos os meus males.
+
+---
+
+### Trust
+
+- Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.
+- When I am afraid, I put my trust in you.
+- Commit to the Lord whatever you do, and he will establish your plans.
+
+### Confiar
+
+ - Confie no Senhor de todo o coração e não se apoie no seu próprio entendimento;  submeta-se a ele em todos os seus caminhos, e ele endireitará as suas veredas.
+ - Quando estou com medo, coloco minha confiança em você.
+ - Entregue ao Senhor tudo o que você faz, e ele estabelecerá os seus planos.
