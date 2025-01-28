@@ -1501,3 +1501,19 @@
  - Confie no Senhor de todo o coração e não se apoie no seu próprio entendimento;  submeta-se a ele em todos os seus caminhos, e ele endireitará as suas veredas.
  - Quando estou com medo, coloco minha confiança em você.
  - Entregue ao Senhor tudo o que você faz, e ele estabelecerá os seus planos.
+
+---
+
+### Savior
+
+- Today in the town of David a Savior has been born to you; he is the Messiah, the Lord.
+- When the children of Israel cried to Yahweh, Yahweh raised up a savior to the children of Israel, who saved them, even Othniel the son of Kenaz, Caleb's younger brother.
+- But I have been the Lord your God ever since you came out of Egypt. You shall acknowledge no God but me, no Savior except me.
+- Why am I so depressed? Why this turmoil within me? Put your hope in God, for I will still praise Him,my Savior and my God.
+
+### Salvador
+
+- Hoje, na cidade de Davi, um Salvador nasceu para vocês; ele é o Messias, o Senhor.
+- Quando os filhos de Israel clamaram a Javé, Javé levantou um salvador para os filhos de Israel, que os salvou, Otniel, filho de Quenaz, irmão mais novo de Calebe.
+- Mas eu tenho sido o Senhor, seu Deus, desde que vocês saíram do Egito. Vocês não reconhecerão nenhum Deus além de mim, nenhum Salvador além de mim.
+- Por que estou tão deprimido? Por que essa turbulência dentro de mim? Coloque sua esperança em Deus, pois eu ainda o louvarei, meu Salvador e meu Deus.
