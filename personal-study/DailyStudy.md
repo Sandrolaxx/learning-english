@@ -1517,3 +1517,17 @@
 - Quando os filhos de Israel clamaram a Javé, Javé levantou um salvador para os filhos de Israel, que os salvou, Otniel, filho de Quenaz, irmão mais novo de Calebe.
 - Mas eu tenho sido o Senhor, seu Deus, desde que vocês saíram do Egito. Vocês não reconhecerão nenhum Deus além de mim, nenhum Salvador além de mim.
 - Por que estou tão deprimido? Por que essa turbulência dentro de mim? Coloque sua esperança em Deus, pois eu ainda o louvarei, meu Salvador e meu Deus.
+
+---
+
+### Discouraged
+
+- Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.
+- The LORD himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.
+- God’s assurance of His continual presence and guidance encourages us not to be discouraged. Knowing that He will not abandon us provides a deep sense of security and peace.
+
+### Desanimado
+
+- Não te ordenei eu? Sê forte e corajoso. Não tenhas medo; não desanimes, porque o SENHOR teu Deus estará contigo por onde quer que andares.
+- O próprio SENHOR vai à tua frente e estará contigo; ele nunca te deixará nem te abandonará. Não tenhas medo; não desanimes.
+- A garantia de Deus da Sua presença e orientação contínuas encoraja-nos a não desanimar. Saber que Ele não nos abandonará proporciona uma profunda sensação de segurança e paz.
