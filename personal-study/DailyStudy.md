@@ -1531,3 +1531,21 @@
 - Não te ordenei eu? Sê forte e corajoso. Não tenhas medo; não desanimes, porque o SENHOR teu Deus estará contigo por onde quer que andares.
 - O próprio SENHOR vai à tua frente e estará contigo; ele nunca te deixará nem te abandonará. Não tenhas medo; não desanimes.
 - A garantia de Deus da Sua presença e orientação contínuas encoraja-nos a não desanimar. Saber que Ele não nos abandonará proporciona uma profunda sensação de segurança e paz.
+
+---
+
+### Pique
+
+- Personal pique accentuated this feeling in regard to Italy.
+- I wanted a name that would pique the curiosity of my perspective audience.
+- Fisher Price has been making durable toys that pique the imaginations of children everywhere for generations.
+- Another style that might pique your interest is the Enhancer Triangle in plum sequins.
+- Computer savvy girls want websites for girls that pique their interest, provide fun, and offer chances to explore online.
+
+### Irritar/ressentimento
+
+- O ressentimento pessoal acentuou esse sentimento em relação à Itália.
+- Eu queria um nome que despertasse a curiosidade do meu público em perspectiva.
+- A Fisher Price tem feito brinquedos duráveis ​​que despertam a imaginação de crianças em todos os lugares por gerações.
+- Outro estilo que pode despertar seu interesse é o Enhancer Triangle em lantejoulas ameixa.
+- Garotas experientes em informática querem sites para garotas que despertam seu interesse, proporcionam diversão e oferecem chances de explorar online.
