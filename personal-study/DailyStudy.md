@@ -1549,3 +1549,19 @@
 - A Fisher Price tem feito brinquedos duráveis ​​que despertam a imaginação de crianças em todos os lugares por gerações.
 - Outro estilo que pode despertar seu interesse é o Enhancer Triangle em lantejoulas ameixa.
 - Garotas experientes em informática querem sites para garotas que despertam seu interesse, proporcionam diversão e oferecem chances de explorar online.
+
+---
+
+### Miasma
+
+- The old theory of paludism or of a noxious miasma exhaled from the ground is no longer necessary.
+- The unhealthiness of the city is chiefly due to want of proper drainage, impure drinkingwater, miasma from the disturbed rubbish heaps, and contaminated dust from the uncleansed roads and streets.
+- When they are five or six they are driven into the public school to infect it with the moral miasma of their lairs.
+- The water must in ritual washings run off in order to carry away the miasma or unseen demon of disease; and accordingly in baptism the early Christians used living or running water.
+
+### miasma
+
+ - A velha teoria do paludismo ou de um miasma nocivo exalado do solo não é mais necessário.
+ - A não -saudável da cidade se deve principalmente à falta de drenagem adequada, água potável, miasma dos montes de lixo perturbados e poeira contaminada das estradas e ruas semjacadas.
+ - Quando têm cinco ou seis anos, são levados para a escola pública a infectá -la com o miasma moral de seus covis.
+ - A água deve nas lavagens rituais fugir para levar o miasma ou demônio invisível de doenças;  e, portanto, no batismo, os primeiros cristãos usavam água viva ou corrente.
