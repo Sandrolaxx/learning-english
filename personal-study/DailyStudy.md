@@ -1565,3 +1565,19 @@
  - A não -saudável da cidade se deve principalmente à falta de drenagem adequada, água potável, miasma dos montes de lixo perturbados e poeira contaminada das estradas e ruas semjacadas.
  - Quando têm cinco ou seis anos, são levados para a escola pública a infectá -la com o miasma moral de seus covis.
  - A água deve nas lavagens rituais fugir para levar o miasma ou demônio invisível de doenças;  e, portanto, no batismo, os primeiros cristãos usavam água viva ou corrente.
+
+---
+
+### Drupe
+
+- The coconut is actually the seed of the palm tree, but it is widely considered to be a drupe, a category of fruit.
+- The fruit is a kind of drupe, the fleshy husk of which is the dilated receptacular tube, while the two-valved stone represents the two carpels.
+- This causes some botanists to classify the coconut as a dry drupe.
+- To get specific, the fruit of the coconut palm is actually a drupe, which is a kind of fruit that has a fleshy outer layer and develops from the inside wall of a flower, called the ovary.
+
+### Drupa
+
+ - O coco é na verdade a semente da palmeira, mas é amplamente considerada uma drupa, uma categoria de frutas.
+ - A fruta é uma espécie de drupa, cuja casca carnuda é o tubo receptacular dilatado, enquanto a pedra de duas válvulas representa os dois carpelos.
+ - Isso faz com que alguns botânicos classifiquem o coco como uma drupa seca.
+ - Para ser específico, o fruto da palma do coco é na verdade uma drupa, que é um tipo de fruta que possui uma camada externa carnuda e se desenvolve a partir da parede interna de uma flor, chamada ovário.
