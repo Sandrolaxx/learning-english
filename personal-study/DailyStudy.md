@@ -1581,3 +1581,19 @@
  - A fruta é uma espécie de drupa, cuja casca carnuda é o tubo receptacular dilatado, enquanto a pedra de duas válvulas representa os dois carpelos.
  - Isso faz com que alguns botânicos classifiquem o coco como uma drupa seca.
  - Para ser específico, o fruto da palma do coco é na verdade uma drupa, que é um tipo de fruta que possui uma camada externa carnuda e se desenvolve a partir da parede interna de uma flor, chamada ovário.
+
+---
+
+### Tacit
+
+- He gave his tacit approval in letters to the media.
+- Dean was beginning to have serious reservations about the trip and his tacit agreement to it now that it was a real­ity.
+- He kept his tacit knowledge at a distance from the investigators.
+- For many years there was almost tacit agreement that what people needed where computers were involved was just more training.
+
+### Tácito
+
+ - Ele deu sua aprovação tácita nas cartas à mídia.
+ - Dean estava começando a ter sérias reservas sobre a viagem e seu acordo tácito agora que era uma realidade.
+ - Ele manteve seu conhecimento tácito à distância dos investigadores.
+ - Por muitos anos, havia quase um acordo tácito de que o que as pessoas precisavam onde os computadores estavam envolvidos era apenas mais treinamento.
