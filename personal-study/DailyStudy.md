@@ -1597,3 +1597,19 @@
  - Dean estava começando a ter sérias reservas sobre a viagem e seu acordo tácito agora que era uma realidade.
  - Ele manteve seu conhecimento tácito à distância dos investigadores.
  - Por muitos anos, havia quase um acordo tácito de que o que as pessoas precisavam onde os computadores estavam envolvidos era apenas mais treinamento.
+
+---
+
+### Apparition
+
+- Suddenly, a terrifying apparition appeared.
+- A ghostly apparition of a woman has been seen near the tracks in the evening.
+- In one example, a person enters a dark doorway, turns a corner and there's an apparition immediately approaching the camera.
+- Walk the decks between two and four o'clock in the morning and there's a good chance you'll see an apparition or two.
+
+### Aparição
+
+ - De repente, uma aparição aterrorizante apareceu.
+ - Uma aparição fantasmagórica de uma mulher foi vista perto dos trilhos à noite.
+ - Em um exemplo, uma pessoa entra em uma porta escura, vira uma esquina e há uma aparição imediatamente se aproximando da câmera.
+ - Caminhe os decks entre duas e quatro horas da manhã e há uma boa chance de você ver uma ou duas aparições.
