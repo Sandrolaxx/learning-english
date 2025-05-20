@@ -1393,3 +1393,223 @@
 - Artistas posteriores parodiaram os excessos, produzindo um brega religioso repugnante à austera ética protestante.
 - As outras músicas foram selecionadas por Barry e mostram várias facetas do brega típico dos anos 60.
 - Peças decorativas antigas, vintage, retrô, brega, shabby chic, colecionáveis ​​de porcelana, cerâmica e porcelana.
+
+---
+
+### Incorporeal
+
+- All kinds of interests and property, whether corporeal, such as lands or buildings, or incorporeal, such as rights of common or of way, may be let.
+- The common law doctrine of a six months' notice being required to terminate a tenancy from year to year of a corporeal hereditament, does not apply to an incorporeal hereditament such as a right to shoot.
+- But hallucinatory figures, both in dreams and waking life, are not necessarily those of the living; from the reappearance of dead friends or enemies primitive man was inevitably led to the belief that there existed an incorporeal part of man which survived the dissolution of the body.
+
+### Incorpóreo
+
+ - Podem ser arrendados todos os tipos de interesses e bens, sejam corpóreos, como terrenos ou edifícios, ou incorpóreos, como direitos de uso comum ou de passagem.
+ - A doutrina do direito consuetudinário de que é necessário um aviso prévio de seis meses para rescindir um arrendamento de ano para ano de uma herança corpórea, não se aplica a uma herança incorpórea, como o direito de atirar.
+ - Mas as figuras alucinatórias, tanto nos sonhos como na vida desperta, não são necessariamente as dos vivos;  do reaparecimento de amigos ou inimigos mortos, o homem primitivo foi inevitavelmente levado à crença de que existia uma parte incorpórea do homem que sobreviveu à dissolução do corpo.
+
+---
+
+### Formidable
+
+- He does have a formidable temper, you know.
+- Two formidable men stood on either side.
+- Josh was no stranger to a fistfight, and he was considered by many to be a formidable opponent.
+- The girls had a large amount of respect for their formidable grandfather.
+
+### Formidável
+
+ - Ele tem um temperamento formidável, você sabe.
+ - Dois homens formidáveis estavam de cada lado.
+ - Josh conhecia bem as brigas e era considerado por muitos um oponente formidável.
+ - As meninas tinham muito respeito por seu formidável avô.
+
+---
+
+### Umbrage
+
+- He also took umbrage with the data the PCT were using to back their claims for change.
+- Dr. Tholuck had published some verses of a religious character, which had given umbrage to some sect or other.
+- However, in this case they certainly appear to have taken great umbrage at the statements made by Beverly twenty years earlier.
+- At length the intrigues of the Hawaiian embassy gave umbrage to the German government, and it was deemed prudent to recall it to Honolulu in July 1887.
+
+### Ofensa
+
+ - Ele também se ofendeu com os dados que o PCT estava a utilizar para apoiar as suas reivindicações de mudança.
+ - O Dr. Tholuck publicou alguns versos de caráter religioso, que ofenderam uma ou outra seita.
+ - No entanto, neste caso, eles certamente parecem ter ficado muito ofendidos com as declarações feitas por Beverly vinte anos antes.
+ - Por fim, as intrigas da embaixada havaiana ofenderam o governo alemão, e foi considerado prudente trazê-la de volta a Honolulu em julho de 1887.
+
+---
+
+### Yob
+
+- Yob behavior, which is predominantly fuelled by alcohol.
+- Home Affairs Prime Minister says parents are to blame for yob culture.
+- Voters find the peaceable kingdom in which they have lived for so long shattered by the brutal emergence of yob rule.
+- The Zam Zam Indian Takeaway has suffered a yob attack since our last visit.
+
+### Provocador
+
+ - Comportamento provocador, que é predominantemente alimentado pelo álcool.
+ - O primeiro-ministro dos Assuntos Internos diz que os pais são os culpados pela cultura desordeiros.
+ - Os eleitores descobrem que o reino pacífico em que viveram durante tanto tempo foi destruído pela emergência brutal do governo desordeiro.
+ - O Zam Zam Indian Takeaway sofreu um ataque desde a nossa última visita.
+
+---
+
+### Proclaim
+
+- Proclaim the pure and perfect life.
+- The government, therefore (Badeni having resigned), had to proclaim the necessary measures by imperial warrant.
+- On his departure from Norway in 1000, the king commissioned him to proclaim Christianity in Greenland.
+- Here in December 1880 a great meeting of Boers resolved again to proclaim the independence of the Transvaal.
+
+### Proclamar
+
+ - Proclamar a vida pura e perfeita.
+ - O governo, portanto (tendo Badeni renunciado), teve que proclamar as medidas necessárias por mandado imperial.
+ - Ao partir da Noruega em 1000, o rei o encarregou de proclamar o Cristianismo na Groenlândia.
+ - Aqui, em dezembro de 1880, uma grande reunião de bôeres resolveu novamente proclamar a independência do Transvaal.
+
+---
+
+### Panacea
+
+- He finds his panacea in the concrete life of humanity.
+- Imprisonment, albeit somewhat modified and diluted, continues to be used as the chief penalty and most trusted panacea for all crime.
+- It is the great panacea, a cure for all ills.
+- After years of incarceration the outside had become the panacea to all my ills.
+
+### Panacéia
+
+ - Ele encontra a sua panacéia na vida concreta da humanidade.
+ - A prisão, embora um pouco modificada e diluída, continua a ser utilizada como a principal pena e a panaceia mais confiável para todos os crimes.
+ - É a grande panacéia, a cura para todos os males.
+ - Depois de anos de encarceramento, o exterior tornou-se a panacéia para todos os meus males.
+
+---
+
+### Trust
+
+- Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.
+- When I am afraid, I put my trust in you.
+- Commit to the Lord whatever you do, and he will establish your plans.
+
+### Confiar
+
+ - Confie no Senhor de todo o coração e não se apoie no seu próprio entendimento;  submeta-se a ele em todos os seus caminhos, e ele endireitará as suas veredas.
+ - Quando estou com medo, coloco minha confiança em você.
+ - Entregue ao Senhor tudo o que você faz, e ele estabelecerá os seus planos.
+
+---
+
+### Savior
+
+- Today in the town of David a Savior has been born to you; he is the Messiah, the Lord.
+- When the children of Israel cried to Yahweh, Yahweh raised up a savior to the children of Israel, who saved them, even Othniel the son of Kenaz, Caleb's younger brother.
+- But I have been the Lord your God ever since you came out of Egypt. You shall acknowledge no God but me, no Savior except me.
+- Why am I so depressed? Why this turmoil within me? Put your hope in God, for I will still praise Him,my Savior and my God.
+
+### Salvador
+
+- Hoje, na cidade de Davi, um Salvador nasceu para vocês; ele é o Messias, o Senhor.
+- Quando os filhos de Israel clamaram a Javé, Javé levantou um salvador para os filhos de Israel, que os salvou, Otniel, filho de Quenaz, irmão mais novo de Calebe.
+- Mas eu tenho sido o Senhor, seu Deus, desde que vocês saíram do Egito. Vocês não reconhecerão nenhum Deus além de mim, nenhum Salvador além de mim.
+- Por que estou tão deprimido? Por que essa turbulência dentro de mim? Coloque sua esperança em Deus, pois eu ainda o louvarei, meu Salvador e meu Deus.
+
+---
+
+### Discouraged
+
+- Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.
+- The LORD himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.
+- God’s assurance of His continual presence and guidance encourages us not to be discouraged. Knowing that He will not abandon us provides a deep sense of security and peace.
+
+### Desanimado
+
+- Não te ordenei eu? Sê forte e corajoso. Não tenhas medo; não desanimes, porque o SENHOR teu Deus estará contigo por onde quer que andares.
+- O próprio SENHOR vai à tua frente e estará contigo; ele nunca te deixará nem te abandonará. Não tenhas medo; não desanimes.
+- A garantia de Deus da Sua presença e orientação contínuas encoraja-nos a não desanimar. Saber que Ele não nos abandonará proporciona uma profunda sensação de segurança e paz.
+
+---
+
+### Pique
+
+- Personal pique accentuated this feeling in regard to Italy.
+- I wanted a name that would pique the curiosity of my perspective audience.
+- Fisher Price has been making durable toys that pique the imaginations of children everywhere for generations.
+- Another style that might pique your interest is the Enhancer Triangle in plum sequins.
+- Computer savvy girls want websites for girls that pique their interest, provide fun, and offer chances to explore online.
+
+### Irritar/ressentimento
+
+- O ressentimento pessoal acentuou esse sentimento em relação à Itália.
+- Eu queria um nome que despertasse a curiosidade do meu público em perspectiva.
+- A Fisher Price tem feito brinquedos duráveis ​​que despertam a imaginação de crianças em todos os lugares por gerações.
+- Outro estilo que pode despertar seu interesse é o Enhancer Triangle em lantejoulas ameixa.
+- Garotas experientes em informática querem sites para garotas que despertam seu interesse, proporcionam diversão e oferecem chances de explorar online.
+
+---
+
+### Miasma
+
+- The old theory of paludism or of a noxious miasma exhaled from the ground is no longer necessary.
+- The unhealthiness of the city is chiefly due to want of proper drainage, impure drinkingwater, miasma from the disturbed rubbish heaps, and contaminated dust from the uncleansed roads and streets.
+- When they are five or six they are driven into the public school to infect it with the moral miasma of their lairs.
+- The water must in ritual washings run off in order to carry away the miasma or unseen demon of disease; and accordingly in baptism the early Christians used living or running water.
+
+### miasma
+
+ - A velha teoria do paludismo ou de um miasma nocivo exalado do solo não é mais necessário.
+ - A não -saudável da cidade se deve principalmente à falta de drenagem adequada, água potável, miasma dos montes de lixo perturbados e poeira contaminada das estradas e ruas semjacadas.
+ - Quando têm cinco ou seis anos, são levados para a escola pública a infectá -la com o miasma moral de seus covis.
+ - A água deve nas lavagens rituais fugir para levar o miasma ou demônio invisível de doenças;  e, portanto, no batismo, os primeiros cristãos usavam água viva ou corrente.
+
+---
+
+### Drupe
+
+- The coconut is actually the seed of the palm tree, but it is widely considered to be a drupe, a category of fruit.
+- The fruit is a kind of drupe, the fleshy husk of which is the dilated receptacular tube, while the two-valved stone represents the two carpels.
+- This causes some botanists to classify the coconut as a dry drupe.
+- To get specific, the fruit of the coconut palm is actually a drupe, which is a kind of fruit that has a fleshy outer layer and develops from the inside wall of a flower, called the ovary.
+
+### Drupa
+
+ - O coco é na verdade a semente da palmeira, mas é amplamente considerada uma drupa, uma categoria de frutas.
+ - A fruta é uma espécie de drupa, cuja casca carnuda é o tubo receptacular dilatado, enquanto a pedra de duas válvulas representa os dois carpelos.
+ - Isso faz com que alguns botânicos classifiquem o coco como uma drupa seca.
+ - Para ser específico, o fruto da palma do coco é na verdade uma drupa, que é um tipo de fruta que possui uma camada externa carnuda e se desenvolve a partir da parede interna de uma flor, chamada ovário.
+
+---
+
+### Tacit
+
+- He gave his tacit approval in letters to the media.
+- Dean was beginning to have serious reservations about the trip and his tacit agreement to it now that it was a real­ity.
+- He kept his tacit knowledge at a distance from the investigators.
+- For many years there was almost tacit agreement that what people needed where computers were involved was just more training.
+
+### Tácito
+
+ - Ele deu sua aprovação tácita nas cartas à mídia.
+ - Dean estava começando a ter sérias reservas sobre a viagem e seu acordo tácito agora que era uma realidade.
+ - Ele manteve seu conhecimento tácito à distância dos investigadores.
+ - Por muitos anos, havia quase um acordo tácito de que o que as pessoas precisavam onde os computadores estavam envolvidos era apenas mais treinamento.
+
+---
+
+### Apparition
+
+- Suddenly, a terrifying apparition appeared.
+- A ghostly apparition of a woman has been seen near the tracks in the evening.
+- In one example, a person enters a dark doorway, turns a corner and there's an apparition immediately approaching the camera.
+- Walk the decks between two and four o'clock in the morning and there's a good chance you'll see an apparition or two.
+
+### Aparição
+
+ - De repente, uma aparição aterrorizante apareceu.
+ - Uma aparição fantasmagórica de uma mulher foi vista perto dos trilhos à noite.
+ - Em um exemplo, uma pessoa entra em uma porta escura, vira uma esquina e há uma aparição imediatamente se aproximando da câmera.
+ - Caminhe os decks entre duas e quatro horas da manhã e há uma boa chance de você ver uma ou duas aparições.
